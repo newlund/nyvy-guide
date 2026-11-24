@@ -9,9 +9,8 @@ alt: /en/support.html
 
 <p class="lead">Nyvo är gratis och utan reklam. Gillar du appen och vill bidra till fortsatt utveckling kan du bjuda på en kaffe. Tack!</p>
 
-<!-- PLACEHOLDER: replace the addresses below with the real Buy Me a Coffee and Ko-fi pages. -->
-<a class="button" href="https://buymeacoffee.com/PLACEHOLDER">☕ Buy Me a Coffee</a>
-<a class="button secondary" href="https://ko-fi.com/PLACEHOLDER">Ko-fi</a>
+<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<!-- Ko-fi: add when the page exists, e.g. <a class="button secondary" href="https://ko-fi.com/NAME">Ko-fi</a> -->
 
 Ett bidrag är frivilligt och ger inga extra funktioner. Nyvo fungerar likadant för alla.
 
