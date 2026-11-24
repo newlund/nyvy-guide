@@ -2,7 +2,6 @@
 layout: default
 title: Manual
 lang: en
-alt: /sv/manual.html
 ---
 
 # Manual

@@ -2,7 +2,6 @@
 layout: default
 title: Stöd Nyvo
 lang: sv
-alt: /en/support.html
 ---
 
 # Stöd Nyvo

@@ -2,7 +2,6 @@
 layout: default
 title: Help
 lang: en
-alt: /sv/
 ---
 
 # Nyvo help

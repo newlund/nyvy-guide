@@ -1,0 +1,106 @@
+# Per-language labels for the layout, in the app's order (alphabetical by the language's own name).
+# Page addresses: /<code>/manual.html, /<code>/<support>.html, /<code>/<privacy>.html
+da:
+  name: Dansk
+  manual: Vejledning
+  support: Støt Nyvo
+  privacy: Privatliv
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo indeholder ingen tv-kanaler, film eller serier. Du skal have dit eget abonnement hos en udbyder.
+de:
+  name: Deutsch
+  manual: Anleitung
+  support: Nyvo unterstützen
+  privacy: Datenschutz
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo enthält keine TV-Sender, Filme oder Serien. Du brauchst ein eigenes Abonnement bei einem Anbieter.
+en:
+  name: English
+  manual: Manual
+  support: Support Nyvo
+  privacy: Privacy
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo contains no TV channels, films or series. You need your own subscription with a provider.
+es:
+  name: Español
+  manual: Manual
+  support: Apoya a Nyvo
+  privacy: Privacidad
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo no incluye canales de TV, películas ni series. Necesitas tu propia suscripción con un proveedor.
+fr:
+  name: Français
+  manual: Manuel
+  support: Soutenir Nyvo
+  privacy: Confidentialité
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo ne contient aucune chaîne TV, aucun film ni aucune série. Tu as besoin de ton propre abonnement auprès d’un fournisseur.
+it:
+  name: Italiano
+  manual: Manuale
+  support: Sostieni Nyvo
+  privacy: Privacy
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo non contiene canali TV, film o serie. Ti serve un abbonamento personale con un fornitore.
+nl:
+  name: Nederlands
+  manual: Handleiding
+  support: Steun Nyvo
+  privacy: Privacy
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo bevat geen tv-zenders, films of series. Je hebt een eigen abonnement bij een aanbieder nodig.
+nb:
+  name: Norsk
+  manual: Brukerveiledning
+  support: Støtt Nyvo
+  privacy: Personvern
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo inneholder ingen TV-kanaler, filmer eller serier. Du trenger et eget abonnement hos en leverandør.
+pl:
+  name: Polski
+  manual: Instrukcja
+  support: Wesprzyj Nyvo
+  privacy: Prywatność
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo nie zawiera kanałów TV, filmów ani seriali. Potrzebujesz własnej subskrypcji u dostawcy.
+pt:
+  name: Português
+  manual: Manual
+  support: Apoie o Nyvo
+  privacy: Privacidade
+  support_page: support
+  privacy_page: privacy
+  footer: O Nyvo não contém canais de TV, filmes nem séries. Você precisa de uma assinatura própria com um provedor.
+fi:
+  name: Suomi
+  manual: Käyttöohje
+  support: Tue Nyvoa
+  privacy: Tietosuoja
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo ei sisällä TV-kanavia, elokuvia eikä sarjoja. Tarvitset oman tilauksen palveluntarjoajalta.
+sv:
+  name: Svenska
+  manual: Manual
+  support: Stöd Nyvo
+  privacy: Integritet
+  support_page: stod
+  privacy_page: integritet
+  footer: Nyvo innehåller inga TV-kanaler, filmer eller serier. Du behöver ett eget abonnemang hos en leverantör.
+tr:
+  name: Türkçe
+  manual: Kılavuz
+  support: Nyvo’yu destekle
+  privacy: Gizlilik
+  support_page: support
+  privacy_page: privacy
+  footer: Nyvo TV kanalı, film veya dizi içermez. Bir sağlayıcıda kendi aboneliğiniz olmalıdır.

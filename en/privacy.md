@@ -2,7 +2,6 @@
 layout: default
 title: Privacy
 lang: en
-alt: /sv/integritet.html
 ---
 
 # Privacy

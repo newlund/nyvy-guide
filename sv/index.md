@@ -2,7 +2,6 @@
 layout: default
 title: Hjälp
 lang: sv
-alt: /en/
 ---
 
 # Hjälp med Nyvo

@@ -1,0 +1,120 @@
+---
+layout: default
+title: Brukerveiledning
+lang: nb
+---
+
+# Brukerveiledning
+
+<p class="lead">Alt du trenger for å komme i gang med Nyvo og få mest mulig ut av appen.</p>
+
+**Innhold:** [Kom i gang](#getting-started) · [Fjernkontrollen](#remote) · [Direkte-TV](#live-tv) · [TV-guide og catch-up](#tv-guide) · [Filmer og serier](#films-series) · [Lyd og undertekster](#audio-subtitles) · [Søk, favoritter og sortering](#search) · [Innstillinger](#settings) · [Vanlige spørsmål](#faq)
+
+## Kom i gang {#getting-started}
+
+Nyvo inneholder ingen kanaler selv. Du trenger et abonnement hos en IPTV-leverandør og opplysningene du har fått fra dem.
+
+### Logg inn
+
+Første gang du starter Nyvo, velger du kontotype:
+
+| Kontotype | Dette fyller du inn | Dette får du |
+|---|---|---|
+| **Xtream Codes** | Serveradresse, brukernavn og passord | Direkte-TV, TV-guide, catch-up, filmer, serier og kontostatus |
+| **M3U-spilleliste** | Adressen til spillelisten, og ved behov adressen til TV-guiden | Direkte-TV med grupper, TV-guide, favoritter og søk |
+
+> Har du fått en «M3U-lenke» som inneholder `get.php?username=…&password=…`? Da er det egentlig en Xtream-konto. Nyvo kjenner det igjen og tilbyr å logge inn som Xtream i stedet, så får du også filmer og serier.
+
+Etter innloggingen henter Nyvo utvalget (kanaler, filmer og serier) og TV-guiden. Første gang kan det ta et minutt, deretter går det fort. Når du starter Nyvo, oppdateres utvalget og guiden automatisk hvis de er eldre enn 12 timer, og du kan alltid oppdatere selv under *Innstillinger → Konto*.
+
+## Fjernkontrollen {#remote}
+
+| Knapp | Gjør |
+|---|---|
+| Piler og OK | Flytte og velge |
+| Tilbake | Gå tilbake. I sidemenyen: avslutt Nyvo |
+| Rød | Legg til eller fjern favoritt |
+| Grønn | Sorter (i lister) · lyd og undertekster (når du ser på) |
+| Gul | Forrige kanal (direkte-TV i fullskjerm) |
+| CH+ / CH− | Bytt kanal · bla i lister |
+| Spill av/pause | Pause og fortsette |
+| Spol fram/tilbake | Hopp 60 sekunder |
+| Info | Vis informasjonslinjen (direkte-TV) |
+| Tall | Gå rett til et kanalnummer |
+
+Magic Remote fungerer også: pek for å markere, klikk for å velge og rull med hjulet.
+
+## Direkte-TV {#live-tv}
+
+- **Velg kanal:** til venstre er kategoriene, i midten kanalene med programmet som går. OK spiller kanalen i forhåndsvisningen, OK igjen gir fullskjerm.
+- **I fullskjerm:**
+  - Opp/ned eller CH+/CH− bytter kanal.
+  - OK åpner kanallisten.
+  - Venstre/høyre eller Info viser informasjonslinjen med nå og deretter, og knapper for Magic Remote.
+  - Tall går til et kanalnummer, og Gul tilbake til forrige kanal.
+  - Tilbake går ut av fullskjerm.
+
+## TV-guide og catch-up {#tv-guide}
+
+- **TV-guiden** viser programmene for alle kanaler i et rutenett med en linje for «nå». OK på et program som går, starter kanalen.
+- **Catch-up:** kanaler med ↺ har arkiv hos leverandøren. Der kan du bla bakover i guiden, starte et program som allerede er sendt, og spole i det.
+
+## Filmer og serier {#films-series}
+
+Filmer og serier finnes for Xtream-kontoer.
+
+- **Detaljsiden** viser handling, skuespillere, kvalitet (for eksempel 4K eller Dolby Vision) og knappene *Spill av*, *Fortsett* og *Favoritt*. Finnes filmen i flere versjoner, vises de som valg under knappene.
+- **Serier:** velg sesong og episode. Når en episode er slutt, starter neste etter en nedtelling.
+- **Når du ser på:**
+  - OK setter på pause.
+  - Venstre/høyre hopper 10 sekunder (hold inne for lengre hopp). Et forhåndsbilde viser hvor du havner, og OK hopper dit.
+  - Opp viser knappene på skjermen.
+  - Tilbake avslutter og husker hvor du var.
+
+## Lyd og undertekster {#audio-subtitles}
+
+- **Filmer og serier:** trykk ned eller Grønn for å velge lydspor, undertekster og versjon.
+- **Direkte-TV:** trykk Grønn for å slå sendingens undertekster av eller på og velge lydspor.
+- **Standardvalg:** under *Innstillinger → Generelt* velger du foretrukket lydspråk, om undertekster skal være på, første- og andrevalg for undertekstspråk, samt tekststørrelse og stil.
+
+## Søk, favoritter og sortering {#search}
+
+- **Søk:** skriv med tastaturet på skjermen eller med fjernkontrollens tall. Søket finner kanaler, filmer og serier og bryr seg ikke om aksenter (*malmo* finner *Malmö*).
+- **Favoritter:** trykk Rød på en kanal, film eller serie. Favorittene ligger først i hver liste og under *Favoritter* i menyen.
+- **Sortering:** knappen *Sortering* øverst i listene (eller Grønn). Kanaler kan sorteres etter nummer, kvalitet eller navn, og filmer og serier for eksempel etter nylig lagt til, år, vurdering eller kvalitet.
+
+## Innstillinger {#settings}
+
+- **Konto:**
+  - Viser opplysningene dine, når utvalget ble oppdatert, og knappen *Oppdater utvalget*.
+  - **Endre opplysninger:** ny serveradresse, nytt passord eller ny spilleliste. Favoritter og hvor du slapp beholdes så lenge det er samme konto.
+  - **Logg ut** fjerner kontoen og lagrede data fra TV-en.
+- **Generelt:** språk, tidsformat, lyd og undertekster.
+- **Foreldrekontroll:**
+  - Voksent innhold er skjult fra start.
+  - Med en firesifret PIN-kode kan du vise det, og låse eller skjule enkelte kategorier.
+  - Låste kategorier krever PIN-koden.
+- **Om:** versjon, hvilke formater TV-en din kan spille av, og lenken til denne siden.
+
+## Vanlige spørsmål {#faq}
+
+### «Kanalen sender ikke akkurat nå»
+Leverandørens sending er nede, eller kanalen sender bare under bestemte arrangementer. Prøv igjen senere eller velg en annen kanal. OK prøver på nytt.
+
+### «Leverandøren tillater ikke flere tilkoblinger akkurat nå»
+Mange abonnementer tillater bare én strøm om gangen. Lukk appen på andre enheter som bruker samme konto, vent litt og prøv igjen.
+
+### «Leverandøren svarer ikke»
+Sjekk TV-ens internettilkobling. Fungerer den, ligger feilen trolig hos leverandøren.
+
+### En film har ikke lyd
+Filmen har trolig bare lyd i DTS eller Dolby TrueHD, som LG-TV ikke kan spille av i apper. Velg et annet lydspor eller en annen versjon av filmen hvis det finnes.
+
+### TV-guiden er tom (M3U)
+Ikke alle spillelister oppgir en TV-guide. Spør leverandøren om adressen til en XMLTV-guide og fyll den inn under *Innstillinger → Konto → Endre opplysninger*.
+
+### Jeg ser ikke filmer og serier (M3U)
+Spillelister gir bare direkte-TV i Nyvo. Har du en Xtream-konto, logg inn med den for å få filmer og serier.
+
+### Hvordan avslutter jeg Nyvo?
+Trykk Tilbake til sidemenyen er markert, trykk Tilbake igjen og velg *Avslutt*.

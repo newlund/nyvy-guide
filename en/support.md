@@ -2,7 +2,6 @@
 layout: default
 title: Support Nyvo
 lang: en
-alt: /sv/stod.html
 ---
 
 # Support Nyvo
