@@ -10,7 +10,6 @@ alt: /en/support.html
 <p class="lead">Nyvo är gratis och utan reklam. Gillar du appen och vill bidra till fortsatt utveckling kan du bjuda på en kaffe. Tack!</p>
 
 <a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
-<!-- Ko-fi: add when the page exists, e.g. <a class="button secondary" href="https://ko-fi.com/NAME">Ko-fi</a> -->
 
 Ett bidrag är frivilligt och ger inga extra funktioner. Nyvo fungerar likadant för alla.
 
