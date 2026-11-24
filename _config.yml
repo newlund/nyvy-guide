@@ -1,0 +1,12 @@
+title: Nyvo
+description: IPTV-spelare för LG webOS-TV · IPTV player for LG webOS TVs
+url: https://newlund.github.io
+baseurl: /nyvo-guide
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+exclude:
+  - README.md
+  - preview.mjs
+  - _preview
