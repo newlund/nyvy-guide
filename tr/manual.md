@@ -27,6 +27,8 @@ Nyvy’yi ilk kez başlattığınızda hesap türünü seçin:
 
 Oturum açtıktan sonra Nyvy kataloğu (kanallar, filmler ve diziler) ve TV rehberini indirir. İlk seferde bir dakika sürebilir, sonra hızlıdır. Nyvy’yi başlattığınızda katalog ve rehber 12 saatten eskiyse otomatik olarak güncellenir; dilediğiniz zaman *Ayarlar → Hesap* bölümünden kendiniz de güncelleyebilirsiniz.
 
+Önce etrafa bakmak mı istiyorsunuz? *Şimdilik atla*’yı seçin. Sağlayıcınızı daha sonra *Ayarlar → Hesap → Sağlayıcı ekle* bölümünden ekleyebilirsiniz.
+
 ## Kumanda {#remote}
 
 | Tuş | İşlev |
@@ -81,7 +83,7 @@ Filmler ve diziler Xtream hesaplarında bulunur.
 
 - **Arama:** ekran klavyesiyle veya kumandanın rakamlarıyla yazın. Arama kanalları, filmleri ve dizileri bulur ve aksanları dikkate almaz (*malmo*, *Malmö*’yü bulur).
 - **Favoriler:** bir kanal, film veya dizide Kırmızı tuşuna basın. Favoriler her listede ilk sırada ve menüdeki *Favoriler* bölümünde görünür.
-- **Sıralama:** listelerin üstündeki *Sıralama* düğmesi (veya Yeşil). Kanallar numaraya, kaliteye veya ada göre, filmler ve diziler örneğin son eklenenlere, yıla, puana veya kaliteye göre sıralanabilir.
+- **Sıralama:** listelerin üstündeki *Sıralama* düğmesi (veya Yeşil). Kanallar numaraya, kaliteye veya ada göre, filmler ve diziler örneğin son eklenenlere, yıla, puana veya kaliteye göre sıralanabilir. Diziler ayrıca bölüm süresine göre de sıralanabilir.
 
 ## Ayarlar {#settings}
 

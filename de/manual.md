@@ -27,6 +27,8 @@ Beim ersten Start wählst du den Kontotyp:
 
 Nach der Anmeldung lädt Nyvy das Angebot (Sender, Filme und Serien) und das TV-Programm. Beim ersten Mal kann das eine Minute dauern, danach geht es schnell. Beim Start von Nyvy werden Angebot und TV-Programm automatisch aktualisiert, wenn sie älter als 12 Stunden sind. Du kannst sie jederzeit selbst unter *Einstellungen → Konto* aktualisieren.
 
+Möchtest du dich erst umsehen? Wähle *Überspringen*. Deinen Anbieter kannst du später unter *Einstellungen → Konto → Anbieter hinzufügen* eintragen.
+
 ## Fernbedienung {#remote}
 
 | Taste | Funktion |
@@ -81,7 +83,7 @@ Filme und Serien gibt es bei Xtream-Konten.
 
 - **Suche:** mit der Bildschirmtastatur oder den Ziffern der Fernbedienung tippen. Die Suche findet Sender, Filme und Serien und ignoriert Akzente (*malmo* findet *Malmö*).
 - **Favoriten:** Rot auf einem Sender, Film oder einer Serie drücken. Favoriten stehen in jeder Liste ganz oben und unter *Favoriten* im Menü.
-- **Sortierung:** die Taste *Sortierung* oben in den Listen (oder Grün). Sender lassen sich nach Nummer, Qualität oder Name sortieren, Filme und Serien zum Beispiel nach zuletzt hinzugefügt, Jahr, Bewertung oder Qualität.
+- **Sortierung:** die Taste *Sortierung* oben in den Listen (oder Grün). Sender lassen sich nach Nummer, Qualität oder Name sortieren, Filme und Serien zum Beispiel nach zuletzt hinzugefügt, Jahr, Bewertung oder Qualität. Serien lassen sich außerdem nach der Länge der Folgen sortieren.
 
 ## Einstellungen {#settings}
 

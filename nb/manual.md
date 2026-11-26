@@ -27,6 +27,8 @@ Første gang du starter Nyvy, velger du kontotype:
 
 Etter innloggingen henter Nyvy utvalget (kanaler, filmer og serier) og TV-guiden. Første gang kan det ta et minutt, deretter går det fort. Når du starter Nyvy, oppdateres utvalget og guiden automatisk hvis de er eldre enn 12 timer, og du kan alltid oppdatere selv under *Innstillinger → Konto*.
 
+Vil du se deg rundt først? Velg *Hopp over*. Du kan legge til leverandøren senere under *Innstillinger → Konto → Legg til leverandør*.
+
 ## Fjernkontrollen {#remote}
 
 | Knapp | Gjør |
@@ -81,7 +83,7 @@ Filmer og serier finnes for Xtream-kontoer.
 
 - **Søk:** skriv med tastaturet på skjermen eller med fjernkontrollens tall. Søket finner kanaler, filmer og serier og bryr seg ikke om aksenter (*malmo* finner *Malmö*).
 - **Favoritter:** trykk Rød på en kanal, film eller serie. Favorittene ligger først i hver liste og under *Favoritter* i menyen.
-- **Sortering:** knappen *Sortering* øverst i listene (eller Grønn). Kanaler kan sorteres etter nummer, kvalitet eller navn, og filmer og serier for eksempel etter nylig lagt til, år, vurdering eller kvalitet.
+- **Sortering:** knappen *Sortering* øverst i listene (eller Grønn). Kanaler kan sorteres etter nummer, kvalitet eller navn, og filmer og serier for eksempel etter nylig lagt til, år, vurdering eller kvalitet. Serier kan også sorteres etter episodenes lengde.
 
 ## Innstillinger {#settings}
 

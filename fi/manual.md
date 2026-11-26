@@ -27,6 +27,8 @@ Kun käynnistät Nyvyn ensimmäisen kerran, valitse tilin tyyppi:
 
 Kirjautumisen jälkeen Nyvy lataa valikoiman (kanavat, elokuvat ja sarjat) ja TV-oppaan. Ensimmäisellä kerralla se voi kestää minuutin, sen jälkeen se on nopeaa. Kun käynnistät Nyvyn, valikoima ja opas päivittyvät automaattisesti, jos ne ovat yli 12 tuntia vanhoja, ja voit aina päivittää ne itse kohdassa *Asetukset → Tili*.
 
+Haluatko ensin katsella ympärillesi? Valitse *Ohita toistaiseksi*. Voit lisätä palveluntarjoajan myöhemmin kohdassa *Asetukset → Tili → Lisää palveluntarjoaja*.
+
 ## Kaukosäädin {#remote}
 
 | Painike | Toiminto |
@@ -81,7 +83,7 @@ Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
 
 - **Haku:** kirjoita näytön näppäimistöllä tai kaukosäätimen numeroilla. Haku löytää kanavat, elokuvat ja sarjat eikä välitä aksenteista (*malmo* löytää *Malmö*).
 - **Suosikit:** paina Punaista kanavan, elokuvan tai sarjan kohdalla. Suosikit ovat ensimmäisinä jokaisessa listassa ja kohdassa *Suosikit* valikossa.
-- **Järjestys:** painike *Järjestys* listojen yläosassa (tai Vihreä). Kanavat voi järjestää numeron, laadun tai nimen mukaan, elokuvat ja sarjat esimerkiksi viimeksi lisättyjen, vuoden, arvion tai laadun mukaan.
+- **Järjestys:** painike *Järjestys* listojen yläosassa (tai Vihreä). Kanavat voi järjestää numeron, laadun tai nimen mukaan, elokuvat ja sarjat esimerkiksi viimeksi lisättyjen, vuoden, arvion tai laadun mukaan. Sarjat voi järjestää myös jaksojen keston mukaan.
 
 ## Asetukset {#settings}
 

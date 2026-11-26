@@ -27,6 +27,8 @@ Au premier démarrage de Nyvy, choisis le type de compte :
 
 Après la connexion, Nyvy télécharge le catalogue (chaînes, films et séries) et le guide TV. La première fois peut prendre une minute ; ensuite c’est rapide. Au démarrage de Nyvy, le catalogue et le guide sont mis à jour automatiquement s’ils ont plus de 12 heures, et tu peux toujours les mettre à jour toi-même dans *Réglages → Compte*.
 
+Tu veux d’abord faire un tour ? Choisis *Passer pour l’instant*. Tu pourras ajouter ton fournisseur plus tard dans *Réglages → Compte → Ajouter un fournisseur*.
+
 ## La télécommande {#remote}
 
 | Touche | Action |
@@ -81,7 +83,7 @@ Les films et séries sont disponibles avec les comptes Xtream.
 
 - **Recherche :** tape avec le clavier à l’écran ou les chiffres de la télécommande. La recherche trouve chaînes, films et séries et ignore les accents (*malmo* trouve *Malmö*).
 - **Favoris :** appuie sur Rouge sur une chaîne, un film ou une série. Les favoris apparaissent en premier dans chaque liste et sous *Favoris* dans le menu.
-- **Tri :** le bouton *Tri* en haut des listes (ou Vert). Les chaînes se trient par numéro, qualité ou nom, les films et séries par exemple par ajouts récents, année, note ou qualité.
+- **Tri :** le bouton *Tri* en haut des listes (ou Vert). Les chaînes se trient par numéro, qualité ou nom, les films et séries par exemple par ajouts récents, année, note ou qualité. Les séries peuvent aussi être triées par durée des épisodes.
 
 ## Réglages {#settings}
 

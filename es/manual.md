@@ -27,6 +27,8 @@ La primera vez que abres Nyvy, elige el tipo de cuenta:
 
 Tras iniciar sesión, Nyvy descarga el catálogo (canales, películas y series) y la guía de TV. La primera vez puede tardar un minuto; después va rápido. Al abrir Nyvy, el catálogo y la guía se actualizan solos si tienen más de 12 horas, y siempre puedes actualizarlos tú en *Ajustes → Cuenta*.
 
+¿Quieres echar un vistazo primero? Elige *Omitir por ahora*. Puedes añadir tu proveedor más tarde en *Ajustes → Cuenta → Añadir proveedor*.
+
 ## El mando {#remote}
 
 | Botón | Función |
@@ -81,7 +83,7 @@ Las películas y series están disponibles en las cuentas Xtream.
 
 - **Buscar:** escribe con el teclado en pantalla o con los números del mando. La búsqueda encuentra canales, películas y series e ignora los acentos (*malmo* encuentra *Malmö*).
 - **Favoritos:** pulsa Rojo en un canal, película o serie. Los favoritos aparecen primero en cada lista y en *Favoritos* en el menú.
-- **Orden:** el botón *Orden* arriba en las listas (o Verde). Los canales se pueden ordenar por número, calidad o nombre, y las películas y series, por ejemplo, por añadidos recientemente, año, valoración o calidad.
+- **Orden:** el botón *Orden* arriba en las listas (o Verde). Los canales se pueden ordenar por número, calidad o nombre, y las películas y series, por ejemplo, por añadidos recientemente, año, valoración o calidad. Las series también se pueden ordenar por la duración de los episodios.
 
 ## Ajustes {#settings}
 

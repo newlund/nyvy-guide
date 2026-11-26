@@ -27,6 +27,8 @@ De eerste keer dat je Nyvy start, kies je het type account:
 
 Na het inloggen haalt Nyvy het aanbod (zenders, films en series) en de tv-gids op. De eerste keer kan dat een minuut duren, daarna gaat het snel. Bij het starten van Nyvy worden het aanbod en de gids automatisch bijgewerkt als ze ouder zijn dan 12 uur, en je kunt ze altijd zelf bijwerken via *Instellingen → Account*.
 
+Wil je eerst rondkijken? Kies *Nu overslaan*. Je kunt je aanbieder later toevoegen via *Instellingen → Account → Aanbieder toevoegen*.
+
 ## De afstandsbediening {#remote}
 
 | Knop | Functie |
@@ -81,7 +83,7 @@ Films en series zijn beschikbaar voor Xtream-accounts.
 
 - **Zoeken:** typ met het schermtoetsenbord of met de cijfers van de afstandsbediening. Zoeken vindt zenders, films en series en negeert accenten (*malmo* vindt *Malmö*).
 - **Favorieten:** druk op Rood bij een zender, film of serie. Favorieten staan bovenaan in elke lijst en onder *Favorieten* in het menu.
-- **Sorteren:** de knop *Sortering* bovenaan de lijsten (of Groen). Zenders kun je sorteren op nummer, kwaliteit of naam, films en series bijvoorbeeld op recent toegevoegd, jaar, beoordeling of kwaliteit.
+- **Sorteren:** de knop *Sortering* bovenaan de lijsten (of Groen). Zenders kun je sorteren op nummer, kwaliteit of naam, films en series bijvoorbeeld op recent toegevoegd, jaar, beoordeling of kwaliteit. Series kun je ook sorteren op de lengte van de afleveringen.
 
 ## Instellingen {#settings}
 

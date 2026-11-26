@@ -27,6 +27,8 @@ The first time you start Nyvy, choose the account type:
 
 After signing in, Nyvy downloads the catalogue (channels, films and series) and the TV Guide. The first time can take a minute; after that it's quick. When you start Nyvy, the catalogue and guide are updated automatically if they are more than 12 hours old, and you can always update them yourself under *Settings → Account*.
 
+Want to look around first? Choose *Skip for now*. You can add your provider later under *Settings → Account → Add provider*.
+
 ## The remote
 
 | Button | Does |
@@ -81,7 +83,7 @@ Films and series are available for Xtream accounts.
 
 - **Search:** type with the on-screen keyboard or the remote's digits. Search finds channels, films and series, and ignores accents (*malmo* finds *Malmö*).
 - **Favorites:** press Red on a channel, film or series. Favorites come first in every list and under *Favorites* in the menu.
-- **Sorting:** the *Sort* button at the top of lists (or Green). Channels can be sorted by number, quality or name, and films and series by, for example, recently added, year, rating or quality.
+- **Sorting:** the *Sort* button at the top of lists (or Green). Channels can be sorted by number, quality or name, and films and series by, for example, recently added, year, rating or quality. Series can also be sorted by episode length.
 
 ## Settings
 

@@ -27,6 +27,8 @@ Al primo avvio di Nyvy scegli il tipo di account:
 
 Dopo l’accesso Nyvy scarica il catalogo (canali, film e serie) e la guida TV. La prima volta può volerci un minuto; poi è veloce. All’avvio di Nyvy catalogo e guida si aggiornano da soli se hanno più di 12 ore, e puoi sempre aggiornarli tu in *Impostazioni → Account*.
 
+Vuoi prima dare un’occhiata? Scegli *Salta per ora*. Puoi aggiungere il fornitore più tardi in *Impostazioni → Account → Aggiungi fornitore*.
+
 ## Il telecomando {#remote}
 
 | Tasto | Funzione |
@@ -81,7 +83,7 @@ Film e serie sono disponibili con gli account Xtream.
 
 - **Ricerca:** scrivi con la tastiera sullo schermo o con i numeri del telecomando. La ricerca trova canali, film e serie e ignora gli accenti (*malmo* trova *Malmö*).
 - **Preferiti:** premi Rosso su un canale, un film o una serie. I preferiti compaiono per primi in ogni elenco e in *Preferiti* nel menu.
-- **Ordine:** il pulsante *Ordine* in alto negli elenchi (o Verde). I canali si ordinano per numero, qualità o nome, film e serie per esempio per aggiunti di recente, anno, voto o qualità.
+- **Ordine:** il pulsante *Ordine* in alto negli elenchi (o Verde). I canali si ordinano per numero, qualità o nome, film e serie per esempio per aggiunti di recente, anno, voto o qualità. Le serie si possono ordinare anche per durata degli episodi.
 
 ## Impostazioni {#settings}
 

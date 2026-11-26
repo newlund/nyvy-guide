@@ -27,6 +27,8 @@ Przy pierwszym uruchomieniu Nyvy wybierz typ konta:
 
 Po zalogowaniu Nyvy pobiera katalog (kanały, filmy i seriale) oraz program TV. Za pierwszym razem może to potrwać minutę, później idzie szybko. Przy uruchomieniu Nyvy katalog i program aktualizują się automatycznie, jeśli są starsze niż 12 godzin, a w każdej chwili możesz je odświeżyć w *Ustawienia → Konto*.
 
+Chcesz najpierw się rozejrzeć? Wybierz *Pomiń na razie*. Dostawcę możesz dodać później w *Ustawienia → Konto → Dodaj dostawcę*.
+
 ## Pilot {#remote}
 
 | Przycisk | Działanie |
@@ -81,7 +83,7 @@ Filmy i seriale są dostępne dla kont Xtream.
 
 - **Wyszukiwanie:** pisz klawiaturą ekranową lub cyframi pilota. Wyszukiwanie znajduje kanały, filmy i seriale i ignoruje znaki diakrytyczne (*malmo* znajduje *Malmö*, *lodz* znajduje *Łódź*).
 - **Ulubione:** naciśnij Czerwony na kanale, filmie lub serialu. Ulubione są na początku każdej listy i w *Ulubione* w menu.
-- **Sortowanie:** przycisk *Sortowanie* u góry list (lub Zielony). Kanały można sortować według numeru, jakości lub nazwy, a filmy i seriale na przykład według ostatnio dodanych, roku, oceny lub jakości.
+- **Sortowanie:** przycisk *Sortowanie* u góry list (lub Zielony). Kanały można sortować według numeru, jakości lub nazwy, a filmy i seriale na przykład według ostatnio dodanych, roku, oceny lub jakości. Seriale można też sortować według długości odcinków.
 
 ## Ustawienia {#settings}
 
