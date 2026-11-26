@@ -78,7 +78,7 @@ Films and series are available for Xtream accounts.
   - OK pauses.
   - Left/right jump 10 seconds (hold for longer jumps). A preview picture shows where you'll land, and OK jumps there.
   - Up shows the on-screen buttons.
-  - Back exits and remembers where you were.
+  - Back first hides the seek bar and buttons; press Back again to exit. Nyvy remembers where you were.
 
 ## Audio and subtitles
 

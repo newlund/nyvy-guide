@@ -78,7 +78,7 @@ Film og serier findes til Xtream-konti.
   - OK sætter på pause.
   - Venstre/højre springer 10 sekunder (hold nede for længere spring). Et eksempelbillede viser, hvor du lander, og OK springer derhen.
   - Op viser knapperne på skærmen.
-  - Tilbage afslutter og husker, hvor du var.
+  - Tilbage skjuler først søgelinjen og knapperne; tryk Tilbage igen for at afslutte. Nyvy husker, hvor du var.
 
 ## Lyd og undertekster {#audio-subtitles}
 

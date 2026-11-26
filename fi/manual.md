@@ -78,7 +78,7 @@ Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
   - OK pysäyttää.
   - Vasen/oikea siirtävät 10 sekuntia (pidä pohjassa pidempiä siirtoja varten). Esikatselukuva näyttää, mihin päädyt, ja OK siirtyy sinne.
   - Ylös näyttää näytön painikkeet.
-  - Takaisin lopettaa ja muistaa, mihin jäit.
+  - Takaisin piilottaa ensin aikajanan ja painikkeet; lopeta painamalla Takaisin uudelleen. Nyvy muistaa, mihin jäit.
 
 ## Ääni ja tekstitys {#audio-subtitles}
 

@@ -78,7 +78,7 @@ Films en series zijn beschikbaar voor Xtream-accounts.
   - OK pauzeert.
   - Links/rechts springen 10 seconden (ingedrukt houden voor grotere sprongen). Een voorbeeldbeeld laat zien waar je uitkomt, en OK springt erheen.
   - Omhoog toont de knoppen op het scherm.
-  - Terug stopt en onthoudt waar je was.
+  - Terug verbergt eerst de tijdbalk en de knoppen; druk nogmaals op Terug om te stoppen. Nyvy onthoudt waar je was.
 
 ## Audio en ondertiteling {#audio-subtitles}
 

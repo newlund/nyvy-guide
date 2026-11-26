@@ -78,7 +78,7 @@ Filmes e séries estão disponíveis para contas Xtream.
   - OK pausa.
   - Esquerda/direita pulam 10 segundos (segure para pulos maiores). Uma imagem de prévia mostra onde você vai cair, e OK pula para lá.
   - Cima mostra os botões na tela.
-  - Voltar sai e lembra onde você parou.
+  - Voltar esconde primeiro a barra de progresso e os botões; pressione Voltar de novo para sair. O Nyvy lembra onde você parou.
 
 ## Áudio e legendas {#audio-subtitles}
 

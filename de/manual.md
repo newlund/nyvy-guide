@@ -78,7 +78,7 @@ Filme und Serien gibt es bei Xtream-Konten.
   - OK pausiert.
   - Links/rechts springen 10 Sekunden (gedrückt halten für größere Sprünge). Ein Vorschaubild zeigt, wo du landest, und OK springt dorthin.
   - Hoch zeigt die Tasten auf dem Bildschirm.
-  - Zurück beendet und merkt sich die Stelle.
+  - Zurück blendet zuerst die Zeitleiste und die Tasten aus; ein weiteres Zurück beendet die Wiedergabe. Nyvy merkt sich die Stelle.
 
 ## Ton und Untertitel {#audio-subtitles}
 

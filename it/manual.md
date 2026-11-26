@@ -78,7 +78,7 @@ Film e serie sono disponibili con gli account Xtream.
   - OK mette in pausa.
   - Sinistra/destra saltano di 10 secondi (tieni premuto per salti più lunghi). Un’immagine di anteprima mostra dove arriverai, e OK ci va.
   - Su mostra i pulsanti sullo schermo.
-  - Indietro esce e ricorda dove eri arrivato.
+  - Indietro nasconde prima la barra di avanzamento e i pulsanti; premi di nuovo Indietro per uscire. Nyvy ricorda dove eri arrivato.
 
 ## Audio e sottotitoli {#audio-subtitles}
 

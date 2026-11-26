@@ -78,7 +78,7 @@ Filmer och serier finns för Xtream-konton.
   - OK pausar.
   - Vänster/höger hoppar 10 sekunder (håll in för längre hopp). En förhandsbild visar var du hamnar, och OK hoppar dit.
   - Upp visar knapparna på skärmen.
-  - Tillbaka avslutar och kommer ihåg var du var.
+  - Tillbaka döljer först tidslinjen och knapparna; tryck Tillbaka igen för att avsluta. Nyvy kommer ihåg var du var.
 
 ## Ljud och undertexter {#ljud-och-undertexter}
 

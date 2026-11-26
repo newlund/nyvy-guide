@@ -78,7 +78,7 @@ Filmer og serier finnes for Xtream-kontoer.
   - OK setter på pause.
   - Venstre/høyre hopper 10 sekunder (hold inne for lengre hopp). Et forhåndsbilde viser hvor du havner, og OK hopper dit.
   - Opp viser knappene på skjermen.
-  - Tilbake avslutter og husker hvor du var.
+  - Tilbake skjuler først tidslinjen og knappene; trykk Tilbake igjen for å avslutte. Nyvy husker hvor du var.
 
 ## Lyd og undertekster {#audio-subtitles}
 

@@ -78,7 +78,7 @@ Les films et séries sont disponibles avec les comptes Xtream.
   - OK met en pause.
   - Gauche/droite sautent de 10 secondes (maintiens pour des sauts plus longs). Une image d’aperçu montre où tu vas arriver, et OK y va.
   - Haut affiche les boutons à l’écran.
-  - Retour quitte et retient où tu en étais.
+  - Retour masque d’abord la barre de progression et les boutons ; appuie de nouveau sur Retour pour quitter. Nyvy retient où tu en étais.
 
 ## Audio et sous-titres {#audio-subtitles}
 

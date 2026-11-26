@@ -78,7 +78,7 @@ Las películas y series están disponibles en las cuentas Xtream.
   - OK pausa.
   - Izquierda/derecha saltan 10 segundos (mantén pulsado para saltos más largos). Una imagen de vista previa muestra dónde caerás y OK salta allí.
   - Arriba muestra los botones en pantalla.
-  - Atrás sale y recuerda dónde te quedaste.
+  - Atrás oculta primero la barra de progreso y los botones; pulsa Atrás otra vez para salir. Nyvy recuerda dónde te quedaste.
 
 ## Audio y subtítulos {#audio-subtitles}
 

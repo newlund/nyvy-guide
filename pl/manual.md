@@ -78,7 +78,7 @@ Filmy i seriale są dostępne dla kont Xtream.
   - OK wstrzymuje.
   - Lewo/prawo przeskakują o 10 sekund (przytrzymaj, aby skakać dalej). Obraz podglądu pokazuje, gdzie trafisz, a OK tam przeskakuje.
   - Góra pokazuje przyciski na ekranie.
-  - Wstecz kończy i zapamiętuje miejsce.
+  - Wstecz najpierw ukrywa pasek postępu i przyciski; naciśnij Wstecz ponownie, aby zakończyć. Nyvy zapamiętuje miejsce.
 
 ## Dźwięk i napisy {#audio-subtitles}
 

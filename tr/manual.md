@@ -78,7 +78,7 @@ Filmler ve diziler Xtream hesaplarında bulunur.
   - OK duraklatır.
   - Sol/sağ 10 saniye atlar (daha uzun atlamalar için basılı tutun). Bir önizleme görüntüsü nereye geleceğinizi gösterir, OK oraya atlar.
   - Yukarı ekrandaki düğmeleri gösterir.
-  - Geri çıkar ve kaldığınız yeri hatırlar.
+  - Geri önce ilerleme çubuğunu ve düğmeleri gizler; çıkmak için Geri’ye tekrar basın. Nyvy kaldığınız yeri hatırlar.
 
 ## Ses ve altyazı {#audio-subtitles}
 
