@@ -59,7 +59,7 @@ Magic Remote virker også: peg for at markere, klik for at vælge og rul med hju
   - OK åbner kanallisten.
   - Venstre/højre eller Info viser infolinjen med nu og derefter samt knapper til Magic Remote.
   - Tal går til et kanalnummer, og Gul tilbage til forrige kanal.
-  - Tilbage forlader fuld skærm.
+  - Tilbage skjuler først infolinjen; tryk Tilbage igen for at forlade fuld skærm.
 
 ## Tv-guide og catch-up {#tv-guide}
 

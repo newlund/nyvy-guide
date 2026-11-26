@@ -59,7 +59,7 @@ La Magic Remote fonctionne aussi : pointe pour sélectionner, clique pour valide
   - OK ouvre la liste des chaînes.
   - Gauche/droite ou Info affichent la barre d’informations avec le programme en cours et le suivant, et des boutons pour la Magic Remote.
   - Les chiffres vont à un numéro de chaîne, et Jaune revient à la chaîne précédente.
-  - Retour quitte le plein écran.
+  - Retour masque d’abord la barre d’informations ; appuie de nouveau sur Retour pour quitter le plein écran.
 
 ## Guide TV et replay {#tv-guide}
 

@@ -59,7 +59,7 @@ The Magic Remote works too: point to highlight, click to select and scroll with 
   - OK opens the channel list.
   - Left/right or Info show the info bar with now and next, and buttons for the Magic Remote.
   - Digits go to a channel number, and Yellow back to the previous channel.
-  - Back leaves full screen.
+  - Back first hides the info bar; press Back again to leave full screen.
 
 ## TV Guide and catch-up
 

@@ -59,7 +59,7 @@ Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklay
   - OK kanal listesini açar.
   - Sol/sağ veya Info, şimdi ve sonrası bilgisini ve Magic Remote düğmelerini içeren bilgi çubuğunu gösterir.
   - Rakamlar bir kanal numarasına, Sarı önceki kanala gider.
-  - Geri tam ekrandan çıkar.
+  - Geri önce bilgi çubuğunu gizler; tam ekrandan çıkmak için Geri’ye tekrar basın.
 
 ## TV rehberi ve catch-up {#tv-guide}
 

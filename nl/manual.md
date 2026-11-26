@@ -59,7 +59,7 @@ De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol m
   - OK opent de zenderlijst.
   - Links/rechts of Info tonen de infobalk met nu en hierna, en knoppen voor de Magic Remote.
   - Cijfers gaan naar een zendernummer, Geel terug naar de vorige zender.
-  - Terug verlaat het volledige scherm.
+  - Terug verbergt eerst de infobalk; druk nogmaals op Terug om het volledige scherm te verlaten.
 
 ## Tv-gids en terugkijken {#tv-guide}
 

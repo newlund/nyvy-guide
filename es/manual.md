@@ -59,7 +59,7 @@ El Magic Remote también funciona: apunta para marcar, haz clic para seleccionar
   - OK abre la lista de canales.
   - Izquierda/derecha o Info muestran la barra de información con ahora y después, y botones para el Magic Remote.
   - Los números van a un canal y Amarillo vuelve al canal anterior.
-  - Atrás sale de la pantalla completa.
+  - Atrás oculta primero la barra de información; pulsa Atrás otra vez para salir de la pantalla completa.
 
 ## Guía de TV y catch-up {#tv-guide}
 

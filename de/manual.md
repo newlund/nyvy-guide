@@ -59,7 +59,7 @@ Die Magic Remote funktioniert auch: zeigen zum Markieren, klicken zum Auswählen
   - OK öffnet die Senderliste.
   - Links/rechts oder Info zeigen die Infoleiste mit Jetzt und Danach sowie Tasten für die Magic Remote.
   - Ziffern wählen eine Sendernummer, Gelb springt zum vorherigen Sender.
-  - Zurück verlässt das Vollbild.
+  - Zurück blendet zuerst die Infoleiste aus; ein weiteres Zurück verlässt das Vollbild.
 
 ## TV-Programm und Catch-up {#tv-guide}
 

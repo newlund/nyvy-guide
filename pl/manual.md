@@ -59,7 +59,7 @@ Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przew
   - OK otwiera listę kanałów.
   - Lewo/prawo lub Info pokazują pasek informacji (teraz i potem) oraz przyciski dla Magic Remote.
   - Cyfry przechodzą do numeru kanału, a Żółty wraca do poprzedniego kanału.
-  - Wstecz wychodzi z pełnego ekranu.
+  - Wstecz najpierw ukrywa pasek informacji; naciśnij Wstecz ponownie, aby wyjść z pełnego ekranu.
 
 ## Program TV i catch-up {#tv-guide}
 

@@ -59,7 +59,7 @@ Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vierit�
   - OK avaa kanavalistan.
   - Vasen/oikea tai Info näyttävät tietopalkin (nyt ja seuraavaksi) sekä painikkeet Magic Remotelle.
   - Numerot vievät kanavanumeroon, ja Keltainen palaa edelliselle kanavalle.
-  - Takaisin poistuu koko näytöltä.
+  - Takaisin piilottaa ensin tietopalkin; poistu koko näytöltä painamalla Takaisin uudelleen.
 
 ## TV-opas ja catch-up {#tv-guide}
 
