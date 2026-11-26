@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 534 200" width="534" height="200">
+  <title>Nyvy horizontal lockup - icon + name (for dark backgrounds, transparent)</title>
+  <defs>
+    <linearGradient id="nyvy-grad" gradientUnits="userSpaceOnUse" x1="79" y1="70" x2="321" y2="330">
+      <stop offset="0" stop-color="#2f8cff"/>
+      <stop offset="1" stop-color="#7b5cff"/>
+    </linearGradient>
+    <mask id="nyvy-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="400">
+      <rect width="400" height="400" fill="#fff"/>
+      <path d="M139.8 238 V162 L219.8 238 V162" fill="none" stroke="#000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <g transform="translate(10.65 16) scale(0.42)">
+  <polygon points="260.6,200 139.4,130 139.4,270"
+      fill="url(#nyvy-grad)" stroke="url(#nyvy-grad)" stroke-width="120" stroke-linejoin="round" mask="url(#nyvy-cut)"/>
+  </g>
+  <g transform="translate(190.5 142)"
+     fill="none" stroke="#eef1f6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0 V-84 L62 0 V-84"/>                                      <!-- N -->
+    <path transform="translate(88 0)"  d="M0 -62 L28 0 M54 -62 L14 34"/>  <!-- y -->
+    <path transform="translate(164 0)" d="M0 -62 L27 0 L54 -62"/>         <!-- v -->
+    <path transform="translate(240 0)" d="M0 -62 L28 0 M54 -62 L14 34"/>  <!-- y -->
+  </g>
+</svg>

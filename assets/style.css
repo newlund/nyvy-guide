@@ -35,7 +35,7 @@ a { color: var(--accent); }
   font-size: 22px;
   text-decoration: none;
 }
-.brand img { border-radius: 8px; }
+.brand img { display: block; }
 nav { display: flex; flex-wrap: wrap; gap: 6px 18px; }
 nav a { color: var(--dim); text-decoration: none; }
 nav a:hover { color: var(--text); }
