@@ -6,33 +6,33 @@ lang: it
 
 # Manuale
 
-<p class="lead">Tutto quello che serve per iniziare con Nyvo e sfruttarlo al meglio.</p>
+<p class="lead">Tutto quello che serve per iniziare con Nyvy e sfruttarlo al meglio.</p>
 
 **Indice:** [Primi passi](#getting-started) · [Il telecomando](#remote) · [TV in diretta](#live-tv) · [Guida TV e catch-up](#tv-guide) · [Film e serie](#films-series) · [Audio e sottotitoli](#audio-subtitles) · [Ricerca, preferiti e ordine](#search) · [Impostazioni](#settings) · [Domande frequenti](#faq)
 
 ## Primi passi {#getting-started}
 
-Nyvo non contiene canali. Ti serve un abbonamento con un fornitore IPTV e i dati che ti ha dato.
+Nyvy non contiene canali. Ti serve un abbonamento con un fornitore IPTV e i dati che ti ha dato.
 
 ### Accedere
 
-Al primo avvio di Nyvo scegli il tipo di account:
+Al primo avvio di Nyvy scegli il tipo di account:
 
 | Tipo di account | Cosa inserisci | Cosa ottieni |
 |---|---|---|
 | **Xtream Codes** | Indirizzo del server, nome utente e password | TV in diretta, guida TV, catch-up, film, serie e stato dell’account |
 | **Playlist M3U** | L’indirizzo della playlist e, se serve, quello della guida | TV in diretta con gruppi, guida TV, preferiti e ricerca |
 
-> Hai ricevuto un «link M3U» con `get.php?username=…&password=…`? In realtà è un account Xtream. Nyvo lo riconosce e ti propone di accedere come Xtream, così avrai anche film e serie.
+> Hai ricevuto un «link M3U» con `get.php?username=…&password=…`? In realtà è un account Xtream. Nyvy lo riconosce e ti propone di accedere come Xtream, così avrai anche film e serie.
 
-Dopo l’accesso Nyvo scarica il catalogo (canali, film e serie) e la guida TV. La prima volta può volerci un minuto; poi è veloce. All’avvio di Nyvo catalogo e guida si aggiornano da soli se hanno più di 12 ore, e puoi sempre aggiornarli tu in *Impostazioni → Account*.
+Dopo l’accesso Nyvy scarica il catalogo (canali, film e serie) e la guida TV. La prima volta può volerci un minuto; poi è veloce. All’avvio di Nyvy catalogo e guida si aggiornano da soli se hanno più di 12 ore, e puoi sempre aggiornarli tu in *Impostazioni → Account*.
 
 ## Il telecomando {#remote}
 
 | Tasto | Funzione |
 |---|---|
 | Frecce e OK | Muoversi e selezionare |
-| Indietro | Tornare indietro. Nel menu laterale: uscire da Nyvo |
+| Indietro | Tornare indietro. Nel menu laterale: uscire da Nyvy |
 | Rosso | Aggiungere o togliere un preferito |
 | Verde | Ordinare (negli elenchi) · audio e sottotitoli (durante la visione) |
 | Giallo | Canale precedente (TV in diretta a schermo intero) |
@@ -114,7 +114,7 @@ Probabilmente il film ha solo audio DTS o Dolby TrueHD, che le TV LG non possono
 Non tutte le playlist indicano una guida. Chiedi al tuo fornitore l’indirizzo di una guida XMLTV e inseriscilo in *Impostazioni → Account → Modifica dati*.
 
 ### Non vedo film e serie (M3U)
-In Nyvo le playlist danno solo TV in diretta. Se hai un account Xtream, accedi con quello per avere film e serie.
+In Nyvy le playlist danno solo TV in diretta. Se hai un account Xtream, accedi con quello per avere film e serie.
 
-### Come esco da Nyvo?
+### Come esco da Nyvy?
 Premi Indietro finché il menu laterale è selezionato, premi di nuovo Indietro e scegli *Esci*.

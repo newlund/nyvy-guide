@@ -6,33 +6,33 @@ lang: fr
 
 # Manuel
 
-<p class="lead">Tout ce qu’il faut pour bien démarrer avec Nyvo et en tirer le meilleur.</p>
+<p class="lead">Tout ce qu’il faut pour bien démarrer avec Nyvy et en tirer le meilleur.</p>
 
 **Sommaire :** [Premiers pas](#getting-started) · [La télécommande](#remote) · [TV en direct](#live-tv) · [Guide TV et replay](#tv-guide) · [Films et séries](#films-series) · [Audio et sous-titres](#audio-subtitles) · [Recherche, favoris et tri](#search) · [Réglages](#settings) · [Questions fréquentes](#faq)
 
 ## Premiers pas {#getting-started}
 
-Nyvo ne contient aucune chaîne. Tu as besoin d’un abonnement auprès d’un fournisseur IPTV et des informations qu’il t’a données.
+Nyvy ne contient aucune chaîne. Tu as besoin d’un abonnement auprès d’un fournisseur IPTV et des informations qu’il t’a données.
 
 ### Se connecter
 
-Au premier démarrage de Nyvo, choisis le type de compte :
+Au premier démarrage de Nyvy, choisis le type de compte :
 
 | Type de compte | Ce que tu saisis | Ce que tu obtiens |
 |---|---|---|
 | **Xtream Codes** | Adresse du serveur, nom d’utilisateur et mot de passe | TV en direct, guide TV, replay, films, séries et statut du compte |
 | **Liste M3U** | L’adresse de la liste et, si besoin, celle du guide | TV en direct avec groupes, guide TV, favoris et recherche |
 
-> On t’a donné un « lien M3U » contenant `get.php?username=…&password=…` ? C’est en fait un compte Xtream. Nyvo le reconnaît et propose de te connecter en Xtream à la place, ce qui te donne aussi les films et les séries.
+> On t’a donné un « lien M3U » contenant `get.php?username=…&password=…` ? C’est en fait un compte Xtream. Nyvy le reconnaît et propose de te connecter en Xtream à la place, ce qui te donne aussi les films et les séries.
 
-Après la connexion, Nyvo télécharge le catalogue (chaînes, films et séries) et le guide TV. La première fois peut prendre une minute ; ensuite c’est rapide. Au démarrage de Nyvo, le catalogue et le guide sont mis à jour automatiquement s’ils ont plus de 12 heures, et tu peux toujours les mettre à jour toi-même dans *Réglages → Compte*.
+Après la connexion, Nyvy télécharge le catalogue (chaînes, films et séries) et le guide TV. La première fois peut prendre une minute ; ensuite c’est rapide. Au démarrage de Nyvy, le catalogue et le guide sont mis à jour automatiquement s’ils ont plus de 12 heures, et tu peux toujours les mettre à jour toi-même dans *Réglages → Compte*.
 
 ## La télécommande {#remote}
 
 | Touche | Action |
 |---|---|
 | Flèches et OK | Se déplacer et choisir |
-| Retour | Revenir. Dans le menu latéral : quitter Nyvo |
+| Retour | Revenir. Dans le menu latéral : quitter Nyvy |
 | Rouge | Ajouter ou retirer un favori |
 | Vert | Trier (dans les listes) · audio et sous-titres (pendant la lecture) |
 | Jaune | Chaîne précédente (TV en direct en plein écran) |
@@ -114,7 +114,7 @@ Le film n’a sans doute que du son en DTS ou Dolby TrueHD, que les téléviseur
 Toutes les listes n’indiquent pas de guide. Demande à ton fournisseur l’adresse d’un guide XMLTV et saisis-la dans *Réglages → Compte → Modifier les informations*.
 
 ### Je ne vois ni films ni séries (M3U)
-Dans Nyvo, les listes ne donnent que la TV en direct. Si tu as un compte Xtream, connecte-toi avec pour avoir les films et les séries.
+Dans Nyvy, les listes ne donnent que la TV en direct. Si tu as un compte Xtream, connecte-toi avec pour avoir les films et les séries.
 
-### Comment quitter Nyvo ?
+### Comment quitter Nyvy ?
 Appuie sur Retour jusqu’à ce que le menu latéral soit sélectionné, appuie encore sur Retour et choisis *Quitter*.

@@ -6,7 +6,7 @@ lang: da
 
 # Privatliv
 
-<p class="lead">Kort sagt: alt, hvad Nyvo gemmer, bliver på dit tv. Der er ingen Nyvo-server, ingen konto hos os og ingen statistik over, hvordan du bruger appen.</p>
+<p class="lead">Kort sagt: alt, hvad Nyvy gemmer, bliver på dit tv. Der er ingen Nyvy-server, ingen konto hos os og ingen statistik over, hvordan du bruger appen.</p>
 
 ## Det gemmes, på dit tv
 
@@ -23,7 +23,7 @@ lang: da
 
 - **Til din udbyder:** login, hentning af udvalget og tv-guiden og de streams, du ser. Udbyderen behandler dem efter sine egne vilkår.
 - **Til adresser, du selv angiver** (playliste og tv-guide).
-- **Intet til Nyvo** eller andre: ingen statistik, ingen reklamer, ingen sporing.
+- **Intet til Nyvy** eller andre: ingen statistik, ingen reklamer, ingen sporing.
 
 ## Dette websted
 
@@ -31,4 +31,4 @@ Webstedet ligger på GitHub Pages og bruger ingen cookies eller analyseværktøj
 
 ## Indhold
 
-Nyvo indeholder ingen tv-kanaler, film eller serier og sælger ingen abonnementer. Alt, hvad du ser, kommer fra din egen udbyder.
+Nyvy indeholder ingen tv-kanaler, film eller serier og sælger ingen abonnementer. Alt, hvad du ser, kommer fra din egen udbyder.

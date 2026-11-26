@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Support Nyvo
+title: Support Nyvy
 lang: en
 ---
 
-# Support Nyvo
+# Support Nyvy
 
-<p class="lead">Nyvo is free and has no ads. If you like the app and want to help it keep improving, you can buy me a coffee. Thank you!</p>
+<p class="lead">Nyvy is free and has no ads. If you like the app and want to help it keep improving, you can buy me a coffee. Thank you!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-A contribution is voluntary and unlocks nothing extra. Nyvo works the same for everyone.
+A contribution is voluntary and unlocks nothing extra. Nyvy works the same for everyone.
 
 ## Other ways to help
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Tue Nyvoa
+title: Tue Nyvyä
 lang: fi
 ---
 
-# Tue Nyvoa
+# Tue Nyvyä
 
-<p class="lead">Nyvo on ilmainen ja mainokseton. Jos pidät sovelluksesta ja haluat tukea sen kehitystä, voit tarjota kahvit. Kiitos!</p>
+<p class="lead">Nyvy on ilmainen ja mainokseton. Jos pidät sovelluksesta ja haluat tukea sen kehitystä, voit tarjota kahvit. Kiitos!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-Tuki on vapaaehtoista eikä avaa lisäominaisuuksia. Nyvo toimii samalla tavalla kaikille.
+Tuki on vapaaehtoista eikä avaa lisäominaisuuksia. Nyvy toimii samalla tavalla kaikille.
 
 ## Muita tapoja auttaa
 

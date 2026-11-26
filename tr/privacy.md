@@ -6,7 +6,7 @@ lang: tr
 
 # Gizlilik
 
-<p class="lead">Kısacası: Nyvo’nun sakladığı her şey televizyonunuzda kalır. Nyvo sunucusu yoktur, bizde bir hesabınız olmaz ve uygulamayı nasıl kullandığınıza dair istatistik tutulmaz.</p>
+<p class="lead">Kısacası: Nyvy’nin sakladığı her şey televizyonunuzda kalır. Nyvy sunucusu yoktur, bizde bir hesabınız olmaz ve uygulamayı nasıl kullandığınıza dair istatistik tutulmaz.</p>
 
 ## Televizyonunuzda saklananlar
 
@@ -23,7 +23,7 @@ lang: tr
 
 - **Sağlayıcınıza:** oturum açma, katalog ve TV rehberi indirme ve izlediğiniz yayınlar. Sağlayıcı bunları kendi koşullarına göre işler.
 - **Kendi girdiğiniz adreslere** (liste ve TV rehberi).
-- **Nyvo’ya veya başkasına hiçbir şey:** istatistik yok, reklam yok, izleme yok.
+- **Nyvy’ye veya başkasına hiçbir şey:** istatistik yok, reklam yok, izleme yok.
 
 ## Bu web sitesi
 
@@ -31,4 +31,4 @@ Bu site GitHub Pages’te barındırılır ve çerez ya da analiz aracı kullanm
 
 ## İçerik
 
-Nyvo TV kanalı, film veya dizi içermez ve abonelik satmaz. İzlediğiniz her şey kendi sağlayıcınızdan gelir.
+Nyvy TV kanalı, film veya dizi içermez ve abonelik satmaz. İzlediğiniz her şey kendi sağlayıcınızdan gelir.

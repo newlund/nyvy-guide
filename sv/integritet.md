@@ -6,7 +6,7 @@ lang: sv
 
 # Integritet
 
-<p class="lead">Kort sagt: allt Nyvo sparar stannar på din TV. Det finns ingen Nyvo-server, ingen inloggning hos oss och ingen statistik om hur du använder appen.</p>
+<p class="lead">Kort sagt: allt Nyvy sparar stannar på din TV. Det finns ingen Nyvy-server, ingen inloggning hos oss och ingen statistik om hur du använder appen.</p>
 
 ## Det här sparas, på din TV
 
@@ -23,7 +23,7 @@ lang: sv
 
 - **Till din leverantör:** inloggningen, hämtningen av utbudet och TV-guiden, och strömmarna du tittar på. Leverantören hanterar det enligt sina egna villkor.
 - **Till adresser du själv anger** (spellista och TV-guide).
-- **Ingenting till Nyvo** eller till någon annan: ingen statistik, inga annonser, ingen spårning.
+- **Ingenting till Nyvy** eller till någon annan: ingen statistik, inga annonser, ingen spårning.
 
 ## Den här webbplatsen
 
@@ -31,4 +31,4 @@ Webbplatsen ligger på GitHub Pages och använder inga cookies eller analysverkt
 
 ## Innehåll
 
-Nyvo innehåller inga TV-kanaler, filmer eller serier, och säljer inga abonnemang. Allt du ser kommer från din egen leverantör.
+Nyvy innehåller inga TV-kanaler, filmer eller serier, och säljer inga abonnemang. Allt du ser kommer från din egen leverantör.

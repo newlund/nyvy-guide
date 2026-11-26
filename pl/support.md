@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Wesprzyj Nyvo
+title: Wesprzyj Nyvy
 lang: pl
 ---
 
-# Wesprzyj Nyvo
+# Wesprzyj Nyvy
 
-<p class="lead">Nyvo jest bezpłatne i bez reklam. Jeśli podoba ci się aplikacja i chcesz wesprzeć jej rozwój, możesz postawić kawę. Dziękuję!</p>
+<p class="lead">Nyvy jest bezpłatne i bez reklam. Jeśli podoba ci się aplikacja i chcesz wesprzeć jej rozwój, możesz postawić kawę. Dziękuję!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-Wsparcie jest dobrowolne i niczego nie odblokowuje. Nyvo działa tak samo dla wszystkich.
+Wsparcie jest dobrowolne i niczego nie odblokowuje. Nyvy działa tak samo dla wszystkich.
 
 ## Inne sposoby pomocy
 
 - **Zgłaszaj błędy:** opisz, co zrobiłeś, jakiego kanału lub filmu to dotyczyło i co się stało.
-- **Poleć Nyvo** osobom, które mają telewizor LG i subskrypcję IPTV.
+- **Poleć Nyvy** osobom, które mają telewizor LG i subskrypcję IPTV.

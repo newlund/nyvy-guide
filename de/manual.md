@@ -6,13 +6,13 @@ lang: de
 
 # Anleitung
 
-<p class="lead">Alles, was du für den Einstieg in Nyvo brauchst, und wie du das Beste aus der App holst.</p>
+<p class="lead">Alles, was du für den Einstieg in Nyvy brauchst, und wie du das Beste aus der App holst.</p>
 
 **Inhalt:** [Erste Schritte](#getting-started) · [Fernbedienung](#remote) · [Live-TV](#live-tv) · [TV-Programm und Catch-up](#tv-guide) · [Filme und Serien](#films-series) · [Ton und Untertitel](#audio-subtitles) · [Suche, Favoriten und Sortierung](#search) · [Einstellungen](#settings) · [Häufige Fragen](#faq)
 
 ## Erste Schritte {#getting-started}
 
-Nyvo enthält selbst keine Sender. Du brauchst ein Abonnement bei einem IPTV-Anbieter und die Zugangsdaten, die du von ihm bekommen hast.
+Nyvy enthält selbst keine Sender. Du brauchst ein Abonnement bei einem IPTV-Anbieter und die Zugangsdaten, die du von ihm bekommen hast.
 
 ### Anmelden
 
@@ -23,16 +23,16 @@ Beim ersten Start wählst du den Kontotyp:
 | **Xtream Codes** | Server-Adresse, Benutzername und Passwort | Live-TV, TV-Programm, Catch-up, Filme, Serien und Kontostatus |
 | **M3U-Playlist** | Adresse der Playlist und bei Bedarf die Adresse des TV-Programms | Live-TV mit Gruppen, TV-Programm, Favoriten und Suche |
 
-> Du hast einen „M3U-Link“ mit `get.php?username=…&password=…` bekommen? Dann ist es eigentlich ein Xtream-Konto. Nyvo erkennt das und bietet an, dich stattdessen als Xtream anzumelden – dann bekommst du auch Filme und Serien.
+> Du hast einen „M3U-Link“ mit `get.php?username=…&password=…` bekommen? Dann ist es eigentlich ein Xtream-Konto. Nyvy erkennt das und bietet an, dich stattdessen als Xtream anzumelden – dann bekommst du auch Filme und Serien.
 
-Nach der Anmeldung lädt Nyvo das Angebot (Sender, Filme und Serien) und das TV-Programm. Beim ersten Mal kann das eine Minute dauern, danach geht es schnell. Beim Start von Nyvo werden Angebot und TV-Programm automatisch aktualisiert, wenn sie älter als 12 Stunden sind. Du kannst sie jederzeit selbst unter *Einstellungen → Konto* aktualisieren.
+Nach der Anmeldung lädt Nyvy das Angebot (Sender, Filme und Serien) und das TV-Programm. Beim ersten Mal kann das eine Minute dauern, danach geht es schnell. Beim Start von Nyvy werden Angebot und TV-Programm automatisch aktualisiert, wenn sie älter als 12 Stunden sind. Du kannst sie jederzeit selbst unter *Einstellungen → Konto* aktualisieren.
 
 ## Fernbedienung {#remote}
 
 | Taste | Funktion |
 |---|---|
 | Pfeile und OK | Bewegen und auswählen |
-| Zurück | Zurück. Im Seitenmenü: Nyvo beenden |
+| Zurück | Zurück. Im Seitenmenü: Nyvy beenden |
 | Rot | Favorit hinzufügen oder entfernen |
 | Grün | Sortieren (in Listen) · Ton und Untertitel (beim Ansehen) |
 | Gelb | Vorheriger Sender (Live-TV im Vollbild) |
@@ -114,7 +114,7 @@ Der Film hat wahrscheinlich nur Ton in DTS oder Dolby TrueHD, den LG-Fernseher i
 Nicht jede Playlist gibt ein TV-Programm an. Frag deinen Anbieter nach der Adresse eines XMLTV-Programms und trage sie unter *Einstellungen → Konto → Daten ändern* ein.
 
 ### Ich sehe keine Filme und Serien (M3U)
-Playlists liefern in Nyvo nur Live-TV. Wenn du ein Xtream-Konto hast, melde dich damit an, um Filme und Serien zu bekommen.
+Playlists liefern in Nyvy nur Live-TV. Wenn du ein Xtream-Konto hast, melde dich damit an, um Filme und Serien zu bekommen.
 
-### Wie beende ich Nyvo?
+### Wie beende ich Nyvy?
 Drücke Zurück, bis das Seitenmenü markiert ist, drücke noch einmal Zurück und wähle *Beenden*.

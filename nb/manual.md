@@ -6,33 +6,33 @@ lang: nb
 
 # Brukerveiledning
 
-<p class="lead">Alt du trenger for å komme i gang med Nyvo og få mest mulig ut av appen.</p>
+<p class="lead">Alt du trenger for å komme i gang med Nyvy og få mest mulig ut av appen.</p>
 
 **Innhold:** [Kom i gang](#getting-started) · [Fjernkontrollen](#remote) · [Direkte-TV](#live-tv) · [TV-guide og catch-up](#tv-guide) · [Filmer og serier](#films-series) · [Lyd og undertekster](#audio-subtitles) · [Søk, favoritter og sortering](#search) · [Innstillinger](#settings) · [Vanlige spørsmål](#faq)
 
 ## Kom i gang {#getting-started}
 
-Nyvo inneholder ingen kanaler selv. Du trenger et abonnement hos en IPTV-leverandør og opplysningene du har fått fra dem.
+Nyvy inneholder ingen kanaler selv. Du trenger et abonnement hos en IPTV-leverandør og opplysningene du har fått fra dem.
 
 ### Logg inn
 
-Første gang du starter Nyvo, velger du kontotype:
+Første gang du starter Nyvy, velger du kontotype:
 
 | Kontotype | Dette fyller du inn | Dette får du |
 |---|---|---|
 | **Xtream Codes** | Serveradresse, brukernavn og passord | Direkte-TV, TV-guide, catch-up, filmer, serier og kontostatus |
 | **M3U-spilleliste** | Adressen til spillelisten, og ved behov adressen til TV-guiden | Direkte-TV med grupper, TV-guide, favoritter og søk |
 
-> Har du fått en «M3U-lenke» som inneholder `get.php?username=…&password=…`? Da er det egentlig en Xtream-konto. Nyvo kjenner det igjen og tilbyr å logge inn som Xtream i stedet, så får du også filmer og serier.
+> Har du fått en «M3U-lenke» som inneholder `get.php?username=…&password=…`? Da er det egentlig en Xtream-konto. Nyvy kjenner det igjen og tilbyr å logge inn som Xtream i stedet, så får du også filmer og serier.
 
-Etter innloggingen henter Nyvo utvalget (kanaler, filmer og serier) og TV-guiden. Første gang kan det ta et minutt, deretter går det fort. Når du starter Nyvo, oppdateres utvalget og guiden automatisk hvis de er eldre enn 12 timer, og du kan alltid oppdatere selv under *Innstillinger → Konto*.
+Etter innloggingen henter Nyvy utvalget (kanaler, filmer og serier) og TV-guiden. Første gang kan det ta et minutt, deretter går det fort. Når du starter Nyvy, oppdateres utvalget og guiden automatisk hvis de er eldre enn 12 timer, og du kan alltid oppdatere selv under *Innstillinger → Konto*.
 
 ## Fjernkontrollen {#remote}
 
 | Knapp | Gjør |
 |---|---|
 | Piler og OK | Flytte og velge |
-| Tilbake | Gå tilbake. I sidemenyen: avslutt Nyvo |
+| Tilbake | Gå tilbake. I sidemenyen: avslutt Nyvy |
 | Rød | Legg til eller fjern favoritt |
 | Grønn | Sorter (i lister) · lyd og undertekster (når du ser på) |
 | Gul | Forrige kanal (direkte-TV i fullskjerm) |
@@ -114,7 +114,7 @@ Filmen har trolig bare lyd i DTS eller Dolby TrueHD, som LG-TV ikke kan spille a
 Ikke alle spillelister oppgir en TV-guide. Spør leverandøren om adressen til en XMLTV-guide og fyll den inn under *Innstillinger → Konto → Endre opplysninger*.
 
 ### Jeg ser ikke filmer og serier (M3U)
-Spillelister gir bare direkte-TV i Nyvo. Har du en Xtream-konto, logg inn med den for å få filmer og serier.
+Spillelister gir bare direkte-TV i Nyvy. Har du en Xtream-konto, logg inn med den for å få filmer og serier.
 
-### Hvordan avslutter jeg Nyvo?
+### Hvordan avslutter jeg Nyvy?
 Trykk Tilbake til sidemenyen er markert, trykk Tilbake igjen og velg *Avslutt*.

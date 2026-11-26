@@ -6,33 +6,33 @@ lang: pl
 
 # Instrukcja
 
-<p class="lead">Wszystko, czego potrzebujesz, aby zacząć korzystać z Nyvo i wycisnąć z aplikacji jak najwięcej.</p>
+<p class="lead">Wszystko, czego potrzebujesz, aby zacząć korzystać z Nyvy i wycisnąć z aplikacji jak najwięcej.</p>
 
 **Spis treści:** [Pierwsze kroki](#getting-started) · [Pilot](#remote) · [TV na żywo](#live-tv) · [Program TV i catch-up](#tv-guide) · [Filmy i seriale](#films-series) · [Dźwięk i napisy](#audio-subtitles) · [Wyszukiwanie, ulubione i sortowanie](#search) · [Ustawienia](#settings) · [Częste pytania](#faq)
 
 ## Pierwsze kroki {#getting-started}
 
-Nyvo nie zawiera własnych kanałów. Potrzebujesz subskrypcji u dostawcy IPTV i danych, które od niego otrzymałeś.
+Nyvy nie zawiera własnych kanałów. Potrzebujesz subskrypcji u dostawcy IPTV i danych, które od niego otrzymałeś.
 
 ### Logowanie
 
-Przy pierwszym uruchomieniu Nyvo wybierz typ konta:
+Przy pierwszym uruchomieniu Nyvy wybierz typ konta:
 
 | Typ konta | Co wpisujesz | Co otrzymujesz |
 |---|---|---|
 | **Xtream Codes** | Adres serwera, nazwę użytkownika i hasło | TV na żywo, program TV, catch-up, filmy, seriale i stan konta |
 | **Lista M3U** | Adres listy i w razie potrzeby adres programu TV | TV na żywo z grupami, program TV, ulubione i wyszukiwanie |
 
-> Masz „link M3U” z `get.php?username=…&password=…`? To w rzeczywistości konto Xtream. Nyvo to rozpozna i zaproponuje logowanie jako Xtream, dzięki czemu dostaniesz też filmy i seriale.
+> Masz „link M3U” z `get.php?username=…&password=…`? To w rzeczywistości konto Xtream. Nyvy to rozpozna i zaproponuje logowanie jako Xtream, dzięki czemu dostaniesz też filmy i seriale.
 
-Po zalogowaniu Nyvo pobiera katalog (kanały, filmy i seriale) oraz program TV. Za pierwszym razem może to potrwać minutę, później idzie szybko. Przy uruchomieniu Nyvo katalog i program aktualizują się automatycznie, jeśli są starsze niż 12 godzin, a w każdej chwili możesz je odświeżyć w *Ustawienia → Konto*.
+Po zalogowaniu Nyvy pobiera katalog (kanały, filmy i seriale) oraz program TV. Za pierwszym razem może to potrwać minutę, później idzie szybko. Przy uruchomieniu Nyvy katalog i program aktualizują się automatycznie, jeśli są starsze niż 12 godzin, a w każdej chwili możesz je odświeżyć w *Ustawienia → Konto*.
 
 ## Pilot {#remote}
 
 | Przycisk | Działanie |
 |---|---|
 | Strzałki i OK | Poruszanie się i wybór |
-| Wstecz | Powrót. W menu bocznym: zamknięcie Nyvo |
+| Wstecz | Powrót. W menu bocznym: zamknięcie Nyvy |
 | Czerwony | Dodanie lub usunięcie ulubionego |
 | Zielony | Sortowanie (w listach) · dźwięk i napisy (podczas oglądania) |
 | Żółty | Poprzedni kanał (TV na żywo na pełnym ekranie) |
@@ -114,7 +114,7 @@ Film ma najpewniej dźwięk tylko w DTS lub Dolby TrueHD, którego telewizory LG
 Nie każda lista wskazuje program TV. Poproś dostawcę o adres programu XMLTV i wpisz go w *Ustawienia → Konto → Edytuj dane*.
 
 ### Nie widzę filmów i seriali (M3U)
-W Nyvo listy dają tylko TV na żywo. Jeśli masz konto Xtream, zaloguj się nim, aby mieć filmy i seriale.
+W Nyvy listy dają tylko TV na żywo. Jeśli masz konto Xtream, zaloguj się nim, aby mieć filmy i seriale.
 
-### Jak zamknąć Nyvo?
+### Jak zamknąć Nyvy?
 Naciskaj Wstecz, aż menu boczne zostanie zaznaczone, naciśnij Wstecz jeszcze raz i wybierz *Zamknij*.

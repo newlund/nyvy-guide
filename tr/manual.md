@@ -6,33 +6,33 @@ lang: tr
 
 # Kılavuz
 
-<p class="lead">Nyvo’ya başlamak ve uygulamadan en iyi şekilde yararlanmak için gereken her şey.</p>
+<p class="lead">Nyvy’ye başlamak ve uygulamadan en iyi şekilde yararlanmak için gereken her şey.</p>
 
 **İçindekiler:** [Başlarken](#getting-started) · [Kumanda](#remote) · [Canlı TV](#live-tv) · [TV rehberi ve catch-up](#tv-guide) · [Filmler ve diziler](#films-series) · [Ses ve altyazı](#audio-subtitles) · [Arama, favoriler ve sıralama](#search) · [Ayarlar](#settings) · [Sık sorulan sorular](#faq)
 
 ## Başlarken {#getting-started}
 
-Nyvo kendisi kanal içermez. Bir IPTV sağlayıcısında aboneliğinizin ve onlardan aldığınız bilgilerin olması gerekir.
+Nyvy kendisi kanal içermez. Bir IPTV sağlayıcısında aboneliğinizin ve onlardan aldığınız bilgilerin olması gerekir.
 
 ### Oturum açma
 
-Nyvo’yu ilk kez başlattığınızda hesap türünü seçin:
+Nyvy’yi ilk kez başlattığınızda hesap türünü seçin:
 
 | Hesap türü | Girdiğiniz bilgiler | Elde ettikleriniz |
 |---|---|---|
 | **Xtream Codes** | Sunucu adresi, kullanıcı adı ve şifre | Canlı TV, TV rehberi, catch-up, filmler, diziler ve hesap durumu |
 | **M3U listesi** | Liste adresi ve gerekirse rehber adresi | Gruplarla canlı TV, TV rehberi, favoriler ve arama |
 
-> İçinde `get.php?username=…&password=…` bulunan bir "M3U bağlantısı" mı aldınız? Bu aslında bir Xtream hesabıdır. Nyvo bunu tanır ve Xtream olarak oturum açmayı önerir; böylece filmleri ve dizileri de alırsınız.
+> İçinde `get.php?username=…&password=…` bulunan bir "M3U bağlantısı" mı aldınız? Bu aslında bir Xtream hesabıdır. Nyvy bunu tanır ve Xtream olarak oturum açmayı önerir; böylece filmleri ve dizileri de alırsınız.
 
-Oturum açtıktan sonra Nyvo kataloğu (kanallar, filmler ve diziler) ve TV rehberini indirir. İlk seferde bir dakika sürebilir, sonra hızlıdır. Nyvo’yu başlattığınızda katalog ve rehber 12 saatten eskiyse otomatik olarak güncellenir; dilediğiniz zaman *Ayarlar → Hesap* bölümünden kendiniz de güncelleyebilirsiniz.
+Oturum açtıktan sonra Nyvy kataloğu (kanallar, filmler ve diziler) ve TV rehberini indirir. İlk seferde bir dakika sürebilir, sonra hızlıdır. Nyvy’yi başlattığınızda katalog ve rehber 12 saatten eskiyse otomatik olarak güncellenir; dilediğiniz zaman *Ayarlar → Hesap* bölümünden kendiniz de güncelleyebilirsiniz.
 
 ## Kumanda {#remote}
 
 | Tuş | İşlev |
 |---|---|
 | Oklar ve OK | Gezinme ve seçme |
-| Geri | Geri dönme. Yan menüde: Nyvo’dan çıkma |
+| Geri | Geri dönme. Yan menüde: Nyvy’den çıkma |
 | Kırmızı | Favori ekleme veya çıkarma |
 | Yeşil | Sıralama (listelerde) · ses ve altyazı (izlerken) |
 | Sarı | Önceki kanal (tam ekran canlı TV) |
@@ -114,7 +114,7 @@ Filmde büyük olasılıkla yalnızca DTS veya Dolby TrueHD ses vardır; LG tele
 Her liste bir TV rehberi belirtmez. Sağlayıcınızdan bir XMLTV rehberinin adresini isteyin ve *Ayarlar → Hesap → Bilgileri düzenle* bölümüne girin.
 
 ### Filmleri ve dizileri göremiyorum (M3U)
-Nyvo’da listeler yalnızca canlı TV verir. Xtream hesabınız varsa filmler ve diziler için onunla oturum açın.
+Nyvy’de listeler yalnızca canlı TV verir. Xtream hesabınız varsa filmler ve diziler için onunla oturum açın.
 
-### Nyvo’dan nasıl çıkarım?
+### Nyvy’den nasıl çıkarım?
 Yan menü seçili olana kadar Geri tuşuna basın, tekrar Geri’ye basın ve *Çık*’ı seçin.

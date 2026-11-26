@@ -6,7 +6,7 @@ lang: pt
 
 # Privacidade
 
-<p class="lead">Resumindo: tudo o que o Nyvo guarda fica na sua TV. Não existe servidor do Nyvo, nem conta com a gente, nem estatísticas sobre como você usa o app.</p>
+<p class="lead">Resumindo: tudo o que o Nyvy guarda fica na sua TV. Não existe servidor do Nyvy, nem conta com a gente, nem estatísticas sobre como você usa o app.</p>
 
 ## O que é guardado, na sua TV
 
@@ -23,7 +23,7 @@ lang: pt
 
 - **Para o seu provedor:** o login, o download do catálogo e do guia de TV e as transmissões que você assiste. O provedor trata esses dados conforme os próprios termos.
 - **Para endereços que você mesmo digita** (lista e guia de TV).
-- **Nada para o Nyvo** nem para mais ninguém: sem estatísticas, sem anúncios, sem rastreamento.
+- **Nada para o Nyvy** nem para mais ninguém: sem estatísticas, sem anúncios, sem rastreamento.
 
 ## Este site
 
@@ -31,4 +31,4 @@ Este site fica no GitHub Pages e não usa cookies nem ferramentas de análise. O
 
 ## Conteúdo
 
-O Nyvo não contém canais de TV, filmes nem séries, e não vende assinaturas. Tudo o que você assiste vem do seu próprio provedor.
+O Nyvy não contém canais de TV, filmes nem séries, e não vende assinaturas. Tudo o que você assiste vem do seu próprio provedor.

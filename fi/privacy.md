@@ -6,7 +6,7 @@ lang: fi
 
 # Tietosuoja
 
-<p class="lead">Lyhyesti: kaikki, mitä Nyvo tallentaa, pysyy televisiossasi. Nyvolla ei ole palvelinta, et luo meille tiliä, eikä sovelluksen käytöstä kerätä tilastoja.</p>
+<p class="lead">Lyhyesti: kaikki, mitä Nyvy tallentaa, pysyy televisiossasi. Nyvyllä ei ole palvelinta, et luo meille tiliä, eikä sovelluksen käytöstä kerätä tilastoja.</p>
 
 ## Mitä tallennetaan, televisioosi
 
@@ -23,7 +23,7 @@ lang: fi
 
 - **Palveluntarjoajallesi:** kirjautuminen, valikoiman ja TV-oppaan lataus sekä katsomasi lähetykset. Palveluntarjoaja käsittelee niitä omien ehtojensa mukaan.
 - **Itse antamiisi osoitteisiin** (soittolista ja TV-opas).
-- **Ei mitään Nyvolle** eikä kenellekään muulle: ei tilastoja, ei mainoksia, ei seurantaa.
+- **Ei mitään Nyvylle** eikä kenellekään muulle: ei tilastoja, ei mainoksia, ei seurantaa.
 
 ## Tämä sivusto
 
@@ -31,4 +31,4 @@ Sivusto toimii GitHub Pagesissa eikä käytä evästeitä tai analytiikkatyökal
 
 ## Sisältö
 
-Nyvo ei sisällä TV-kanavia, elokuvia eikä sarjoja, eikä myy tilauksia. Kaikki, mitä katsot, tulee omalta palveluntarjoajaltasi.
+Nyvy ei sisällä TV-kanavia, elokuvia eikä sarjoja, eikä myy tilauksia. Kaikki, mitä katsot, tulee omalta palveluntarjoajaltasi.

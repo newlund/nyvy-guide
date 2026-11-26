@@ -6,33 +6,33 @@ lang: es
 
 # Manual
 
-<p class="lead">Todo lo que necesitas para empezar con Nyvo y sacarle el máximo partido.</p>
+<p class="lead">Todo lo que necesitas para empezar con Nyvy y sacarle el máximo partido.</p>
 
 **Contenido:** [Primeros pasos](#getting-started) · [El mando](#remote) · [TV en directo](#live-tv) · [Guía de TV y catch-up](#tv-guide) · [Películas y series](#films-series) · [Audio y subtítulos](#audio-subtitles) · [Buscar, favoritos y orden](#search) · [Ajustes](#settings) · [Preguntas frecuentes](#faq)
 
 ## Primeros pasos {#getting-started}
 
-Nyvo no incluye canales. Necesitas una suscripción con un proveedor de IPTV y los datos que te ha dado.
+Nyvy no incluye canales. Necesitas una suscripción con un proveedor de IPTV y los datos que te ha dado.
 
 ### Iniciar sesión
 
-La primera vez que abres Nyvo, elige el tipo de cuenta:
+La primera vez que abres Nyvy, elige el tipo de cuenta:
 
 | Tipo de cuenta | Qué introduces | Qué obtienes |
 |---|---|---|
 | **Xtream Codes** | Dirección del servidor, usuario y contraseña | TV en directo, guía de TV, catch-up, películas, series y estado de la cuenta |
 | **Lista M3U** | La dirección de la lista y, si hace falta, la de la guía | TV en directo con grupos, guía de TV, favoritos y búsqueda |
 
-> ¿Te han dado un «enlace M3U» con `get.php?username=…&password=…`? En realidad es una cuenta Xtream. Nyvo lo reconoce y te ofrece iniciar sesión como Xtream, así tendrás también películas y series.
+> ¿Te han dado un «enlace M3U» con `get.php?username=…&password=…`? En realidad es una cuenta Xtream. Nyvy lo reconoce y te ofrece iniciar sesión como Xtream, así tendrás también películas y series.
 
-Tras iniciar sesión, Nyvo descarga el catálogo (canales, películas y series) y la guía de TV. La primera vez puede tardar un minuto; después va rápido. Al abrir Nyvo, el catálogo y la guía se actualizan solos si tienen más de 12 horas, y siempre puedes actualizarlos tú en *Ajustes → Cuenta*.
+Tras iniciar sesión, Nyvy descarga el catálogo (canales, películas y series) y la guía de TV. La primera vez puede tardar un minuto; después va rápido. Al abrir Nyvy, el catálogo y la guía se actualizan solos si tienen más de 12 horas, y siempre puedes actualizarlos tú en *Ajustes → Cuenta*.
 
 ## El mando {#remote}
 
 | Botón | Función |
 |---|---|
 | Flechas y OK | Moverse y seleccionar |
-| Atrás | Volver. En el menú lateral: salir de Nyvo |
+| Atrás | Volver. En el menú lateral: salir de Nyvy |
 | Rojo | Añadir o quitar favorito |
 | Verde | Ordenar (en listas) · audio y subtítulos (al ver) |
 | Amarillo | Canal anterior (TV en directo a pantalla completa) |
@@ -114,7 +114,7 @@ Lo más probable es que la película solo tenga audio en DTS o Dolby TrueHD, que
 No todas las listas indican una guía. Pide a tu proveedor la dirección de una guía XMLTV e introdúcela en *Ajustes → Cuenta → Editar datos*.
 
 ### No veo películas ni series (M3U)
-En Nyvo las listas solo dan TV en directo. Si tienes una cuenta Xtream, inicia sesión con ella para tener películas y series.
+En Nyvy las listas solo dan TV en directo. Si tienes una cuenta Xtream, inicia sesión con ella para tener películas y series.
 
-### ¿Cómo salgo de Nyvo?
+### ¿Cómo salgo de Nyvy?
 Pulsa Atrás hasta que el menú lateral esté seleccionado, pulsa Atrás otra vez y elige *Salir*.

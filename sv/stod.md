@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Stöd Nyvo
+title: Stöd Nyvy
 lang: sv
 ---
 
-# Stöd Nyvo
+# Stöd Nyvy
 
-<p class="lead">Nyvo är gratis och utan reklam. Gillar du appen och vill bidra till fortsatt utveckling kan du bjuda på en kaffe. Tack!</p>
+<p class="lead">Nyvy är gratis och utan reklam. Gillar du appen och vill bidra till fortsatt utveckling kan du bjuda på en kaffe. Tack!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-Ett bidrag är frivilligt och ger inga extra funktioner. Nyvo fungerar likadant för alla.
+Ett bidrag är frivilligt och ger inga extra funktioner. Nyvy fungerar likadant för alla.
 
 ## Andra sätt att hjälpa till
 

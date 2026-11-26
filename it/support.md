@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Sostieni Nyvo
+title: Sostieni Nyvy
 lang: it
 ---
 
-# Sostieni Nyvo
+# Sostieni Nyvy
 
-<p class="lead">Nyvo è gratuito e senza pubblicità. Se ti piace l’app e vuoi aiutarla a migliorare, puoi offrirmi un caffè. Grazie!</p>
+<p class="lead">Nyvy è gratuito e senza pubblicità. Se ti piace l’app e vuoi aiutarla a migliorare, puoi offrirmi un caffè. Grazie!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-Un contributo è facoltativo e non sblocca nulla. Nyvo funziona allo stesso modo per tutti.
+Un contributo è facoltativo e non sblocca nulla. Nyvy funziona allo stesso modo per tutti.
 
 ## Altri modi per aiutare
 

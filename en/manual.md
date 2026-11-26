@@ -6,33 +6,33 @@ lang: en
 
 # Manual
 
-<p class="lead">Everything you need to get started with Nyvo and get the most out of it.</p>
+<p class="lead">Everything you need to get started with Nyvy and get the most out of it.</p>
 
 **Contents:** [Getting started](#getting-started) · [The remote](#the-remote) · [Live TV](#live-tv) · [TV Guide and catch-up](#tv-guide-and-catch-up) · [Films and series](#films-and-series) · [Audio and subtitles](#audio-and-subtitles) · [Search, favorites and sorting](#search-favorites-and-sorting) · [Settings](#settings) · [Common questions](#common-questions)
 
 ## Getting started
 
-Nyvo contains no channels itself. You need a subscription with an IPTV provider, and the details they gave you.
+Nyvy contains no channels itself. You need a subscription with an IPTV provider, and the details they gave you.
 
 ### Sign in
 
-The first time you start Nyvo, choose the account type:
+The first time you start Nyvy, choose the account type:
 
 | Account type | What you enter | What you get |
 |---|---|---|
 | **Xtream Codes** | Server address, username and password | Live TV, TV Guide, catch-up, films, series and account status |
 | **M3U playlist** | The playlist address, and the guide address if needed | Live TV with groups, TV Guide, favorites and search |
 
-> Got an "M3U link" containing `get.php?username=…&password=…`? That is really an Xtream account. Nyvo recognises it and offers to sign in as Xtream instead, which also gives you films and series.
+> Got an "M3U link" containing `get.php?username=…&password=…`? That is really an Xtream account. Nyvy recognises it and offers to sign in as Xtream instead, which also gives you films and series.
 
-After signing in, Nyvo downloads the catalogue (channels, films and series) and the TV Guide. The first time can take a minute; after that it's quick. When you start Nyvo, the catalogue and guide are updated automatically if they are more than 12 hours old, and you can always update them yourself under *Settings → Account*.
+After signing in, Nyvy downloads the catalogue (channels, films and series) and the TV Guide. The first time can take a minute; after that it's quick. When you start Nyvy, the catalogue and guide are updated automatically if they are more than 12 hours old, and you can always update them yourself under *Settings → Account*.
 
 ## The remote
 
 | Button | Does |
 |---|---|
 | Arrows and OK | Move and select |
-| Back | Go back. On the side menu: exit Nyvo |
+| Back | Go back. On the side menu: exit Nyvy |
 | Red | Add or remove a favorite |
 | Green | Sort (in lists) · audio and subtitles (while watching) |
 | Yellow | Previous channel (full-screen live TV) |
@@ -114,7 +114,7 @@ The film most likely has audio only in DTS or Dolby TrueHD, which LG TVs can't p
 Not every playlist names a TV Guide. Ask your provider for the address of an XMLTV guide and enter it under *Settings → Account → Edit details*.
 
 ### I don't see films and series (M3U)
-Playlists give live TV only in Nyvo. If you have an Xtream account, sign in with it to get films and series.
+Playlists give live TV only in Nyvy. If you have an Xtream account, sign in with it to get films and series.
 
-### How do I exit Nyvo?
+### How do I exit Nyvy?
 Press Back until the side menu is highlighted, press Back again and choose *Exit*.

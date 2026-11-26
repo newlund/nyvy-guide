@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Nyvo
+title: Nyvy
 ---
 
-# Nyvo
+# Nyvy
 
 <p class="lead">IPTV player for LG webOS TVs · Choose your language</p>
 

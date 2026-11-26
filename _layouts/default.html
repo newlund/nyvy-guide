@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title and page.title != 'Nyvo' %}{{ page.title }} · {% endif %}Nyvo</title>
+  <title>{% if page.title and page.title != 'Nyvy' %}{{ page.title }} · {% endif %}Nyvy</title>
   <meta name="description" content="{{ site.description }}">
   <link rel="icon" href="{{ '/assets/icon.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
@@ -13,7 +13,7 @@
   <header class="top">
     {% if L %}
     <a class="brand" href="{{ '/' | append: page.lang | append: '/' | relative_url }}">
-      <img src="{{ '/assets/icon.png' | relative_url }}" alt="" width="36" height="36"> Nyvo
+      <img src="{{ '/assets/icon.png' | relative_url }}" alt="" width="36" height="36"> Nyvy
     </a>
     <nav>
       <a href="{{ '/' | append: page.lang | append: '/manual.html' | relative_url }}">{{ L.manual }}</a>
@@ -23,7 +23,7 @@
     </nav>
     {% else %}
     <a class="brand" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/icon.png' | relative_url }}" alt="" width="36" height="36"> Nyvo
+      <img src="{{ '/assets/icon.png' | relative_url }}" alt="" width="36" height="36"> Nyvy
     </a>
     {% endif %}
   </header>

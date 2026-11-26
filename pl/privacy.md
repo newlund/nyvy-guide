@@ -6,7 +6,7 @@ lang: pl
 
 # Prywatność
 
-<p class="lead">W skrócie: wszystko, co zapisuje Nyvo, zostaje na twoim telewizorze. Nie ma serwera Nyvo, nie zakładasz u nas konta i nie zbieramy statystyk o tym, jak korzystasz z aplikacji.</p>
+<p class="lead">W skrócie: wszystko, co zapisuje Nyvy, zostaje na twoim telewizorze. Nie ma serwera Nyvy, nie zakładasz u nas konta i nie zbieramy statystyk o tym, jak korzystasz z aplikacji.</p>
 
 ## Co jest zapisywane, na twoim telewizorze
 
@@ -23,7 +23,7 @@ lang: pl
 
 - **Do twojego dostawcy:** logowanie, pobieranie katalogu i programu TV oraz strumienie, które oglądasz. Dostawca przetwarza je zgodnie z własnymi warunkami.
 - **Na adresy, które sam podajesz** (lista i program TV).
-- **Nic do Nyvo** ani nikogo innego: bez statystyk, bez reklam, bez śledzenia.
+- **Nic do Nyvy** ani nikogo innego: bez statystyk, bez reklam, bez śledzenia.
 
 ## Ta strona
 
@@ -31,4 +31,4 @@ Strona jest hostowana w GitHub Pages i nie używa plików cookie ani narzędzi a
 
 ## Treści
 
-Nyvo nie zawiera kanałów TV, filmów ani seriali i nie sprzedaje subskrypcji. Wszystko, co oglądasz, pochodzi od twojego dostawcy.
+Nyvy nie zawiera kanałów TV, filmów ani seriali i nie sprzedaje subskrypcji. Wszystko, co oglądasz, pochodzi od twojego dostawcy.

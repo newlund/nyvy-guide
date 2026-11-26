@@ -6,7 +6,7 @@ lang: nl
 
 # Privacy
 
-<p class="lead">Kort gezegd: alles wat Nyvo opslaat, blijft op je tv. Er is geen Nyvo-server, geen account bij ons en geen statistiek over hoe je de app gebruikt.</p>
+<p class="lead">Kort gezegd: alles wat Nyvy opslaat, blijft op je tv. Er is geen Nyvy-server, geen account bij ons en geen statistiek over hoe je de app gebruikt.</p>
 
 ## Wat wordt opgeslagen, op je tv
 
@@ -23,7 +23,7 @@ lang: nl
 
 - **Naar je aanbieder:** het inloggen, het ophalen van het aanbod en de tv-gids, en de streams die je bekijkt. De aanbieder verwerkt die volgens zijn eigen voorwaarden.
 - **Naar adressen die je zelf invult** (afspeellijst en tv-gids).
-- **Niets naar Nyvo** of anderen: geen statistiek, geen reclame, geen tracking.
+- **Niets naar Nyvy** of anderen: geen statistiek, geen reclame, geen tracking.
 
 ## Deze website
 
@@ -31,4 +31,4 @@ Deze website staat op GitHub Pages en gebruikt geen cookies of analysetools. Git
 
 ## Inhoud
 
-Nyvo bevat geen tv-zenders, films of series en verkoopt geen abonnementen. Alles wat je bekijkt, komt van je eigen aanbieder.
+Nyvy bevat geen tv-zenders, films of series en verkoopt geen abonnementen. Alles wat je bekijkt, komt van je eigen aanbieder.

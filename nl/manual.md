@@ -6,33 +6,33 @@ lang: nl
 
 # Handleiding
 
-<p class="lead">Alles wat je nodig hebt om met Nyvo aan de slag te gaan en er het meeste uit te halen.</p>
+<p class="lead">Alles wat je nodig hebt om met Nyvy aan de slag te gaan en er het meeste uit te halen.</p>
 
 **Inhoud:** [Aan de slag](#getting-started) · [De afstandsbediening](#remote) · [Live tv](#live-tv) · [Tv-gids en terugkijken](#tv-guide) · [Films en series](#films-series) · [Audio en ondertiteling](#audio-subtitles) · [Zoeken, favorieten en sorteren](#search) · [Instellingen](#settings) · [Veelgestelde vragen](#faq)
 
 ## Aan de slag {#getting-started}
 
-Nyvo bevat zelf geen zenders. Je hebt een abonnement bij een IPTV-aanbieder nodig en de gegevens die je van hen hebt gekregen.
+Nyvy bevat zelf geen zenders. Je hebt een abonnement bij een IPTV-aanbieder nodig en de gegevens die je van hen hebt gekregen.
 
 ### Inloggen
 
-De eerste keer dat je Nyvo start, kies je het type account:
+De eerste keer dat je Nyvy start, kies je het type account:
 
 | Type account | Wat je invult | Wat je krijgt |
 |---|---|---|
 | **Xtream Codes** | Serveradres, gebruikersnaam en wachtwoord | Live tv, tv-gids, terugkijken, films, series en accountstatus |
 | **M3U-afspeellijst** | Het adres van de afspeellijst en zo nodig het adres van de tv-gids | Live tv met groepen, tv-gids, favorieten en zoeken |
 
-> Heb je een "M3U-link" met `get.php?username=…&password=…` gekregen? Dan is het eigenlijk een Xtream-account. Nyvo herkent dat en biedt aan om als Xtream in te loggen, zodat je ook films en series krijgt.
+> Heb je een "M3U-link" met `get.php?username=…&password=…` gekregen? Dan is het eigenlijk een Xtream-account. Nyvy herkent dat en biedt aan om als Xtream in te loggen, zodat je ook films en series krijgt.
 
-Na het inloggen haalt Nyvo het aanbod (zenders, films en series) en de tv-gids op. De eerste keer kan dat een minuut duren, daarna gaat het snel. Bij het starten van Nyvo worden het aanbod en de gids automatisch bijgewerkt als ze ouder zijn dan 12 uur, en je kunt ze altijd zelf bijwerken via *Instellingen → Account*.
+Na het inloggen haalt Nyvy het aanbod (zenders, films en series) en de tv-gids op. De eerste keer kan dat een minuut duren, daarna gaat het snel. Bij het starten van Nyvy worden het aanbod en de gids automatisch bijgewerkt als ze ouder zijn dan 12 uur, en je kunt ze altijd zelf bijwerken via *Instellingen → Account*.
 
 ## De afstandsbediening {#remote}
 
 | Knop | Functie |
 |---|---|
 | Pijlen en OK | Bewegen en kiezen |
-| Terug | Teruggaan. In het zijmenu: Nyvo afsluiten |
+| Terug | Teruggaan. In het zijmenu: Nyvy afsluiten |
 | Rood | Favoriet toevoegen of verwijderen |
 | Groen | Sorteren (in lijsten) · audio en ondertiteling (tijdens het kijken) |
 | Geel | Vorige zender (live tv op volledig scherm) |
@@ -114,7 +114,7 @@ De film heeft waarschijnlijk alleen geluid in DTS of Dolby TrueHD, dat LG-tv's n
 Niet elke afspeellijst noemt een tv-gids. Vraag je aanbieder om het adres van een XMLTV-gids en vul het in via *Instellingen → Account → Gegevens wijzigen*.
 
 ### Ik zie geen films en series (M3U)
-Afspeellijsten geven in Nyvo alleen live tv. Heb je een Xtream-account, log daar dan mee in om films en series te krijgen.
+Afspeellijsten geven in Nyvy alleen live tv. Heb je een Xtream-account, log daar dan mee in om films en series te krijgen.
 
-### Hoe sluit ik Nyvo af?
+### Hoe sluit ik Nyvy af?
 Druk op Terug tot het zijmenu gemarkeerd is, druk nog een keer op Terug en kies *Afsluiten*.

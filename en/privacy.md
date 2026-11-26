@@ -6,7 +6,7 @@ lang: en
 
 # Privacy
 
-<p class="lead">In short: everything Nyvo stores stays on your TV. There is no Nyvo server, no account with us and no statistics about how you use the app.</p>
+<p class="lead">In short: everything Nyvy stores stays on your TV. There is no Nyvy server, no account with us and no statistics about how you use the app.</p>
 
 ## What is stored, on your TV
 
@@ -23,7 +23,7 @@ lang: en
 
 - **To your provider:** signing in, downloading the catalogue and TV Guide, and the streams you watch. The provider handles these under its own terms.
 - **To addresses you enter yourself** (playlist and TV Guide).
-- **Nothing to Nyvo** or anyone else: no statistics, no ads, no tracking.
+- **Nothing to Nyvy** or anyone else: no statistics, no ads, no tracking.
 
 ## This website
 
@@ -31,4 +31,4 @@ This website is hosted on GitHub Pages and uses no cookies or analytics. GitHub 
 
 ## Content
 
-Nyvo contains no TV channels, films or series, and sells no subscriptions. Everything you watch comes from your own provider.
+Nyvy contains no TV channels, films or series, and sells no subscriptions. Everything you watch comes from your own provider.

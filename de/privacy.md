@@ -6,7 +6,7 @@ lang: de
 
 # Datenschutz
 
-<p class="lead">Kurz gesagt: Alles, was Nyvo speichert, bleibt auf deinem Fernseher. Es gibt keinen Nyvo-Server, kein Konto bei uns und keine Statistik darüber, wie du die App nutzt.</p>
+<p class="lead">Kurz gesagt: Alles, was Nyvy speichert, bleibt auf deinem Fernseher. Es gibt keinen Nyvy-Server, kein Konto bei uns und keine Statistik darüber, wie du die App nutzt.</p>
 
 ## Das wird gespeichert, auf deinem Fernseher
 
@@ -23,7 +23,7 @@ lang: de
 
 - **An deinen Anbieter:** die Anmeldung, das Laden von Angebot und TV-Programm sowie die Streams, die du ansiehst. Der Anbieter verarbeitet das nach seinen eigenen Bedingungen.
 - **An Adressen, die du selbst eingibst** (Playlist und TV-Programm).
-- **Nichts an Nyvo** oder an andere: keine Statistik, keine Werbung, kein Tracking.
+- **Nichts an Nyvy** oder an andere: keine Statistik, keine Werbung, kein Tracking.
 
 ## Diese Website
 
@@ -31,4 +31,4 @@ Diese Website liegt auf GitHub Pages und verwendet keine Cookies oder Analysewer
 
 ## Inhalte
 
-Nyvo enthält keine TV-Sender, Filme oder Serien und verkauft keine Abonnements. Alles, was du siehst, kommt von deinem eigenen Anbieter.
+Nyvy enthält keine TV-Sender, Filme oder Serien und verkauft keine Abonnements. Alles, was du siehst, kommt von deinem eigenen Anbieter.

@@ -6,33 +6,33 @@ lang: fi
 
 # Käyttöohje
 
-<p class="lead">Kaikki, mitä tarvitset Nyvon käytön aloittamiseen ja sen parhaaseen hyödyntämiseen.</p>
+<p class="lead">Kaikki, mitä tarvitset Nyvyn käytön aloittamiseen ja sen parhaaseen hyödyntämiseen.</p>
 
 **Sisältö:** [Aloitus](#getting-started) · [Kaukosäädin](#remote) · [Suora TV](#live-tv) · [TV-opas ja catch-up](#tv-guide) · [Elokuvat ja sarjat](#films-series) · [Ääni ja tekstitys](#audio-subtitles) · [Haku, suosikit ja järjestys](#search) · [Asetukset](#settings) · [Usein kysytyt kysymykset](#faq)
 
 ## Aloitus {#getting-started}
 
-Nyvo ei itse sisällä kanavia. Tarvitset tilauksen IPTV-palveluntarjoajalta ja heiltä saamasi tiedot.
+Nyvy ei itse sisällä kanavia. Tarvitset tilauksen IPTV-palveluntarjoajalta ja heiltä saamasi tiedot.
 
 ### Kirjautuminen
 
-Kun käynnistät Nyvon ensimmäisen kerran, valitse tilin tyyppi:
+Kun käynnistät Nyvyn ensimmäisen kerran, valitse tilin tyyppi:
 
 | Tilin tyyppi | Mitä täytät | Mitä saat |
 |---|---|---|
 | **Xtream Codes** | Palvelimen osoite, käyttäjätunnus ja salasana | Suora TV, TV-opas, catch-up, elokuvat, sarjat ja tilin tila |
 | **M3U-soittolista** | Soittolistan osoite ja tarvittaessa TV-oppaan osoite | Suora TV ryhmineen, TV-opas, suosikit ja haku |
 
-> Saitko "M3U-linkin", jossa on `get.php?username=…&password=…`? Se on oikeastaan Xtream-tili. Nyvo tunnistaa sen ja tarjoaa kirjautumista Xtream-tilinä, jolloin saat myös elokuvat ja sarjat.
+> Saitko "M3U-linkin", jossa on `get.php?username=…&password=…`? Se on oikeastaan Xtream-tili. Nyvy tunnistaa sen ja tarjoaa kirjautumista Xtream-tilinä, jolloin saat myös elokuvat ja sarjat.
 
-Kirjautumisen jälkeen Nyvo lataa valikoiman (kanavat, elokuvat ja sarjat) ja TV-oppaan. Ensimmäisellä kerralla se voi kestää minuutin, sen jälkeen se on nopeaa. Kun käynnistät Nyvon, valikoima ja opas päivittyvät automaattisesti, jos ne ovat yli 12 tuntia vanhoja, ja voit aina päivittää ne itse kohdassa *Asetukset → Tili*.
+Kirjautumisen jälkeen Nyvy lataa valikoiman (kanavat, elokuvat ja sarjat) ja TV-oppaan. Ensimmäisellä kerralla se voi kestää minuutin, sen jälkeen se on nopeaa. Kun käynnistät Nyvyn, valikoima ja opas päivittyvät automaattisesti, jos ne ovat yli 12 tuntia vanhoja, ja voit aina päivittää ne itse kohdassa *Asetukset → Tili*.
 
 ## Kaukosäädin {#remote}
 
 | Painike | Toiminto |
 |---|---|
 | Nuolet ja OK | Liiku ja valitse |
-| Takaisin | Palaa. Sivuvalikossa: sulje Nyvo |
+| Takaisin | Palaa. Sivuvalikossa: sulje Nyvy |
 | Punainen | Lisää tai poista suosikki |
 | Vihreä | Järjestä (listoissa) · ääni ja tekstitys (katsellessa) |
 | Keltainen | Edellinen kanava (suora TV koko näytöllä) |
@@ -114,7 +114,7 @@ Elokuvassa on todennäköisesti vain DTS- tai Dolby TrueHD -ääni, jota LG-tele
 Kaikki soittolistat eivät ilmoita TV-opasta. Kysy palveluntarjoajalta XMLTV-oppaan osoite ja täytä se kohtaan *Asetukset → Tili → Muokkaa tietoja*.
 
 ### En näe elokuvia ja sarjoja (M3U)
-Soittolistat antavat Nyvossa vain suoran TV:n. Jos sinulla on Xtream-tili, kirjaudu sillä saadaksesi elokuvat ja sarjat.
+Soittolistat antavat Nyvyssä vain suoran TV:n. Jos sinulla on Xtream-tili, kirjaudu sillä saadaksesi elokuvat ja sarjat.
 
-### Miten suljen Nyvon?
+### Miten suljen Nyvyn?
 Paina Takaisin, kunnes sivuvalikko on korostettuna, paina Takaisin vielä kerran ja valitse *Sulje*.

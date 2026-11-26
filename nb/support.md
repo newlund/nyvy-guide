@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Støtt Nyvo
+title: Støtt Nyvy
 lang: nb
 ---
 
-# Støtt Nyvo
+# Støtt Nyvy
 
-<p class="lead">Nyvo er gratis og uten reklame. Liker du appen og vil bidra til videre utvikling, kan du spandere en kaffe. Takk!</p>
+<p class="lead">Nyvy er gratis og uten reklame. Liker du appen og vil bidra til videre utvikling, kan du spandere en kaffe. Takk!</p>
 
-<a class="button" href="https://buymeacoffee.com/nyvo">☕ Buy Me a Coffee</a>
+<a class="button" href="https://buymeacoffee.com/nyvy">☕ Buy Me a Coffee</a>
 
-Et bidrag er frivillig og gir ingen ekstra funksjoner. Nyvo fungerer likt for alle.
+Et bidrag er frivillig og gir ingen ekstra funksjoner. Nyvy fungerer likt for alle.
 
 ## Andre måter å hjelpe på
 
