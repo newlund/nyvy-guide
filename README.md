@@ -11,3 +11,5 @@ Published with GitHub Pages at <https://newlund.github.io/nyvy-guide/> in the ap
 - The app's standard test (package suite) checks that every language has its pages and that the manuals use the app's own button and menu names.
 
 The Nyvy app links here from *Settings → About* with a QR code.
+
+Until the app is out, every page shows a "not released yet" banner (text per language: `notice` in `_data/i18n.yml`). Set `prerelease: false` in `_config.yml` at launch to remove it everywhere.
