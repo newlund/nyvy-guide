@@ -12,6 +12,8 @@ lang: da
 
 ## Kom i gang {#getting-started}
 
+![Kom i gang](../assets/screens/da/login.jpg)
+
 Nyvy indeholder ingen kanaler selv. Du skal have et abonnement hos en IPTV-udbyder og de oplysninger, du har fået fra dem.
 
 ### Log ind
@@ -48,6 +50,9 @@ Magic Remote virker også: peg for at markere, klik for at vælge og rul med hju
 
 ## Live-tv {#live-tv}
 
+![Live-tv](../assets/screens/da/live.jpg)
+![Live-tv](../assets/screens/da/live-fullscreen.jpg)
+
 - **Vælg kanal:** til venstre er kategorierne, i midten kanalerne med det program, der kører. OK afspiller kanalen i forhåndsvisningen, OK igen giver fuld skærm.
 - **I fuld skærm:**
   - Op/ned eller CH+/CH− skifter kanal.
@@ -57,6 +62,8 @@ Magic Remote virker også: peg for at markere, klik for at vælge og rul med hju
   - Tilbage forlader fuld skærm.
 
 ## Tv-guide og catch-up {#tv-guide}
+
+![Tv-guide og catch-up](../assets/screens/da/guide.jpg)
 
 - **Tv-guiden** viser programmerne for alle kanaler i et gitter med en linje for "nu". OK på et program, der kører, starter kanalen.
 - **Catch-up:** kanaler med ↺ har arkiv hos udbyderen. Der kan du bladre tilbage i guiden, starte et program, der allerede er sendt, og spole i det.
@@ -75,17 +82,24 @@ Film og serier findes til Xtream-konti.
 
 ## Lyd og undertekster {#audio-subtitles}
 
+![Lyd og undertekster](../assets/screens/da/tracks.jpg)
+
 - **Film og serier:** tryk ned eller Grøn for at vælge lydspor, undertekster og version.
 - **Live-tv:** tryk Grøn for at slå udsendelsens undertekster til eller fra og vælge lydspor.
 - **Standardvalg:** under *Indstillinger → Generelt* vælger du foretrukket lydsprog, om undertekster skal være slået til, første- og andetvalg for undertekstsprog samt tekststørrelse og type.
 
 ## Søgning, favoritter og sortering {#search}
 
+![Søgning, favoritter og sortering](../assets/screens/da/search.jpg)
+
 - **Søg:** skriv med tastaturet på skærmen eller med fjernbetjeningens tal. Søgningen finder kanaler, film og serier og ser bort fra accenter (*malmo* finder *Malmö*).
 - **Favoritter:** tryk Rød på en kanal, film eller serie. Favoritterne ligger først i hver liste og under *Favoritter* i menuen.
 - **Sortering:** knappen *Sortering* øverst i listerne (eller Grøn). Kanaler kan sorteres efter nummer, kvalitet eller navn, og film og serier for eksempel efter senest tilføjet, år, bedømmelse eller kvalitet. Serier kan også sorteres efter afsnittenes længde.
 
 ## Indstillinger {#settings}
+
+![Indstillinger](../assets/screens/da/settings.jpg)
+![Indstillinger](../assets/screens/da/about.jpg)
 
 - **Konto:**
   - Viser dine oplysninger, hvornår udvalget blev opdateret, og knappen *Opdater udvalget*.

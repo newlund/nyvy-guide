@@ -12,6 +12,8 @@ lang: fi
 
 ## Aloitus {#getting-started}
 
+![Aloitus](../assets/screens/fi/login.jpg)
+
 Nyvy ei itse sisällä kanavia. Tarvitset tilauksen IPTV-palveluntarjoajalta ja heiltä saamasi tiedot.
 
 ### Kirjautuminen
@@ -48,6 +50,9 @@ Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vierit�
 
 ## Suora TV {#live-tv}
 
+![Suora TV](../assets/screens/fi/live.jpg)
+![Suora TV](../assets/screens/fi/live-fullscreen.jpg)
+
 - **Valitse kanava:** vasemmalla ovat luokat, keskellä kanavat ja meneillään oleva ohjelma. OK toistaa kanavan esikatselussa, ja uusi OK avaa koko näytön.
 - **Koko näytöllä:**
   - Ylös/alas tai CH+/CH− vaihtavat kanavaa.
@@ -57,6 +62,8 @@ Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vierit�
   - Takaisin poistuu koko näytöltä.
 
 ## TV-opas ja catch-up {#tv-guide}
+
+![TV-opas ja catch-up](../assets/screens/fi/guide.jpg)
 
 - **TV-opas** näyttää kaikkien kanavien ohjelmat ruudukossa, jossa on "nyt"-viiva. OK meneillään olevan ohjelman kohdalla avaa kanavan.
 - **Catch-up:** kanavilla, joissa on ↺, on arkisto palveluntarjoajalla. Niissä voit selata opasta taaksepäin, aloittaa jo lähetetyn ohjelman ja siirtyä siinä.
@@ -75,17 +82,24 @@ Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
 
 ## Ääni ja tekstitys {#audio-subtitles}
 
+![Ääni ja tekstitys](../assets/screens/fi/tracks.jpg)
+
 - **Elokuvat ja sarjat:** paina alas tai Vihreää valitaksesi ääniraidan, tekstityksen ja version.
 - **Suora TV:** paina Vihreää kytkeäksesi lähetyksen tekstityksen päälle tai pois ja valitaksesi ääniraidan.
 - **Oletukset:** kohdassa *Asetukset → Yleiset* valitset ensisijaisen äänen kielen, onko tekstitys päällä, tekstityksen ensi- ja toissijaisen kielen sekä tekstin koon ja tyylin.
 
 ## Haku, suosikit ja järjestys {#search}
 
+![Haku, suosikit ja järjestys](../assets/screens/fi/search.jpg)
+
 - **Haku:** kirjoita näytön näppäimistöllä tai kaukosäätimen numeroilla. Haku löytää kanavat, elokuvat ja sarjat eikä välitä aksenteista (*malmo* löytää *Malmö*).
 - **Suosikit:** paina Punaista kanavan, elokuvan tai sarjan kohdalla. Suosikit ovat ensimmäisinä jokaisessa listassa ja kohdassa *Suosikit* valikossa.
 - **Järjestys:** painike *Järjestys* listojen yläosassa (tai Vihreä). Kanavat voi järjestää numeron, laadun tai nimen mukaan, elokuvat ja sarjat esimerkiksi viimeksi lisättyjen, vuoden, arvion tai laadun mukaan. Sarjat voi järjestää myös jaksojen keston mukaan.
 
 ## Asetukset {#settings}
+
+![Asetukset](../assets/screens/fi/settings.jpg)
+![Asetukset](../assets/screens/fi/about.jpg)
 
 - **Tili:**
   - Näyttää tietosi, milloin valikoima päivitettiin, ja painikkeen *Päivitä valikoima*.

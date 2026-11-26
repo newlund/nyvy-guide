@@ -12,6 +12,8 @@ lang: fr
 
 ## Premiers pas {#getting-started}
 
+![Premiers pas](../assets/screens/fr/login.jpg)
+
 Nyvy ne contient aucune chaîne. Tu as besoin d’un abonnement auprès d’un fournisseur IPTV et des informations qu’il t’a données.
 
 ### Se connecter
@@ -48,6 +50,9 @@ La Magic Remote fonctionne aussi : pointe pour sélectionner, clique pour valide
 
 ## TV en direct {#live-tv}
 
+![TV en direct](../assets/screens/fr/live.jpg)
+![TV en direct](../assets/screens/fr/live-fullscreen.jpg)
+
 - **Choisir une chaîne :** les catégories sont à gauche, les chaînes avec le programme en cours au centre. OK lit la chaîne dans l’aperçu ; OK de nouveau passe en plein écran.
 - **En plein écran :**
   - Haut/bas ou CH+/CH− changent de chaîne.
@@ -57,6 +62,8 @@ La Magic Remote fonctionne aussi : pointe pour sélectionner, clique pour valide
   - Retour quitte le plein écran.
 
 ## Guide TV et replay {#tv-guide}
+
+![Guide TV et replay](../assets/screens/fr/guide.jpg)
 
 - **Le guide TV** affiche les programmes de toutes les chaînes dans une grille avec une ligne « maintenant ». OK sur un programme en cours lance la chaîne.
 - **Replay :** les chaînes marquées ↺ ont des archives chez le fournisseur. Tu peux y remonter dans le guide, lancer un programme déjà diffusé et te déplacer dedans.
@@ -75,17 +82,24 @@ Les films et séries sont disponibles avec les comptes Xtream.
 
 ## Audio et sous-titres {#audio-subtitles}
 
+![Audio et sous-titres](../assets/screens/fr/tracks.jpg)
+
 - **Films et séries :** appuie sur bas ou Vert pour choisir la piste audio, les sous-titres et la version.
 - **TV en direct :** appuie sur Vert pour activer ou désactiver les sous-titres de la diffusion et choisir la piste audio.
 - **Par défaut :** dans *Réglages → Général*, tu choisis la langue audio préférée, si les sous-titres sont activés, les langues des sous-titres (1er et 2e choix) ainsi que la taille et le style du texte.
 
 ## Recherche, favoris et tri {#search}
 
+![Recherche, favoris et tri](../assets/screens/fr/search.jpg)
+
 - **Recherche :** tape avec le clavier à l’écran ou les chiffres de la télécommande. La recherche trouve chaînes, films et séries et ignore les accents (*malmo* trouve *Malmö*).
 - **Favoris :** appuie sur Rouge sur une chaîne, un film ou une série. Les favoris apparaissent en premier dans chaque liste et sous *Favoris* dans le menu.
 - **Tri :** le bouton *Tri* en haut des listes (ou Vert). Les chaînes se trient par numéro, qualité ou nom, les films et séries par exemple par ajouts récents, année, note ou qualité. Les séries peuvent aussi être triées par durée des épisodes.
 
 ## Réglages {#settings}
+
+![Réglages](../assets/screens/fr/settings.jpg)
+![Réglages](../assets/screens/fr/about.jpg)
 
 - **Compte :**
   - Affiche tes informations, la date de mise à jour du catalogue et le bouton *Mettre à jour le catalogue*.

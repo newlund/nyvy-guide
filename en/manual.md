@@ -12,6 +12,8 @@ lang: en
 
 ## Getting started
 
+![Getting started](../assets/screens/en/login.jpg)
+
 Nyvy contains no channels itself. You need a subscription with an IPTV provider, and the details they gave you.
 
 ### Sign in
@@ -48,6 +50,9 @@ The Magic Remote works too: point to highlight, click to select and scroll with 
 
 ## Live TV
 
+![Live TV](../assets/screens/en/live.jpg)
+![Live TV](../assets/screens/en/live-fullscreen.jpg)
+
 - **Choose a channel:** categories are on the left, channels with the current programme in the middle. OK plays the channel in the preview pane; OK again goes full screen.
 - **In full screen:**
   - Up/down or CH+/CH− switch channel.
@@ -57,6 +62,8 @@ The Magic Remote works too: point to highlight, click to select and scroll with 
   - Back leaves full screen.
 
 ## TV Guide and catch-up
+
+![TV Guide and catch-up](../assets/screens/en/guide.jpg)
 
 - **The TV Guide** shows the programmes for all channels in a grid with a "now" line. OK on a running programme starts the channel.
 - **Catch-up:** channels marked ↺ have an archive with the provider. There you can go back in the guide, start a programme that has already aired, and seek in it.
@@ -75,17 +82,24 @@ Films and series are available for Xtream accounts.
 
 ## Audio and subtitles
 
+![Audio and subtitles](../assets/screens/en/tracks.jpg)
+
 - **Films and series:** press down or Green to choose the audio track, subtitles and version.
 - **Live TV:** press Green to turn the broadcast's subtitles on or off (for example SVT's Swedish subtitles) and choose the audio track.
 - **Defaults:** under *Settings → Preferences* you choose the preferred audio language, whether subtitles are on, first and second choice subtitle languages, and the text size and style.
 
 ## Search, favorites and sorting
 
+![Search, favorites and sorting](../assets/screens/en/search.jpg)
+
 - **Search:** type with the on-screen keyboard or the remote's digits. Search finds channels, films and series, and ignores accents (*malmo* finds *Malmö*).
 - **Favorites:** press Red on a channel, film or series. Favorites come first in every list and under *Favorites* in the menu.
 - **Sorting:** the *Sort* button at the top of lists (or Green). Channels can be sorted by number, quality or name, and films and series by, for example, recently added, year, rating or quality. Series can also be sorted by episode length.
 
 ## Settings
+
+![Settings](../assets/screens/en/settings.jpg)
+![Settings](../assets/screens/en/about.jpg)
 
 - **Account:**
   - Shows your details, when the catalogue was updated, and the *Refresh catalogue* button.

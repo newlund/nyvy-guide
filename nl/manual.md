@@ -12,6 +12,8 @@ lang: nl
 
 ## Aan de slag {#getting-started}
 
+![Aan de slag](../assets/screens/nl/login.jpg)
+
 Nyvy bevat zelf geen zenders. Je hebt een abonnement bij een IPTV-aanbieder nodig en de gegevens die je van hen hebt gekregen.
 
 ### Inloggen
@@ -48,6 +50,9 @@ De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol m
 
 ## Live tv {#live-tv}
 
+![Live tv](../assets/screens/nl/live.jpg)
+![Live tv](../assets/screens/nl/live-fullscreen.jpg)
+
 - **Zender kiezen:** links staan de categorieën, in het midden de zenders met het huidige programma. OK speelt de zender af in het voorbeeldvenster, nog een keer OK geeft volledig scherm.
 - **Op volledig scherm:**
   - Omhoog/omlaag of CH+/CH− kiezen een andere zender.
@@ -57,6 +62,8 @@ De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol m
   - Terug verlaat het volledige scherm.
 
 ## Tv-gids en terugkijken {#tv-guide}
+
+![Tv-gids en terugkijken](../assets/screens/nl/guide.jpg)
 
 - **De tv-gids** toont de programma's van alle zenders in een raster met een lijn voor "nu". OK op een lopend programma start de zender.
 - **Terugkijken:** zenders met ↺ hebben een archief bij de aanbieder. Daar kun je terugbladeren in de gids, een programma starten dat al is uitgezonden en erin spoelen.
@@ -75,17 +82,24 @@ Films en series zijn beschikbaar voor Xtream-accounts.
 
 ## Audio en ondertiteling {#audio-subtitles}
 
+![Audio en ondertiteling](../assets/screens/nl/tracks.jpg)
+
 - **Films en series:** druk op omlaag of Groen om audiospoor, ondertiteling en versie te kiezen.
 - **Live tv:** druk op Groen om de ondertiteling van de uitzending aan of uit te zetten en het audiospoor te kiezen.
 - **Standaardinstellingen:** onder *Instellingen → Algemeen* kies je de voorkeurstaal voor audio, of ondertiteling aan staat, de ondertiteltalen (1e en 2e keuze) en de grootte en stijl van de tekst.
 
 ## Zoeken, favorieten en sorteren {#search}
 
+![Zoeken, favorieten en sorteren](../assets/screens/nl/search.jpg)
+
 - **Zoeken:** typ met het schermtoetsenbord of met de cijfers van de afstandsbediening. Zoeken vindt zenders, films en series en negeert accenten (*malmo* vindt *Malmö*).
 - **Favorieten:** druk op Rood bij een zender, film of serie. Favorieten staan bovenaan in elke lijst en onder *Favorieten* in het menu.
 - **Sorteren:** de knop *Sortering* bovenaan de lijsten (of Groen). Zenders kun je sorteren op nummer, kwaliteit of naam, films en series bijvoorbeeld op recent toegevoegd, jaar, beoordeling of kwaliteit. Series kun je ook sorteren op de lengte van de afleveringen.
 
 ## Instellingen {#settings}
+
+![Instellingen](../assets/screens/nl/settings.jpg)
+![Instellingen](../assets/screens/nl/about.jpg)
 
 - **Account:**
   - Toont je gegevens, wanneer het aanbod is bijgewerkt en de knop *Aanbod bijwerken*.

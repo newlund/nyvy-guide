@@ -12,6 +12,8 @@ lang: nb
 
 ## Kom i gang {#getting-started}
 
+![Kom i gang](../assets/screens/nb/login.jpg)
+
 Nyvy inneholder ingen kanaler selv. Du trenger et abonnement hos en IPTV-leverandør og opplysningene du har fått fra dem.
 
 ### Logg inn
@@ -48,6 +50,9 @@ Magic Remote fungerer også: pek for å markere, klikk for å velge og rull med 
 
 ## Direkte-TV {#live-tv}
 
+![Direkte-TV](../assets/screens/nb/live.jpg)
+![Direkte-TV](../assets/screens/nb/live-fullscreen.jpg)
+
 - **Velg kanal:** til venstre er kategoriene, i midten kanalene med programmet som går. OK spiller kanalen i forhåndsvisningen, OK igjen gir fullskjerm.
 - **I fullskjerm:**
   - Opp/ned eller CH+/CH− bytter kanal.
@@ -57,6 +62,8 @@ Magic Remote fungerer også: pek for å markere, klikk for å velge og rull med 
   - Tilbake går ut av fullskjerm.
 
 ## TV-guide og catch-up {#tv-guide}
+
+![TV-guide og catch-up](../assets/screens/nb/guide.jpg)
 
 - **TV-guiden** viser programmene for alle kanaler i et rutenett med en linje for «nå». OK på et program som går, starter kanalen.
 - **Catch-up:** kanaler med ↺ har arkiv hos leverandøren. Der kan du bla bakover i guiden, starte et program som allerede er sendt, og spole i det.
@@ -75,17 +82,24 @@ Filmer og serier finnes for Xtream-kontoer.
 
 ## Lyd og undertekster {#audio-subtitles}
 
+![Lyd og undertekster](../assets/screens/nb/tracks.jpg)
+
 - **Filmer og serier:** trykk ned eller Grønn for å velge lydspor, undertekster og versjon.
 - **Direkte-TV:** trykk Grønn for å slå sendingens undertekster av eller på og velge lydspor.
 - **Standardvalg:** under *Innstillinger → Generelt* velger du foretrukket lydspråk, om undertekster skal være på, første- og andrevalg for undertekstspråk, samt tekststørrelse og stil.
 
 ## Søk, favoritter og sortering {#search}
 
+![Søk, favoritter og sortering](../assets/screens/nb/search.jpg)
+
 - **Søk:** skriv med tastaturet på skjermen eller med fjernkontrollens tall. Søket finner kanaler, filmer og serier og bryr seg ikke om aksenter (*malmo* finner *Malmö*).
 - **Favoritter:** trykk Rød på en kanal, film eller serie. Favorittene ligger først i hver liste og under *Favoritter* i menyen.
 - **Sortering:** knappen *Sortering* øverst i listene (eller Grønn). Kanaler kan sorteres etter nummer, kvalitet eller navn, og filmer og serier for eksempel etter nylig lagt til, år, vurdering eller kvalitet. Serier kan også sorteres etter episodenes lengde.
 
 ## Innstillinger {#settings}
+
+![Innstillinger](../assets/screens/nb/settings.jpg)
+![Innstillinger](../assets/screens/nb/about.jpg)
 
 - **Konto:**
   - Viser opplysningene dine, når utvalget ble oppdatert, og knappen *Oppdater utvalget*.

@@ -12,6 +12,8 @@ lang: es
 
 ## Primeros pasos {#getting-started}
 
+![Primeros pasos](../assets/screens/es/login.jpg)
+
 Nyvy no incluye canales. Necesitas una suscripción con un proveedor de IPTV y los datos que te ha dado.
 
 ### Iniciar sesión
@@ -48,6 +50,9 @@ El Magic Remote también funciona: apunta para marcar, haz clic para seleccionar
 
 ## TV en directo {#live-tv}
 
+![TV en directo](../assets/screens/es/live.jpg)
+![TV en directo](../assets/screens/es/live-fullscreen.jpg)
+
 - **Elegir canal:** a la izquierda están las categorías y en el centro los canales con el programa actual. OK reproduce el canal en la vista previa; OK otra vez pasa a pantalla completa.
 - **A pantalla completa:**
   - Arriba/abajo o CH+/CH− cambian de canal.
@@ -57,6 +62,8 @@ El Magic Remote también funciona: apunta para marcar, haz clic para seleccionar
   - Atrás sale de la pantalla completa.
 
 ## Guía de TV y catch-up {#tv-guide}
+
+![Guía de TV y catch-up](../assets/screens/es/guide.jpg)
 
 - **La guía de TV** muestra los programas de todos los canales en una cuadrícula con una línea de «ahora». OK en un programa en emisión abre el canal.
 - **Catch-up:** los canales con ↺ tienen archivo en el proveedor. En ellos puedes retroceder en la guía, abrir un programa ya emitido y avanzar o retroceder en él.
@@ -75,17 +82,24 @@ Las películas y series están disponibles en las cuentas Xtream.
 
 ## Audio y subtítulos {#audio-subtitles}
 
+![Audio y subtítulos](../assets/screens/es/tracks.jpg)
+
 - **Películas y series:** pulsa abajo o Verde para elegir pista de audio, subtítulos y versión.
 - **TV en directo:** pulsa Verde para activar o desactivar los subtítulos de la emisión y elegir la pista de audio.
 - **Valores predeterminados:** en *Ajustes → General* eliges el idioma de audio preferido, si los subtítulos están activados, los idiomas de subtítulos (1.ª y 2.ª opción) y el tamaño y estilo del texto.
 
 ## Buscar, favoritos y orden {#search}
 
+![Buscar, favoritos y orden](../assets/screens/es/search.jpg)
+
 - **Buscar:** escribe con el teclado en pantalla o con los números del mando. La búsqueda encuentra canales, películas y series e ignora los acentos (*malmo* encuentra *Malmö*).
 - **Favoritos:** pulsa Rojo en un canal, película o serie. Los favoritos aparecen primero en cada lista y en *Favoritos* en el menú.
 - **Orden:** el botón *Orden* arriba en las listas (o Verde). Los canales se pueden ordenar por número, calidad o nombre, y las películas y series, por ejemplo, por añadidos recientemente, año, valoración o calidad. Las series también se pueden ordenar por la duración de los episodios.
 
 ## Ajustes {#settings}
+
+![Ajustes](../assets/screens/es/settings.jpg)
+![Ajustes](../assets/screens/es/about.jpg)
 
 - **Cuenta:**
   - Muestra tus datos, cuándo se actualizó el catálogo y el botón *Actualizar catálogo*.

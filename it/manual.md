@@ -12,6 +12,8 @@ lang: it
 
 ## Primi passi {#getting-started}
 
+![Primi passi](../assets/screens/it/login.jpg)
+
 Nyvy non contiene canali. Ti serve un abbonamento con un fornitore IPTV e i dati che ti ha dato.
 
 ### Accedere
@@ -48,6 +50,9 @@ Funziona anche il Magic Remote: punta per evidenziare, fai clic per selezionare 
 
 ## TV in diretta {#live-tv}
 
+![TV in diretta](../assets/screens/it/live.jpg)
+![TV in diretta](../assets/screens/it/live-fullscreen.jpg)
+
 - **Scegliere un canale:** a sinistra le categorie, al centro i canali con il programma in corso. OK riproduce il canale nell’anteprima; un altro OK passa a schermo intero.
 - **A schermo intero:**
   - Su/giù o CH+/CH− cambiano canale.
@@ -57,6 +62,8 @@ Funziona anche il Magic Remote: punta per evidenziare, fai clic per selezionare 
   - Indietro esce dallo schermo intero.
 
 ## Guida TV e catch-up {#tv-guide}
+
+![Guida TV e catch-up](../assets/screens/it/guide.jpg)
 
 - **La guida TV** mostra i programmi di tutti i canali in una griglia con una linea per «adesso». OK su un programma in corso avvia il canale.
 - **Catch-up:** i canali con ↺ hanno un archivio presso il fornitore. Lì puoi tornare indietro nella guida, avviare un programma già andato in onda e spostarti al suo interno.
@@ -75,17 +82,24 @@ Film e serie sono disponibili con gli account Xtream.
 
 ## Audio e sottotitoli {#audio-subtitles}
 
+![Audio e sottotitoli](../assets/screens/it/tracks.jpg)
+
 - **Film e serie:** premi giù o Verde per scegliere traccia audio, sottotitoli e versione.
 - **TV in diretta:** premi Verde per attivare o disattivare i sottotitoli della trasmissione e scegliere la traccia audio.
 - **Predefiniti:** in *Impostazioni → Generali* scegli la lingua audio preferita, se i sottotitoli sono attivi, le lingue dei sottotitoli (1ª e 2ª scelta) e dimensione e stile del testo.
 
 ## Ricerca, preferiti e ordine {#search}
 
+![Ricerca, preferiti e ordine](../assets/screens/it/search.jpg)
+
 - **Ricerca:** scrivi con la tastiera sullo schermo o con i numeri del telecomando. La ricerca trova canali, film e serie e ignora gli accenti (*malmo* trova *Malmö*).
 - **Preferiti:** premi Rosso su un canale, un film o una serie. I preferiti compaiono per primi in ogni elenco e in *Preferiti* nel menu.
 - **Ordine:** il pulsante *Ordine* in alto negli elenchi (o Verde). I canali si ordinano per numero, qualità o nome, film e serie per esempio per aggiunti di recente, anno, voto o qualità. Le serie si possono ordinare anche per durata degli episodi.
 
 ## Impostazioni {#settings}
+
+![Impostazioni](../assets/screens/it/settings.jpg)
+![Impostazioni](../assets/screens/it/about.jpg)
 
 - **Account:**
   - Mostra i tuoi dati, quando è stato aggiornato il catalogo e il pulsante *Aggiorna catalogo*.

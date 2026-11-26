@@ -12,6 +12,8 @@ lang: tr
 
 ## Başlarken {#getting-started}
 
+![Başlarken](../assets/screens/tr/login.jpg)
+
 Nyvy kendisi kanal içermez. Bir IPTV sağlayıcısında aboneliğinizin ve onlardan aldığınız bilgilerin olması gerekir.
 
 ### Oturum açma
@@ -48,6 +50,9 @@ Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklay
 
 ## Canlı TV {#live-tv}
 
+![Canlı TV](../assets/screens/tr/live.jpg)
+![Canlı TV](../assets/screens/tr/live-fullscreen.jpg)
+
 - **Kanal seçme:** solda kategoriler, ortada şu anki programla birlikte kanallar bulunur. OK kanalı önizleme penceresinde oynatır, tekrar OK tam ekran yapar.
 - **Tam ekranda:**
   - Yukarı/aşağı veya CH+/CH− kanal değiştirir.
@@ -57,6 +62,8 @@ Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklay
   - Geri tam ekrandan çıkar.
 
 ## TV rehberi ve catch-up {#tv-guide}
+
+![TV rehberi ve catch-up](../assets/screens/tr/guide.jpg)
 
 - **TV rehberi** tüm kanalların programlarını "şimdi" çizgisi olan bir tabloda gösterir. Yayındaki bir programda OK kanalı başlatır.
 - **Catch-up:** ↺ işaretli kanalların sağlayıcıda arşivi vardır. Bu kanallarda rehberde geriye gidebilir, yayınlanmış bir programı başlatabilir ve içinde ileri geri gidebilirsiniz.
@@ -75,17 +82,24 @@ Filmler ve diziler Xtream hesaplarında bulunur.
 
 ## Ses ve altyazı {#audio-subtitles}
 
+![Ses ve altyazı](../assets/screens/tr/tracks.jpg)
+
 - **Filmler ve diziler:** ses parçasını, altyazıyı ve sürümü seçmek için aşağı veya Yeşil tuşuna basın.
 - **Canlı TV:** yayın altyazısını açıp kapatmak ve ses parçasını seçmek için Yeşil tuşuna basın.
 - **Varsayılanlar:** *Ayarlar → Genel* bölümünde tercih edilen ses dilini, altyazının açık olup olmayacağını, birinci ve ikinci tercih altyazı dillerini ve yazı boyutuyla stilini seçersiniz.
 
 ## Arama, favoriler ve sıralama {#search}
 
+![Arama, favoriler ve sıralama](../assets/screens/tr/search.jpg)
+
 - **Arama:** ekran klavyesiyle veya kumandanın rakamlarıyla yazın. Arama kanalları, filmleri ve dizileri bulur ve aksanları dikkate almaz (*malmo*, *Malmö*’yü bulur).
 - **Favoriler:** bir kanal, film veya dizide Kırmızı tuşuna basın. Favoriler her listede ilk sırada ve menüdeki *Favoriler* bölümünde görünür.
 - **Sıralama:** listelerin üstündeki *Sıralama* düğmesi (veya Yeşil). Kanallar numaraya, kaliteye veya ada göre, filmler ve diziler örneğin son eklenenlere, yıla, puana veya kaliteye göre sıralanabilir. Diziler ayrıca bölüm süresine göre de sıralanabilir.
 
 ## Ayarlar {#settings}
+
+![Ayarlar](../assets/screens/tr/settings.jpg)
+![Ayarlar](../assets/screens/tr/about.jpg)
 
 - **Hesap:**
   - Bilgilerinizi, kataloğun ne zaman güncellendiğini ve *Kataloğu güncelle* düğmesini gösterir.

@@ -12,6 +12,8 @@ lang: de
 
 ## Erste Schritte {#getting-started}
 
+![Erste Schritte](../assets/screens/de/login.jpg)
+
 Nyvy enthält selbst keine Sender. Du brauchst ein Abonnement bei einem IPTV-Anbieter und die Zugangsdaten, die du von ihm bekommen hast.
 
 ### Anmelden
@@ -48,6 +50,9 @@ Die Magic Remote funktioniert auch: zeigen zum Markieren, klicken zum Auswählen
 
 ## Live-TV {#live-tv}
 
+![Live-TV](../assets/screens/de/live.jpg)
+![Live-TV](../assets/screens/de/live-fullscreen.jpg)
+
 - **Sender wählen:** links die Kategorien, in der Mitte die Sender mit der laufenden Sendung. OK spielt den Sender im Vorschaufenster ab, ein weiteres OK schaltet auf Vollbild.
 - **Im Vollbild:**
   - Hoch/runter oder CH+/CH− wechseln den Sender.
@@ -57,6 +62,8 @@ Die Magic Remote funktioniert auch: zeigen zum Markieren, klicken zum Auswählen
   - Zurück verlässt das Vollbild.
 
 ## TV-Programm und Catch-up {#tv-guide}
+
+![TV-Programm und Catch-up](../assets/screens/de/guide.jpg)
 
 - **Das TV-Programm** zeigt die Sendungen aller Sender in einem Raster mit einer Linie für „jetzt“. OK auf einer laufenden Sendung startet den Sender.
 - **Catch-up:** Sender mit ↺ haben ein Archiv beim Anbieter. Dort kannst du im TV-Programm zurückblättern, eine bereits gelaufene Sendung starten und darin spulen.
@@ -75,17 +82,24 @@ Filme und Serien gibt es bei Xtream-Konten.
 
 ## Ton und Untertitel {#audio-subtitles}
 
+![Ton und Untertitel](../assets/screens/de/tracks.jpg)
+
 - **Filme und Serien:** runter oder Grün drücken, um Tonspur, Untertitel und Version zu wählen.
 - **Live-TV:** Grün drücken, um die Untertitel der Sendung ein- oder auszuschalten und die Tonspur zu wählen.
 - **Standards:** unter *Einstellungen → Allgemein* wählst du die bevorzugte Tonsprache, ob Untertitel an sind, die Untertitelsprachen (1. und 2. Wahl) sowie Größe und Stil.
 
 ## Suche, Favoriten und Sortierung {#search}
 
+![Suche, Favoriten und Sortierung](../assets/screens/de/search.jpg)
+
 - **Suche:** mit der Bildschirmtastatur oder den Ziffern der Fernbedienung tippen. Die Suche findet Sender, Filme und Serien und ignoriert Akzente (*malmo* findet *Malmö*).
 - **Favoriten:** Rot auf einem Sender, Film oder einer Serie drücken. Favoriten stehen in jeder Liste ganz oben und unter *Favoriten* im Menü.
 - **Sortierung:** die Taste *Sortierung* oben in den Listen (oder Grün). Sender lassen sich nach Nummer, Qualität oder Name sortieren, Filme und Serien zum Beispiel nach zuletzt hinzugefügt, Jahr, Bewertung oder Qualität. Serien lassen sich außerdem nach der Länge der Folgen sortieren.
 
 ## Einstellungen {#settings}
+
+![Einstellungen](../assets/screens/de/settings.jpg)
+![Einstellungen](../assets/screens/de/about.jpg)
 
 - **Konto:**
   - Zeigt deine Daten, wann das Angebot aktualisiert wurde, und die Taste *Angebot aktualisieren*.

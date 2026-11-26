@@ -76,3 +76,12 @@ blockquote p { margin: 0; }
 }
 .button.secondary { background: var(--bg-elev); border: 1px solid var(--line); color: var(--text); }
 footer { max-width: 880px; margin: 0 auto; padding: 20px 16px 40px; color: var(--dim); font-size: 14px; border-top: 1px solid var(--line); }
+/* Manual screenshots (1280×720 JPEG): full width, in the app's frame. */
+main img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 16px 0;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+}

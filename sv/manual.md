@@ -12,6 +12,8 @@ lang: sv
 
 ## Kom igång {#kom-igang}
 
+![Kom igång](../assets/screens/sv/login.jpg)
+
 Nyvy innehåller inga kanaler själv. Du behöver ett abonnemang hos en IPTV-leverantör, och uppgifterna du fått av dem.
 
 ### Logga in
@@ -48,6 +50,9 @@ Magic Remote fungerar också: peka för att markera, klicka för att välja och 
 
 ## Live-TV {#live-tv}
 
+![Live-TV](../assets/screens/sv/live.jpg)
+![Live-TV](../assets/screens/sv/live-fullscreen.jpg)
+
 - **Välj kanal:** till vänster finns kategorierna, i mitten kanalerna med pågående program. OK spelar kanalen i förhandsrutan, OK igen ger helskärm.
 - **I helskärm:**
   - Upp/ned eller CH+/CH− byter kanal.
@@ -57,6 +62,8 @@ Magic Remote fungerar också: peka för att markera, klicka för att välja och 
   - Tillbaka går ur helskärm.
 
 ## TV-guide och catch-up {#tv-guide-och-catch-up}
+
+![TV-guide och catch-up](../assets/screens/sv/guide.jpg)
 
 - **TV-guiden** visar programmen för alla kanaler i ett rutnät med en linje för "nu". OK på ett pågående program startar kanalen.
 - **Catch-up:** kanaler med ↺ har arkiv hos leverantören. Där kan du bläddra bakåt i guiden och starta ett program som redan har sänts, och spola i det.
@@ -75,17 +82,24 @@ Filmer och serier finns för Xtream-konton.
 
 ## Ljud och undertexter {#ljud-och-undertexter}
 
+![Ljud och undertexter](../assets/screens/sv/tracks.jpg)
+
 - **Filmer och serier:** tryck ned eller Grön för att välja ljudspår, undertexter och version.
 - **Live-TV:** tryck Grön för att slå på eller av sändningens undertexter (till exempel SVT:s svenska undertexter) och välja ljudspår.
 - **Standardval:** under *Inställningar → Allmänt* väljer du föredraget ljudspråk, om undertexter ska vara på, första- och andrahandsspråk för undertexter, samt textstorlek och stil.
 
 ## Sök, favoriter och sortering {#sok-favoriter-och-sortering}
 
+![Sök, favoriter och sortering](../assets/screens/sv/search.jpg)
+
 - **Sök:** skriv med tangentbordet på skärmen eller med fjärrkontrollens siffror. Sökningen hittar kanaler, filmer och serier, och bryr sig inte om accenter (*malmo* hittar *Malmö*).
 - **Favoriter:** tryck Röd på en kanal, film eller serie. Favoriterna finns först i varje lista och under *Favoriter* i menyn.
 - **Sortering:** knappen *Sortering* högst upp i listorna (eller Grön). Kanaler kan sorteras efter nummer, kvalitet eller namn, och filmer och serier efter till exempel senast tillagda, år, betyg eller kvalitet. Serier kan även sorteras efter avsnittens längd.
 
 ## Inställningar {#installningar}
+
+![Inställningar](../assets/screens/sv/settings.jpg)
+![Inställningar](../assets/screens/sv/about.jpg)
 
 - **Konto:**
   - Visar dina uppgifter, när utbudet uppdaterades, och knappen *Uppdatera utbudet*.

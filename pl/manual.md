@@ -12,6 +12,8 @@ lang: pl
 
 ## Pierwsze kroki {#getting-started}
 
+![Pierwsze kroki](../assets/screens/pl/login.jpg)
+
 Nyvy nie zawiera własnych kanałów. Potrzebujesz subskrypcji u dostawcy IPTV i danych, które od niego otrzymałeś.
 
 ### Logowanie
@@ -48,6 +50,9 @@ Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przew
 
 ## TV na żywo {#live-tv}
 
+![TV na żywo](../assets/screens/pl/live.jpg)
+![TV na żywo](../assets/screens/pl/live-fullscreen.jpg)
+
 - **Wybór kanału:** po lewej są kategorie, w środku kanały z bieżącym programem. OK odtwarza kanał w podglądzie, ponowne OK włącza pełny ekran.
 - **Na pełnym ekranie:**
   - Góra/dół lub CH+/CH− zmieniają kanał.
@@ -57,6 +62,8 @@ Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przew
   - Wstecz wychodzi z pełnego ekranu.
 
 ## Program TV i catch-up {#tv-guide}
+
+![Program TV i catch-up](../assets/screens/pl/guide.jpg)
 
 - **Program TV** pokazuje audycje wszystkich kanałów w siatce z linią „teraz”. OK na trwającej audycji uruchamia kanał.
 - **Catch-up:** kanały oznaczone ↺ mają archiwum u dostawcy. Możesz w nich cofać się w programie, uruchomić audycję, która już była, i przewijać ją.
@@ -75,17 +82,24 @@ Filmy i seriale są dostępne dla kont Xtream.
 
 ## Dźwięk i napisy {#audio-subtitles}
 
+![Dźwięk i napisy](../assets/screens/pl/tracks.jpg)
+
 - **Filmy i seriale:** naciśnij dół lub Zielony, aby wybrać ścieżkę dźwiękową, napisy i wersję.
 - **TV na żywo:** naciśnij Zielony, aby włączyć lub wyłączyć napisy z transmisji i wybrać ścieżkę dźwiękową.
 - **Ustawienia domyślne:** w *Ustawienia → Ogólne* wybierasz preferowany język dźwięku, czy napisy mają być włączone, języki napisów (1. i 2. wybór) oraz rozmiar i styl tekstu.
 
 ## Wyszukiwanie, ulubione i sortowanie {#search}
 
+![Wyszukiwanie, ulubione i sortowanie](../assets/screens/pl/search.jpg)
+
 - **Wyszukiwanie:** pisz klawiaturą ekranową lub cyframi pilota. Wyszukiwanie znajduje kanały, filmy i seriale i ignoruje znaki diakrytyczne (*malmo* znajduje *Malmö*, *lodz* znajduje *Łódź*).
 - **Ulubione:** naciśnij Czerwony na kanale, filmie lub serialu. Ulubione są na początku każdej listy i w *Ulubione* w menu.
 - **Sortowanie:** przycisk *Sortowanie* u góry list (lub Zielony). Kanały można sortować według numeru, jakości lub nazwy, a filmy i seriale na przykład według ostatnio dodanych, roku, oceny lub jakości. Seriale można też sortować według długości odcinków.
 
 ## Ustawienia {#settings}
+
+![Ustawienia](../assets/screens/pl/settings.jpg)
+![Ustawienia](../assets/screens/pl/about.jpg)
 
 - **Konto:**
   - Pokazuje twoje dane, datę aktualizacji katalogu i przycisk *Odśwież katalog*.
