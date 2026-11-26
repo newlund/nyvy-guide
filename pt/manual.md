@@ -37,9 +37,7 @@ Quer dar uma olhada primeiro? Escolha *Pular por enquanto*. Você pode adicionar
 |---|---|
 | Setas e OK | Navegar e selecionar |
 | Voltar | Voltar. No menu lateral: sair do Nyvy |
-| Vermelho | Adicionar ou remover favorito |
-| Verde | Ordenar (em listas) · áudio e legendas (assistindo) |
-| Amarelo | Canal anterior (TV ao vivo em tela cheia) |
+| Vermelho · Verde · Amarelo | Atalhos (veja abaixo) |
 | CH+ / CH− | Trocar de canal · rolar listas |
 | Play/Pausa | Pausar e continuar |
 | Avançar/voltar | Pular 60 segundos |
@@ -47,6 +45,8 @@ Quer dar uma olhada primeiro? Escolha *Pular por enquanto*. Você pode adicionar
 | Números | Ir direto para um número de canal |
 
 O Magic Remote também funciona: aponte para destacar, clique para selecionar e role com a roda.
+
+**O seu controle não tem botões coloridos?** Muitos Magic Remote não têm, e você não precisa deles: tudo funciona com botões na tela. ☆ *Favorito* fica na página de detalhes de filmes e séries, à direita da lista de canais (pressione direita) e na barra de informações em tela cheia. *Ordenar* fica no topo das listas, e *Áudio e legendas* e *Canal anterior* na barra de informações. Se mesmo assim quiser os atalhos, pressione **123** no controle: um painel com os botões coloridos aparece na tela. Vermelho: favorito · Verde: ordenar, ou áudio e legendas enquanto assiste · Amarelo: canal anterior.
 
 ## TV ao vivo {#live-tv}
 
@@ -56,9 +56,9 @@ O Magic Remote também funciona: aponte para destacar, clique para selecionar e 
 - **Escolher canal:** as categorias ficam à esquerda e os canais com o programa atual no meio. OK toca o canal na prévia; OK de novo abre em tela cheia.
 - **Em tela cheia:**
   - Cima/baixo ou CH+/CH− trocam de canal.
-  - OK abre a lista de canais.
-  - Esquerda/direita ou Info mostram a barra de informações com agora e a seguir, e botões para o Magic Remote.
-  - Números vão para um canal, e Amarelo volta ao canal anterior.
+  - OK seleciona os botões da barra de informações: *Canais*, *Áudio e legendas*, ☆ *Favorito*, *Canal anterior*, canal acima/abaixo e *Voltar*. Esquerda/direita alternam entre eles, OK seleciona.
+  - Esquerda/direita ou Info mostram a barra de informações com agora e a seguir.
+  - Números vão para um canal.
   - Voltar esconde primeiro a barra de informações; pressione Voltar de novo para sair da tela cheia.
 
 ## Guia de TV e catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Filmes e séries estão disponíveis para contas Xtream.
 ![Áudio e legendas](../assets/screens/pt/tracks.jpg)
 
 - **Filmes e séries:** pressione baixo ou Verde para escolher a faixa de áudio, as legendas e a versão.
-- **TV ao vivo:** pressione Verde para ligar ou desligar as legendas da transmissão e escolher a faixa de áudio.
+- **TV ao vivo:** escolha *Áudio e legendas* na barra de informações (ou pressione Verde) para ligar ou desligar as legendas da transmissão e escolher a faixa de áudio.
 - **Padrões:** em *Configurações → Geral* você escolhe o idioma de áudio preferido, se as legendas ficam ligadas, os idiomas da legenda (1ª e 2ª opção) e o tamanho e estilo do texto.
 
 ## Busca, favoritos e ordem {#search}
@@ -93,7 +93,7 @@ Filmes e séries estão disponíveis para contas Xtream.
 ![Busca, favoritos e ordem](../assets/screens/pt/search.jpg)
 
 - **Busca:** digite com o teclado na tela ou com os números do controle. A busca encontra canais, filmes e séries e ignora acentos (*malmo* encontra *Malmö*).
-- **Favoritos:** pressione Vermelho em um canal, filme ou série. Os favoritos aparecem primeiro em cada lista e em *Favoritos* no menu.
+- **Favoritos:** escolha ☆ *Favorito* na página de detalhes de um filme ou série, à direita da lista de canais ou na barra de informações em tela cheia (Vermelho é um atalho). Os favoritos aparecem primeiro em cada lista e em *Favoritos* no menu.
 - **Ordem:** o botão *Ordem* no alto das listas (ou Verde). Canais podem ser ordenados por número, qualidade ou nome, e filmes e séries por, por exemplo, adicionados recentemente, ano, nota ou qualidade. As séries também podem ser ordenadas pela duração dos episódios.
 
 ## Configurações {#settings}

@@ -37,9 +37,7 @@ Oturum açtıktan sonra Nyvy kataloğu (kanallar, filmler ve diziler) ve TV rehb
 |---|---|
 | Oklar ve OK | Gezinme ve seçme |
 | Geri | Geri dönme. Yan menüde: Nyvy’den çıkma |
-| Kırmızı | Favori ekleme veya çıkarma |
-| Yeşil | Sıralama (listelerde) · ses ve altyazı (izlerken) |
-| Sarı | Önceki kanal (tam ekran canlı TV) |
+| Kırmızı · Yeşil · Sarı | Kısayollar (aşağıya bakın) |
 | CH+ / CH− | Kanal değiştirme · listelerde sayfa geçme |
 | Oynat/Duraklat | Duraklatma ve devam etme |
 | İleri/geri sarma | 60 saniye atlama |
@@ -47,6 +45,8 @@ Oturum açtıktan sonra Nyvy kataloğu (kanallar, filmler ve diziler) ve TV rehb
 | Rakamlar | Doğrudan bir kanal numarasına gitme |
 
 Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklayın ve tekerlekle kaydırın.
+
+**Kumandanızda renkli tuşlar yok mu?** Birçok Magic Remote’ta yoktur ve onlara ihtiyacınız yok: her şey ekrandaki düğmelerle çalışır. ☆ *Favori* film ve dizilerin ayrıntı sayfasında, kanal listesinin sağında (sağa basın) ve tam ekranda bilgi çubuğunda bulunur. *Sıralama* listelerin üstünde, *Ses ve altyazı* ile *Önceki kanal* bilgi çubuğundadır. Yine de kısayolları kullanmak isterseniz kumandada **123** tuşuna basın: ekranda renkli tuşların olduğu bir panel açılır. Kırmızı: favori · Yeşil: sıralama veya izlerken ses ve altyazı · Sarı: önceki kanal.
 
 ## Canlı TV {#live-tv}
 
@@ -56,9 +56,9 @@ Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklay
 - **Kanal seçme:** solda kategoriler, ortada şu anki programla birlikte kanallar bulunur. OK kanalı önizleme penceresinde oynatır, tekrar OK tam ekran yapar.
 - **Tam ekranda:**
   - Yukarı/aşağı veya CH+/CH− kanal değiştirir.
-  - OK kanal listesini açar.
-  - Sol/sağ veya Info, şimdi ve sonrası bilgisini ve Magic Remote düğmelerini içeren bilgi çubuğunu gösterir.
-  - Rakamlar bir kanal numarasına, Sarı önceki kanala gider.
+  - OK bilgi çubuğunun düğmelerini seçer: *Kanallar*, *Ses ve altyazı*, ☆ *Favori*, *Önceki kanal*, kanal yukarı/aşağı ve *Geri*. Sol/sağ aralarında gezinir, OK seçer.
+  - Sol/sağ veya Info, şimdi ve sonrası bilgisini içeren bilgi çubuğunu gösterir.
+  - Rakamlar bir kanal numarasına gider.
   - Geri önce bilgi çubuğunu gizler; tam ekrandan çıkmak için Geri’ye tekrar basın.
 
 ## TV rehberi ve catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Filmler ve diziler Xtream hesaplarında bulunur.
 ![Ses ve altyazı](../assets/screens/tr/tracks.jpg)
 
 - **Filmler ve diziler:** ses parçasını, altyazıyı ve sürümü seçmek için aşağı veya Yeşil tuşuna basın.
-- **Canlı TV:** yayın altyazısını açıp kapatmak ve ses parçasını seçmek için Yeşil tuşuna basın.
+- **Canlı TV:** yayın altyazısını açıp kapatmak ve ses parçasını seçmek için bilgi çubuğunda *Ses ve altyazı*’yı seçin (veya Yeşil tuşuna basın).
 - **Varsayılanlar:** *Ayarlar → Genel* bölümünde tercih edilen ses dilini, altyazının açık olup olmayacağını, birinci ve ikinci tercih altyazı dillerini ve yazı boyutuyla stilini seçersiniz.
 
 ## Arama, favoriler ve sıralama {#search}
@@ -93,7 +93,7 @@ Filmler ve diziler Xtream hesaplarında bulunur.
 ![Arama, favoriler ve sıralama](../assets/screens/tr/search.jpg)
 
 - **Arama:** ekran klavyesiyle veya kumandanın rakamlarıyla yazın. Arama kanalları, filmleri ve dizileri bulur ve aksanları dikkate almaz (*malmo*, *Malmö*’yü bulur).
-- **Favoriler:** bir kanal, film veya dizide Kırmızı tuşuna basın. Favoriler her listede ilk sırada ve menüdeki *Favoriler* bölümünde görünür.
+- **Favoriler:** bir film veya dizinin ayrıntı sayfasında, kanal listesinin sağında veya tam ekranda bilgi çubuğunda ☆ *Favori*’yi seçin (Kırmızı bir kısayoldur). Favoriler her listede ilk sırada ve menüdeki *Favoriler* bölümünde görünür.
 - **Sıralama:** listelerin üstündeki *Sıralama* düğmesi (veya Yeşil). Kanallar numaraya, kaliteye veya ada göre, filmler ve diziler örneğin son eklenenlere, yıla, puana veya kaliteye göre sıralanabilir. Diziler ayrıca bölüm süresine göre de sıralanabilir.
 
 ## Ayarlar {#settings}

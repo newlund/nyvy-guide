@@ -37,9 +37,7 @@ Möchtest du dich erst umsehen? Wähle *Überspringen*. Deinen Anbieter kannst d
 |---|---|
 | Pfeile und OK | Bewegen und auswählen |
 | Zurück | Zurück. Im Seitenmenü: Nyvy beenden |
-| Rot | Favorit hinzufügen oder entfernen |
-| Grün | Sortieren (in Listen) · Ton und Untertitel (beim Ansehen) |
-| Gelb | Vorheriger Sender (Live-TV im Vollbild) |
+| Rot · Grün · Gelb | Kurzwahl (siehe unten) |
 | CH+ / CH− | Sender wechseln · in Listen blättern |
 | Play/Pause | Pausieren und fortsetzen |
 | Vor-/Zurückspulen | 60 Sekunden springen |
@@ -47,6 +45,8 @@ Möchtest du dich erst umsehen? Wähle *Überspringen*. Deinen Anbieter kannst d
 | Ziffern | Direkt zu einer Sendernummer |
 
 Die Magic Remote funktioniert auch: zeigen zum Markieren, klicken zum Auswählen und mit dem Rad scrollen.
+
+**Keine Farbtasten auf der Fernbedienung?** Vielen Magic Remotes fehlen sie, und du brauchst sie nicht: Alles funktioniert mit Tasten auf dem Bildschirm. ☆ *Favorit* findest du auf der Detailseite von Filmen und Serien, rechts neben der Senderliste (rechts drücken) und in der Infoleiste im Vollbild. *Sortierung* steht oben in den Listen, *Ton und Untertitel* und *Vorheriger Sender* in der Infoleiste. Möchtest du die Kurzwahl trotzdem nutzen, drücke **123** auf der Fernbedienung: Ein Feld mit den Farbtasten erscheint auf dem Bildschirm. Rot: Favorit · Grün: Sortierung, oder Ton und Untertitel beim Schauen · Gelb: vorheriger Sender.
 
 ## Live-TV {#live-tv}
 
@@ -56,9 +56,9 @@ Die Magic Remote funktioniert auch: zeigen zum Markieren, klicken zum Auswählen
 - **Sender wählen:** links die Kategorien, in der Mitte die Sender mit der laufenden Sendung. OK spielt den Sender im Vorschaufenster ab, ein weiteres OK schaltet auf Vollbild.
 - **Im Vollbild:**
   - Hoch/runter oder CH+/CH− wechseln den Sender.
-  - OK öffnet die Senderliste.
-  - Links/rechts oder Info zeigen die Infoleiste mit Jetzt und Danach sowie Tasten für die Magic Remote.
-  - Ziffern wählen eine Sendernummer, Gelb springt zum vorherigen Sender.
+  - OK wählt die Tasten der Infoleiste: *Sender*, *Ton und Untertitel*, ☆ *Favorit*, *Vorheriger Sender*, Sender hoch/runter und *Zurück*. Links/rechts wechseln zwischen ihnen, OK wählt aus.
+  - Links/rechts oder Info zeigen die Infoleiste mit Jetzt und Danach.
+  - Ziffern wählen eine Sendernummer.
   - Zurück blendet zuerst die Infoleiste aus; ein weiteres Zurück verlässt das Vollbild.
 
 ## TV-Programm und Catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Filme und Serien gibt es bei Xtream-Konten.
 ![Ton und Untertitel](../assets/screens/de/tracks.jpg)
 
 - **Filme und Serien:** runter oder Grün drücken, um Tonspur, Untertitel und Version zu wählen.
-- **Live-TV:** Grün drücken, um die Untertitel der Sendung ein- oder auszuschalten und die Tonspur zu wählen.
+- **Live-TV:** *Ton und Untertitel* in der Infoleiste wählen (oder Grün drücken), um die Untertitel der Sendung ein- oder auszuschalten und die Tonspur zu wählen.
 - **Standards:** unter *Einstellungen → Allgemein* wählst du die bevorzugte Tonsprache, ob Untertitel an sind, die Untertitelsprachen (1. und 2. Wahl) sowie Größe und Stil.
 
 ## Suche, Favoriten und Sortierung {#search}
@@ -93,7 +93,7 @@ Filme und Serien gibt es bei Xtream-Konten.
 ![Suche, Favoriten und Sortierung](../assets/screens/de/search.jpg)
 
 - **Suche:** mit der Bildschirmtastatur oder den Ziffern der Fernbedienung tippen. Die Suche findet Sender, Filme und Serien und ignoriert Akzente (*malmo* findet *Malmö*).
-- **Favoriten:** Rot auf einem Sender, Film oder einer Serie drücken. Favoriten stehen in jeder Liste ganz oben und unter *Favoriten* im Menü.
+- **Favoriten:** ☆ *Favorit* auf der Detailseite eines Films oder einer Serie, rechts neben der Senderliste oder in der Infoleiste im Vollbild wählen (Rot ist eine Kurzwahl). Favoriten stehen in jeder Liste ganz oben und unter *Favoriten* im Menü.
 - **Sortierung:** die Taste *Sortierung* oben in den Listen (oder Grün). Sender lassen sich nach Nummer, Qualität oder Name sortieren, Filme und Serien zum Beispiel nach zuletzt hinzugefügt, Jahr, Bewertung oder Qualität. Serien lassen sich außerdem nach der Länge der Folgen sortieren.
 
 ## Einstellungen {#settings}

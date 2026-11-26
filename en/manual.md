@@ -37,9 +37,7 @@ Want to look around first? Choose *Skip for now*. You can add your provider late
 |---|---|
 | Arrows and OK | Move and select |
 | Back | Go back. On the side menu: exit Nyvy |
-| Red | Add or remove a favorite |
-| Green | Sort (in lists) · audio and subtitles (while watching) |
-| Yellow | Previous channel (full-screen live TV) |
+| Red · Green · Yellow | Shortcuts (see below) |
 | CH+ / CH− | Switch channel · page through lists |
 | Play/Pause | Pause and resume |
 | Fast forward/rewind | Jump 60 seconds |
@@ -47,6 +45,8 @@ Want to look around first? Choose *Skip for now*. You can add your provider late
 | Digits | Go straight to a channel number |
 
 The Magic Remote works too: point to highlight, click to select and scroll with the wheel.
+
+**No coloured buttons on your remote?** Many Magic Remotes don't have them, and you don't need them: everything works with buttons on screen. ☆ *Favorite* is on the details page of films and series, to the right of the channel list (press right) and in the info bar in full screen. *Sort* is at the top of the lists, and *Audio and subtitles* and *Previous channel* are in the info bar. If you want the shortcuts anyway, press **123** on the remote: a panel with the coloured buttons appears on screen. Red: favorite · Green: sort, or audio and subtitles while watching · Yellow: previous channel.
 
 ## Live TV
 
@@ -56,9 +56,9 @@ The Magic Remote works too: point to highlight, click to select and scroll with 
 - **Choose a channel:** categories are on the left, channels with the current programme in the middle. OK plays the channel in the preview pane; OK again goes full screen.
 - **In full screen:**
   - Up/down or CH+/CH− switch channel.
-  - OK opens the channel list.
-  - Left/right or Info show the info bar with now and next, and buttons for the Magic Remote.
-  - Digits go to a channel number, and Yellow back to the previous channel.
+  - OK selects the info bar's buttons: *Channels*, *Audio and subtitles*, ☆ *Favorite*, *Previous channel*, channel up/down and *Back*. Left/right move between them, OK selects.
+  - Left/right or Info show the info bar with now and next.
+  - Digits go to a channel number.
   - Back first hides the info bar; press Back again to leave full screen.
 
 ## TV Guide and catch-up
@@ -85,7 +85,7 @@ Films and series are available for Xtream accounts.
 ![Audio and subtitles](../assets/screens/en/tracks.jpg)
 
 - **Films and series:** press down or Green to choose the audio track, subtitles and version.
-- **Live TV:** press Green to turn the broadcast's subtitles on or off (for example SVT's Swedish subtitles) and choose the audio track.
+- **Live TV:** choose *Audio and subtitles* in the info bar (or press Green) to turn the broadcast's subtitles on or off (for example SVT's Swedish subtitles) and choose the audio track.
 - **Defaults:** under *Settings → Preferences* you choose the preferred audio language, whether subtitles are on, first and second choice subtitle languages, and the text size and style.
 
 ## Search, favorites and sorting
@@ -93,7 +93,7 @@ Films and series are available for Xtream accounts.
 ![Search, favorites and sorting](../assets/screens/en/search.jpg)
 
 - **Search:** type with the on-screen keyboard or the remote's digits. Search finds channels, films and series, and ignores accents (*malmo* finds *Malmö*).
-- **Favorites:** press Red on a channel, film or series. Favorites come first in every list and under *Favorites* in the menu.
+- **Favorites:** choose ☆ *Favorite* on the details page of a film or series, to the right of the channel list, or in the info bar in full screen (Red is a shortcut). Favorites come first in every list and under *Favorites* in the menu.
 - **Sorting:** the *Sort* button at the top of lists (or Green). Channels can be sorted by number, quality or name, and films and series by, for example, recently added, year, rating or quality. Series can also be sorted by episode length.
 
 ## Settings

@@ -37,9 +37,7 @@ Chcesz najpierw się rozejrzeć? Wybierz *Pomiń na razie*. Dostawcę możesz do
 |---|---|
 | Strzałki i OK | Poruszanie się i wybór |
 | Wstecz | Powrót. W menu bocznym: zamknięcie Nyvy |
-| Czerwony | Dodanie lub usunięcie ulubionego |
-| Zielony | Sortowanie (w listach) · dźwięk i napisy (podczas oglądania) |
-| Żółty | Poprzedni kanał (TV na żywo na pełnym ekranie) |
+| Czerwony · Zielony · Żółty | Skróty (zobacz niżej) |
 | CH+ / CH− | Zmiana kanału · przewijanie list |
 | Odtwórz/Pauza | Pauza i wznowienie |
 | Przewijanie | Skok o 60 sekund |
@@ -47,6 +45,8 @@ Chcesz najpierw się rozejrzeć? Wybierz *Pomiń na razie*. Dostawcę możesz do
 | Cyfry | Przejście prosto do numeru kanału |
 
 Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przewijaj kółkiem.
+
+**Pilot nie ma kolorowych przycisków?** Wiele pilotów Magic Remote ich nie ma i nie są potrzebne: wszystko działa za pomocą przycisków na ekranie. ☆ *Ulubione* jest na stronie szczegółów filmów i seriali, na prawo od listy kanałów (naciśnij w prawo) oraz na pasku informacji na pełnym ekranie. *Sortowanie* jest na górze list, a *Dźwięk i napisy* oraz *Poprzedni kanał* na pasku informacji. Jeśli mimo to chcesz skrótów, naciśnij **123** na pilocie: na ekranie pojawi się panel z kolorowymi przyciskami. Czerwony: ulubione · Zielony: sortowanie albo dźwięk i napisy podczas oglądania · Żółty: poprzedni kanał.
 
 ## TV na żywo {#live-tv}
 
@@ -56,9 +56,9 @@ Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przew
 - **Wybór kanału:** po lewej są kategorie, w środku kanały z bieżącym programem. OK odtwarza kanał w podglądzie, ponowne OK włącza pełny ekran.
 - **Na pełnym ekranie:**
   - Góra/dół lub CH+/CH− zmieniają kanał.
-  - OK otwiera listę kanałów.
-  - Lewo/prawo lub Info pokazują pasek informacji (teraz i potem) oraz przyciski dla Magic Remote.
-  - Cyfry przechodzą do numeru kanału, a Żółty wraca do poprzedniego kanału.
+  - OK wybiera przyciski paska informacji: *Kanały*, *Dźwięk i napisy*, ☆ *Ulubione*, *Poprzedni kanał*, kanał w górę/w dół i *Wstecz*. Lewo/prawo przechodzi między nimi, OK wybiera.
+  - Lewo/prawo lub Info pokazują pasek informacji (teraz i potem).
+  - Cyfry przechodzą do numeru kanału.
   - Wstecz najpierw ukrywa pasek informacji; naciśnij Wstecz ponownie, aby wyjść z pełnego ekranu.
 
 ## Program TV i catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Filmy i seriale są dostępne dla kont Xtream.
 ![Dźwięk i napisy](../assets/screens/pl/tracks.jpg)
 
 - **Filmy i seriale:** naciśnij dół lub Zielony, aby wybrać ścieżkę dźwiękową, napisy i wersję.
-- **TV na żywo:** naciśnij Zielony, aby włączyć lub wyłączyć napisy z transmisji i wybrać ścieżkę dźwiękową.
+- **TV na żywo:** wybierz *Dźwięk i napisy* na pasku informacji (lub naciśnij Zielony), aby włączyć lub wyłączyć napisy z transmisji i wybrać ścieżkę dźwiękową.
 - **Ustawienia domyślne:** w *Ustawienia → Ogólne* wybierasz preferowany język dźwięku, czy napisy mają być włączone, języki napisów (1. i 2. wybór) oraz rozmiar i styl tekstu.
 
 ## Wyszukiwanie, ulubione i sortowanie {#search}
@@ -93,7 +93,7 @@ Filmy i seriale są dostępne dla kont Xtream.
 ![Wyszukiwanie, ulubione i sortowanie](../assets/screens/pl/search.jpg)
 
 - **Wyszukiwanie:** pisz klawiaturą ekranową lub cyframi pilota. Wyszukiwanie znajduje kanały, filmy i seriale i ignoruje znaki diakrytyczne (*malmo* znajduje *Malmö*, *lodz* znajduje *Łódź*).
-- **Ulubione:** naciśnij Czerwony na kanale, filmie lub serialu. Ulubione są na początku każdej listy i w *Ulubione* w menu.
+- **Ulubione:** wybierz ☆ *Ulubione* na stronie szczegółów filmu lub serialu, na prawo od listy kanałów albo na pasku informacji na pełnym ekranie (Czerwony to skrót). Ulubione są na początku każdej listy i w *Ulubione* w menu.
 - **Sortowanie:** przycisk *Sortowanie* u góry list (lub Zielony). Kanały można sortować według numeru, jakości lub nazwy, a filmy i seriale na przykład według ostatnio dodanych, roku, oceny lub jakości. Seriale można też sortować według długości odcinków.
 
 ## Ustawienia {#settings}

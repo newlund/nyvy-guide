@@ -37,9 +37,7 @@ Haluatko ensin katsella ympärillesi? Valitse *Ohita toistaiseksi*. Voit lisät�
 |---|---|
 | Nuolet ja OK | Liiku ja valitse |
 | Takaisin | Palaa. Sivuvalikossa: sulje Nyvy |
-| Punainen | Lisää tai poista suosikki |
-| Vihreä | Järjestä (listoissa) · ääni ja tekstitys (katsellessa) |
-| Keltainen | Edellinen kanava (suora TV koko näytöllä) |
+| Punainen · Vihreä · Keltainen | Pikavalinnat (katso alta) |
 | CH+ / CH− | Vaihda kanavaa · selaa listoja |
 | Toisto/tauko | Pysäytä ja jatka |
 | Pikakelaus | Siirry 60 sekuntia |
@@ -47,6 +45,8 @@ Haluatko ensin katsella ympärillesi? Valitse *Ohita toistaiseksi*. Voit lisät�
 | Numerot | Siirry suoraan kanavanumeroon |
 
 Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vieritä rullalla.
+
+**Ei värinäppäimiä kaukosäätimessä?** Monessa Magic Remotessa niitä ei ole, etkä tarvitse niitä: kaikki toimii näytön painikkeilla. ☆ *Suosikki* löytyy elokuvien ja sarjojen tietosivulta, kanavalistan oikealta puolelta (paina oikealle) ja tietopalkista koko näytöllä. *Lajittelu* on listojen yläreunassa, ja *Ääni ja tekstitys* sekä *Edellinen kanava* tietopalkissa. Jos haluat silti käyttää pikavalintoja, paina kaukosäätimen **123**-painiketta: näytölle tulee paneeli, jossa on värinäppäimet. Punainen: suosikki · Vihreä: lajittelu, tai ääni ja tekstitys katsellessa · Keltainen: edellinen kanava.
 
 ## Suora TV {#live-tv}
 
@@ -56,9 +56,9 @@ Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vierit�
 - **Valitse kanava:** vasemmalla ovat luokat, keskellä kanavat ja meneillään oleva ohjelma. OK toistaa kanavan esikatselussa, ja uusi OK avaa koko näytön.
 - **Koko näytöllä:**
   - Ylös/alas tai CH+/CH− vaihtavat kanavaa.
-  - OK avaa kanavalistan.
-  - Vasen/oikea tai Info näyttävät tietopalkin (nyt ja seuraavaksi) sekä painikkeet Magic Remotelle.
-  - Numerot vievät kanavanumeroon, ja Keltainen palaa edelliselle kanavalle.
+  - OK valitsee tietopalkin painikkeet: *Kanavat*, *Ääni ja tekstitys*, ☆ *Suosikki*, *Edellinen kanava*, kanava ylös/alas ja *Takaisin*. Vasen/oikea siirtää niiden välillä, OK valitsee.
+  - Vasen/oikea tai Info näyttävät tietopalkin (nyt ja seuraavaksi).
+  - Numerot vievät kanavanumeroon.
   - Takaisin piilottaa ensin tietopalkin; poistu koko näytöltä painamalla Takaisin uudelleen.
 
 ## TV-opas ja catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
 ![Ääni ja tekstitys](../assets/screens/fi/tracks.jpg)
 
 - **Elokuvat ja sarjat:** paina alas tai Vihreää valitaksesi ääniraidan, tekstityksen ja version.
-- **Suora TV:** paina Vihreää kytkeäksesi lähetyksen tekstityksen päälle tai pois ja valitaksesi ääniraidan.
+- **Suora TV:** valitse tietopalkista *Ääni ja tekstitys* (tai paina Vihreää) kytkeäksesi lähetyksen tekstityksen päälle tai pois ja valitaksesi ääniraidan.
 - **Oletukset:** kohdassa *Asetukset → Yleiset* valitset ensisijaisen äänen kielen, onko tekstitys päällä, tekstityksen ensi- ja toissijaisen kielen sekä tekstin koon ja tyylin.
 
 ## Haku, suosikit ja järjestys {#search}
@@ -93,7 +93,7 @@ Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
 ![Haku, suosikit ja järjestys](../assets/screens/fi/search.jpg)
 
 - **Haku:** kirjoita näytön näppäimistöllä tai kaukosäätimen numeroilla. Haku löytää kanavat, elokuvat ja sarjat eikä välitä aksenteista (*malmo* löytää *Malmö*).
-- **Suosikit:** paina Punaista kanavan, elokuvan tai sarjan kohdalla. Suosikit ovat ensimmäisinä jokaisessa listassa ja kohdassa *Suosikit* valikossa.
+- **Suosikit:** valitse ☆ *Suosikki* elokuvan tai sarjan tietosivulla, kanavalistan oikealla puolella tai tietopalkissa koko näytöllä (Punainen on pikavalinta). Suosikit ovat ensimmäisinä jokaisessa listassa ja kohdassa *Suosikit* valikossa.
 - **Järjestys:** painike *Järjestys* listojen yläosassa (tai Vihreä). Kanavat voi järjestää numeron, laadun tai nimen mukaan, elokuvat ja sarjat esimerkiksi viimeksi lisättyjen, vuoden, arvion tai laadun mukaan. Sarjat voi järjestää myös jaksojen keston mukaan.
 
 ## Asetukset {#settings}

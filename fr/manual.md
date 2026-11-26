@@ -37,9 +37,7 @@ Tu veux d’abord faire un tour ? Choisis *Passer pour l’instant*. Tu pourras 
 |---|---|
 | Flèches et OK | Se déplacer et choisir |
 | Retour | Revenir. Dans le menu latéral : quitter Nyvy |
-| Rouge | Ajouter ou retirer un favori |
-| Vert | Trier (dans les listes) · audio et sous-titres (pendant la lecture) |
-| Jaune | Chaîne précédente (TV en direct en plein écran) |
+| Rouge · Vert · Jaune | Raccourcis (voir ci-dessous) |
 | CH+ / CH− | Changer de chaîne · faire défiler les listes |
 | Lecture/Pause | Mettre en pause et reprendre |
 | Avance/retour rapide | Sauter de 60 secondes |
@@ -47,6 +45,8 @@ Tu veux d’abord faire un tour ? Choisis *Passer pour l’instant*. Tu pourras 
 | Chiffres | Aller directement à un numéro de chaîne |
 
 La Magic Remote fonctionne aussi : pointe pour sélectionner, clique pour valider et fais défiler avec la molette.
+
+**Pas de touches de couleur sur ta télécommande ?** Beaucoup de Magic Remote n’en ont pas, et tu n’en as pas besoin : tout fonctionne avec des boutons à l’écran. ☆ *Favori* se trouve sur la page de détails des films et séries, à droite de la liste des chaînes (appuie sur droite) et dans la barre d’informations en plein écran. *Tri* est en haut des listes, et *Audio et sous-titres* et *Chaîne précédente* dans la barre d’informations. Si tu veux quand même les raccourcis, appuie sur **123** sur la télécommande : un panneau avec les touches de couleur apparaît à l’écran. Rouge : favori · Vert : tri, ou audio et sous-titres pendant la lecture · Jaune : chaîne précédente.
 
 ## TV en direct {#live-tv}
 
@@ -56,9 +56,9 @@ La Magic Remote fonctionne aussi : pointe pour sélectionner, clique pour valide
 - **Choisir une chaîne :** les catégories sont à gauche, les chaînes avec le programme en cours au centre. OK lit la chaîne dans l’aperçu ; OK de nouveau passe en plein écran.
 - **En plein écran :**
   - Haut/bas ou CH+/CH− changent de chaîne.
-  - OK ouvre la liste des chaînes.
-  - Gauche/droite ou Info affichent la barre d’informations avec le programme en cours et le suivant, et des boutons pour la Magic Remote.
-  - Les chiffres vont à un numéro de chaîne, et Jaune revient à la chaîne précédente.
+  - OK sélectionne les boutons de la barre d’informations : *Chaînes*, *Audio et sous-titres*, ☆ *Favori*, *Chaîne précédente*, chaîne haut/bas et *Retour*. Gauche/droite passent de l’un à l’autre, OK valide.
+  - Gauche/droite ou Info affichent la barre d’informations avec le programme en cours et le suivant.
+  - Les chiffres vont à un numéro de chaîne.
   - Retour masque d’abord la barre d’informations ; appuie de nouveau sur Retour pour quitter le plein écran.
 
 ## Guide TV et replay {#tv-guide}
@@ -85,7 +85,7 @@ Les films et séries sont disponibles avec les comptes Xtream.
 ![Audio et sous-titres](../assets/screens/fr/tracks.jpg)
 
 - **Films et séries :** appuie sur bas ou Vert pour choisir la piste audio, les sous-titres et la version.
-- **TV en direct :** appuie sur Vert pour activer ou désactiver les sous-titres de la diffusion et choisir la piste audio.
+- **TV en direct :** choisis *Audio et sous-titres* dans la barre d’informations (ou appuie sur Vert) pour activer ou désactiver les sous-titres de la diffusion et choisir la piste audio.
 - **Par défaut :** dans *Réglages → Général*, tu choisis la langue audio préférée, si les sous-titres sont activés, les langues des sous-titres (1er et 2e choix) ainsi que la taille et le style du texte.
 
 ## Recherche, favoris et tri {#search}
@@ -93,7 +93,7 @@ Les films et séries sont disponibles avec les comptes Xtream.
 ![Recherche, favoris et tri](../assets/screens/fr/search.jpg)
 
 - **Recherche :** tape avec le clavier à l’écran ou les chiffres de la télécommande. La recherche trouve chaînes, films et séries et ignore les accents (*malmo* trouve *Malmö*).
-- **Favoris :** appuie sur Rouge sur une chaîne, un film ou une série. Les favoris apparaissent en premier dans chaque liste et sous *Favoris* dans le menu.
+- **Favoris :** choisis ☆ *Favori* sur la page de détails d’un film ou d’une série, à droite de la liste des chaînes ou dans la barre d’informations en plein écran (Rouge est un raccourci). Les favoris apparaissent en premier dans chaque liste et sous *Favoris* dans le menu.
 - **Tri :** le bouton *Tri* en haut des listes (ou Vert). Les chaînes se trient par numéro, qualité ou nom, les films et séries par exemple par ajouts récents, année, note ou qualité. Les séries peuvent aussi être triées par durée des épisodes.
 
 ## Réglages {#settings}

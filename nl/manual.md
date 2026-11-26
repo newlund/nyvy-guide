@@ -37,9 +37,7 @@ Wil je eerst rondkijken? Kies *Nu overslaan*. Je kunt je aanbieder later toevoeg
 |---|---|
 | Pijlen en OK | Bewegen en kiezen |
 | Terug | Teruggaan. In het zijmenu: Nyvy afsluiten |
-| Rood | Favoriet toevoegen of verwijderen |
-| Groen | Sorteren (in lijsten) · audio en ondertiteling (tijdens het kijken) |
-| Geel | Vorige zender (live tv op volledig scherm) |
+| Rood · Groen · Geel | Sneltoetsen (zie hieronder) |
 | CH+ / CH− | Andere zender · bladeren in lijsten |
 | Afspelen/pauze | Pauzeren en verdergaan |
 | Vooruit-/terugspoelen | 60 seconden springen |
@@ -47,6 +45,8 @@ Wil je eerst rondkijken? Kies *Nu overslaan*. Je kunt je aanbieder later toevoeg
 | Cijfers | Direct naar een zendernummer |
 
 De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol met het wieltje.
+
+**Geen kleurtoetsen op je afstandsbediening?** Veel Magic Remotes hebben ze niet, en je hebt ze niet nodig: alles werkt met knoppen op het scherm. ☆ *Favoriet* staat op de detailpagina van films en series, rechts van de zenderlijst (druk op rechts) en in de infobalk op volledig scherm. *Sortering* staat bovenaan de lijsten, *Audio en ondertiteling* en *Vorige zender* in de infobalk. Wil je toch de sneltoetsen, druk dan op **123** op de afstandsbediening: er verschijnt een paneel met de kleurtoetsen op het scherm. Rood: favoriet · Groen: sorteren, of audio en ondertiteling tijdens het kijken · Geel: vorige zender.
 
 ## Live tv {#live-tv}
 
@@ -56,9 +56,9 @@ De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol m
 - **Zender kiezen:** links staan de categorieën, in het midden de zenders met het huidige programma. OK speelt de zender af in het voorbeeldvenster, nog een keer OK geeft volledig scherm.
 - **Op volledig scherm:**
   - Omhoog/omlaag of CH+/CH− kiezen een andere zender.
-  - OK opent de zenderlijst.
-  - Links/rechts of Info tonen de infobalk met nu en hierna, en knoppen voor de Magic Remote.
-  - Cijfers gaan naar een zendernummer, Geel terug naar de vorige zender.
+  - OK kiest de knoppen van de infobalk: *Zenders*, *Audio en ondertiteling*, ☆ *Favoriet*, *Vorige zender*, zender omhoog/omlaag en *Terug*. Links/rechts gaan ertussen, OK kiest.
+  - Links/rechts of Info tonen de infobalk met nu en hierna.
+  - Cijfers gaan naar een zendernummer.
   - Terug verbergt eerst de infobalk; druk nogmaals op Terug om het volledige scherm te verlaten.
 
 ## Tv-gids en terugkijken {#tv-guide}
@@ -85,7 +85,7 @@ Films en series zijn beschikbaar voor Xtream-accounts.
 ![Audio en ondertiteling](../assets/screens/nl/tracks.jpg)
 
 - **Films en series:** druk op omlaag of Groen om audiospoor, ondertiteling en versie te kiezen.
-- **Live tv:** druk op Groen om de ondertiteling van de uitzending aan of uit te zetten en het audiospoor te kiezen.
+- **Live tv:** kies *Audio en ondertiteling* in de infobalk (of druk op Groen) om de ondertiteling van de uitzending aan of uit te zetten en het audiospoor te kiezen.
 - **Standaardinstellingen:** onder *Instellingen → Algemeen* kies je de voorkeurstaal voor audio, of ondertiteling aan staat, de ondertiteltalen (1e en 2e keuze) en de grootte en stijl van de tekst.
 
 ## Zoeken, favorieten en sorteren {#search}
@@ -93,7 +93,7 @@ Films en series zijn beschikbaar voor Xtream-accounts.
 ![Zoeken, favorieten en sorteren](../assets/screens/nl/search.jpg)
 
 - **Zoeken:** typ met het schermtoetsenbord of met de cijfers van de afstandsbediening. Zoeken vindt zenders, films en series en negeert accenten (*malmo* vindt *Malmö*).
-- **Favorieten:** druk op Rood bij een zender, film of serie. Favorieten staan bovenaan in elke lijst en onder *Favorieten* in het menu.
+- **Favorieten:** kies ☆ *Favoriet* op de detailpagina van een film of serie, rechts van de zenderlijst of in de infobalk op volledig scherm (Rood is een sneltoets). Favorieten staan bovenaan in elke lijst en onder *Favorieten* in het menu.
 - **Sorteren:** de knop *Sortering* bovenaan de lijsten (of Groen). Zenders kun je sorteren op nummer, kwaliteit of naam, films en series bijvoorbeeld op recent toegevoegd, jaar, beoordeling of kwaliteit. Series kun je ook sorteren op de lengte van de afleveringen.
 
 ## Instellingen {#settings}

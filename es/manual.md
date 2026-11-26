@@ -37,9 +37,7 @@ Tras iniciar sesión, Nyvy descarga el catálogo (canales, películas y series) 
 |---|---|
 | Flechas y OK | Moverse y seleccionar |
 | Atrás | Volver. En el menú lateral: salir de Nyvy |
-| Rojo | Añadir o quitar favorito |
-| Verde | Ordenar (en listas) · audio y subtítulos (al ver) |
-| Amarillo | Canal anterior (TV en directo a pantalla completa) |
+| Rojo · Verde · Amarillo | Atajos (ver abajo) |
 | CH+ / CH− | Cambiar de canal · pasar páginas en listas |
 | Reproducir/Pausa | Pausar y continuar |
 | Avance/retroceso rápido | Saltar 60 segundos |
@@ -47,6 +45,8 @@ Tras iniciar sesión, Nyvy descarga el catálogo (canales, películas y series) 
 | Números | Ir directamente a un número de canal |
 
 El Magic Remote también funciona: apunta para marcar, haz clic para seleccionar y desplázate con la rueda.
+
+**¿Tu mando no tiene botones de colores?** Muchos Magic Remote no los tienen, y no los necesitas: todo funciona con botones en pantalla. ☆ *Favorito* está en la página de detalles de películas y series, a la derecha de la lista de canales (pulsa derecha) y en la barra de información a pantalla completa. *Orden* está arriba en las listas, y *Audio y subtítulos* y *Canal anterior* en la barra de información. Si aun así quieres los atajos, pulsa **123** en el mando: aparece en pantalla un panel con los botones de colores. Rojo: favorito · Verde: ordenar, o audio y subtítulos mientras ves · Amarillo: canal anterior.
 
 ## TV en directo {#live-tv}
 
@@ -56,9 +56,9 @@ El Magic Remote también funciona: apunta para marcar, haz clic para seleccionar
 - **Elegir canal:** a la izquierda están las categorías y en el centro los canales con el programa actual. OK reproduce el canal en la vista previa; OK otra vez pasa a pantalla completa.
 - **A pantalla completa:**
   - Arriba/abajo o CH+/CH− cambian de canal.
-  - OK abre la lista de canales.
-  - Izquierda/derecha o Info muestran la barra de información con ahora y después, y botones para el Magic Remote.
-  - Los números van a un canal y Amarillo vuelve al canal anterior.
+  - OK selecciona los botones de la barra de información: *Canales*, *Audio y subtítulos*, ☆ *Favorito*, *Canal anterior*, canal arriba/abajo y *Atrás*. Izquierda/derecha se mueven entre ellos, OK selecciona.
+  - Izquierda/derecha o Info muestran la barra de información con ahora y después.
+  - Los números van a un canal.
   - Atrás oculta primero la barra de información; pulsa Atrás otra vez para salir de la pantalla completa.
 
 ## Guía de TV y catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Las películas y series están disponibles en las cuentas Xtream.
 ![Audio y subtítulos](../assets/screens/es/tracks.jpg)
 
 - **Películas y series:** pulsa abajo o Verde para elegir pista de audio, subtítulos y versión.
-- **TV en directo:** pulsa Verde para activar o desactivar los subtítulos de la emisión y elegir la pista de audio.
+- **TV en directo:** elige *Audio y subtítulos* en la barra de información (o pulsa Verde) para activar o desactivar los subtítulos de la emisión y elegir la pista de audio.
 - **Valores predeterminados:** en *Ajustes → General* eliges el idioma de audio preferido, si los subtítulos están activados, los idiomas de subtítulos (1.ª y 2.ª opción) y el tamaño y estilo del texto.
 
 ## Buscar, favoritos y orden {#search}
@@ -93,7 +93,7 @@ Las películas y series están disponibles en las cuentas Xtream.
 ![Buscar, favoritos y orden](../assets/screens/es/search.jpg)
 
 - **Buscar:** escribe con el teclado en pantalla o con los números del mando. La búsqueda encuentra canales, películas y series e ignora los acentos (*malmo* encuentra *Malmö*).
-- **Favoritos:** pulsa Rojo en un canal, película o serie. Los favoritos aparecen primero en cada lista y en *Favoritos* en el menú.
+- **Favoritos:** elige ☆ *Favorito* en la página de detalles de una película o serie, a la derecha de la lista de canales o en la barra de información a pantalla completa (Rojo es un atajo). Los favoritos aparecen primero en cada lista y en *Favoritos* en el menú.
 - **Orden:** el botón *Orden* arriba en las listas (o Verde). Los canales se pueden ordenar por número, calidad o nombre, y las películas y series, por ejemplo, por añadidos recientemente, año, valoración o calidad. Las series también se pueden ordenar por la duración de los episodios.
 
 ## Ajustes {#settings}

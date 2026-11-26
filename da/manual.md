@@ -37,9 +37,7 @@ Vil du se dig omkring først? Vælg *Spring over*. Du kan tilføje din udbyder s
 |---|---|
 | Pile og OK | Flytte og vælge |
 | Tilbage | Gå tilbage. I sidemenuen: afslut Nyvy |
-| Rød | Tilføj eller fjern favorit |
-| Grøn | Sortér (i lister) · lyd og undertekster (når du ser) |
-| Gul | Forrige kanal (live-tv i fuld skærm) |
+| Rød · Grøn · Gul | Genveje (se nedenfor) |
 | CH+ / CH− | Skift kanal · bladr i lister |
 | Afspil/pause | Pause og fortsæt |
 | Spol frem/tilbage | Spring 60 sekunder |
@@ -47,6 +45,8 @@ Vil du se dig omkring først? Vælg *Spring over*. Du kan tilføje din udbyder s
 | Tal | Gå direkte til et kanalnummer |
 
 Magic Remote virker også: peg for at markere, klik for at vælge og rul med hjulet.
+
+**Ingen farveknapper på fjernbetjeningen?** Mange Magic Remote har dem ikke, og du har ikke brug for dem: alt virker med knapper på skærmen. ☆ *Favorit* findes på detaljesiden for film og serier, til højre for kanallisten (tryk højre) og i infolinjen i fuld skærm. *Sortering* findes øverst i listerne, og *Lyd og undertekster* og *Forrige kanal* i infolinjen. Vil du alligevel bruge genvejene, så tryk **123** på fjernbetjeningen: et panel med farveknapperne vises på skærmen. Rød: favorit · Grøn: sortering, eller lyd og undertekster mens du ser · Gul: forrige kanal.
 
 ## Live-tv {#live-tv}
 
@@ -56,9 +56,9 @@ Magic Remote virker også: peg for at markere, klik for at vælge og rul med hju
 - **Vælg kanal:** til venstre er kategorierne, i midten kanalerne med det program, der kører. OK afspiller kanalen i forhåndsvisningen, OK igen giver fuld skærm.
 - **I fuld skærm:**
   - Op/ned eller CH+/CH− skifter kanal.
-  - OK åbner kanallisten.
-  - Venstre/højre eller Info viser infolinjen med nu og derefter samt knapper til Magic Remote.
-  - Tal går til et kanalnummer, og Gul tilbage til forrige kanal.
+  - OK vælger infolinjens knapper: *Kanaler*, *Lyd og undertekster*, ☆ *Favorit*, *Forrige kanal*, kanal op/ned og *Tilbage*. Venstre/højre flytter mellem dem, OK vælger.
+  - Venstre/højre eller Info viser infolinjen med nu og derefter.
+  - Tal går til et kanalnummer.
   - Tilbage skjuler først infolinjen; tryk Tilbage igen for at forlade fuld skærm.
 
 ## Tv-guide og catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Film og serier findes til Xtream-konti.
 ![Lyd og undertekster](../assets/screens/da/tracks.jpg)
 
 - **Film og serier:** tryk ned eller Grøn for at vælge lydspor, undertekster og version.
-- **Live-tv:** tryk Grøn for at slå udsendelsens undertekster til eller fra og vælge lydspor.
+- **Live-tv:** vælg *Lyd og undertekster* i infolinjen (eller tryk Grøn) for at slå udsendelsens undertekster til eller fra og vælge lydspor.
 - **Standardvalg:** under *Indstillinger → Generelt* vælger du foretrukket lydsprog, om undertekster skal være slået til, første- og andetvalg for undertekstsprog samt tekststørrelse og type.
 
 ## Søgning, favoritter og sortering {#search}
@@ -93,7 +93,7 @@ Film og serier findes til Xtream-konti.
 ![Søgning, favoritter og sortering](../assets/screens/da/search.jpg)
 
 - **Søg:** skriv med tastaturet på skærmen eller med fjernbetjeningens tal. Søgningen finder kanaler, film og serier og ser bort fra accenter (*malmo* finder *Malmö*).
-- **Favoritter:** tryk Rød på en kanal, film eller serie. Favoritterne ligger først i hver liste og under *Favoritter* i menuen.
+- **Favoritter:** vælg ☆ *Favorit* på detaljesiden for en film eller serie, til højre for kanallisten eller i infolinjen i fuld skærm (Rød er en genvej). Favoritterne ligger først i hver liste og under *Favoritter* i menuen.
 - **Sortering:** knappen *Sortering* øverst i listerne (eller Grøn). Kanaler kan sorteres efter nummer, kvalitet eller navn, og film og serier for eksempel efter senest tilføjet, år, bedømmelse eller kvalitet. Serier kan også sorteres efter afsnittenes længde.
 
 ## Indstillinger {#settings}

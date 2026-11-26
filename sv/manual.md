@@ -37,9 +37,7 @@ Vill du titta runt först? Välj *Hoppa över*. Du kan lägga till leverantören
 |---|---|
 | Pilar och OK | Flytta och välja |
 | Tillbaka | Gå tillbaka. I sidomenyn: avsluta Nyvy |
-| Röd | Lägg till eller ta bort favorit |
-| Grön | Sortera (i listor) · ljud och undertexter (när du tittar) |
-| Gul | Föregående kanal (live-TV i helskärm) |
+| Röd · Grön · Gul | Genvägar (se nedan) |
 | CH+ / CH− | Byt kanal · bläddra i listor |
 | Play/Paus | Pausa och fortsätta |
 | Spola fram/bak | Hoppa 60 sekunder |
@@ -47,6 +45,8 @@ Vill du titta runt först? Välj *Hoppa över*. Du kan lägga till leverantören
 | Siffror | Gå direkt till ett kanalnummer |
 
 Magic Remote fungerar också: peka för att markera, klicka för att välja och scrolla med hjulet.
+
+**Inga färgknappar på fjärrkontrollen?** Många Magic Remote saknar dem, och du behöver dem inte: allt fungerar med knappar på skärmen. ☆ *Favorit* finns på detaljsidan för filmer och serier, till höger om kanallistan (tryck höger) och i informationsraden i helskärm. *Sortering* finns högst upp i listorna, och *Ljud och undertexter* och *Föregående kanal* i informationsraden. Vill du ändå använda genvägarna, tryck **123** på fjärrkontrollen: en panel med färgknapparna visas på skärmen. Röd: favorit · Grön: sortering, eller ljud och undertexter när du tittar · Gul: föregående kanal.
 
 ## Live-TV {#live-tv}
 
@@ -56,9 +56,9 @@ Magic Remote fungerar också: peka för att markera, klicka för att välja och 
 - **Välj kanal:** till vänster finns kategorierna, i mitten kanalerna med pågående program. OK spelar kanalen i förhandsrutan, OK igen ger helskärm.
 - **I helskärm:**
   - Upp/ned eller CH+/CH− byter kanal.
-  - OK öppnar kanallistan.
-  - Vänster/höger eller Info visar informationsraden med nu och sedan, och knappar för Magic Remote.
-  - Siffror går till ett kanalnummer, och Gul tillbaka till föregående kanal.
+  - OK väljer informationsradens knappar: *Kanaler*, *Ljud och undertexter*, ☆ *Favorit*, *Föregående kanal*, kanal upp/ned och *Tillbaka*. Vänster/höger flyttar mellan dem, OK väljer.
+  - Vänster/höger eller Info visar informationsraden med nu och sedan.
+  - Siffror går till ett kanalnummer.
   - Tillbaka döljer först informationsraden; tryck Tillbaka igen för att gå ur helskärm.
 
 ## TV-guide och catch-up {#tv-guide-och-catch-up}
@@ -85,7 +85,7 @@ Filmer och serier finns för Xtream-konton.
 ![Ljud och undertexter](../assets/screens/sv/tracks.jpg)
 
 - **Filmer och serier:** tryck ned eller Grön för att välja ljudspår, undertexter och version.
-- **Live-TV:** tryck Grön för att slå på eller av sändningens undertexter (till exempel SVT:s svenska undertexter) och välja ljudspår.
+- **Live-TV:** välj *Ljud och undertexter* i informationsraden (eller tryck Grön) för att slå på eller av sändningens undertexter (till exempel SVT:s svenska undertexter) och välja ljudspår.
 - **Standardval:** under *Inställningar → Allmänt* väljer du föredraget ljudspråk, om undertexter ska vara på, första- och andrahandsspråk för undertexter, samt textstorlek och stil.
 
 ## Sök, favoriter och sortering {#sok-favoriter-och-sortering}
@@ -93,7 +93,7 @@ Filmer och serier finns för Xtream-konton.
 ![Sök, favoriter och sortering](../assets/screens/sv/search.jpg)
 
 - **Sök:** skriv med tangentbordet på skärmen eller med fjärrkontrollens siffror. Sökningen hittar kanaler, filmer och serier, och bryr sig inte om accenter (*malmo* hittar *Malmö*).
-- **Favoriter:** tryck Röd på en kanal, film eller serie. Favoriterna finns först i varje lista och under *Favoriter* i menyn.
+- **Favoriter:** välj ☆ *Favorit* på detaljsidan för en film eller serie, till höger om kanallistan eller i informationsraden i helskärm (Röd är en genväg). Favoriterna finns först i varje lista och under *Favoriter* i menyn.
 - **Sortering:** knappen *Sortering* högst upp i listorna (eller Grön). Kanaler kan sorteras efter nummer, kvalitet eller namn, och filmer och serier efter till exempel senast tillagda, år, betyg eller kvalitet. Serier kan även sorteras efter avsnittens längd.
 
 ## Inställningar {#installningar}

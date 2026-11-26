@@ -37,9 +37,7 @@ Vuoi prima dare un’occhiata? Scegli *Salta per ora*. Puoi aggiungere il fornit
 |---|---|
 | Frecce e OK | Muoversi e selezionare |
 | Indietro | Tornare indietro. Nel menu laterale: uscire da Nyvy |
-| Rosso | Aggiungere o togliere un preferito |
-| Verde | Ordinare (negli elenchi) · audio e sottotitoli (durante la visione) |
-| Giallo | Canale precedente (TV in diretta a schermo intero) |
+| Rosso · Verde · Giallo | Scorciatoie (vedi sotto) |
 | CH+ / CH− | Cambiare canale · scorrere gli elenchi |
 | Play/Pausa | Mettere in pausa e riprendere |
 | Avanti/indietro veloce | Saltare di 60 secondi |
@@ -47,6 +45,8 @@ Vuoi prima dare un’occhiata? Scegli *Salta per ora*. Puoi aggiungere il fornit
 | Numeri | Andare direttamente a un numero di canale |
 
 Funziona anche il Magic Remote: punta per evidenziare, fai clic per selezionare e scorri con la rotellina.
+
+**Il telecomando non ha i tasti colorati?** Molti Magic Remote non li hanno, e non ti servono: tutto funziona con i pulsanti sullo schermo. ☆ *Preferito* si trova nella pagina dei dettagli di film e serie, a destra dell’elenco dei canali (premi destra) e nella barra informazioni a schermo intero. *Ordinamento* è in alto negli elenchi, *Audio e sottotitoli* e *Canale precedente* nella barra informazioni. Se vuoi comunque le scorciatoie, premi **123** sul telecomando: sullo schermo compare un pannello con i tasti colorati. Rosso: preferito · Verde: ordinamento, oppure audio e sottotitoli durante la visione · Giallo: canale precedente.
 
 ## TV in diretta {#live-tv}
 
@@ -56,9 +56,9 @@ Funziona anche il Magic Remote: punta per evidenziare, fai clic per selezionare 
 - **Scegliere un canale:** a sinistra le categorie, al centro i canali con il programma in corso. OK riproduce il canale nell’anteprima; un altro OK passa a schermo intero.
 - **A schermo intero:**
   - Su/giù o CH+/CH− cambiano canale.
-  - OK apre l’elenco dei canali.
-  - Sinistra/destra o Info mostrano la barra informazioni con ora e dopo, e pulsanti per il Magic Remote.
-  - I numeri vanno a un canale, e Giallo torna al canale precedente.
+  - OK seleziona i pulsanti della barra informazioni: *Canali*, *Audio e sottotitoli*, ☆ *Preferito*, *Canale precedente*, canale su/giù e *Indietro*. Sinistra/destra si spostano tra di essi, OK seleziona.
+  - Sinistra/destra o Info mostrano la barra informazioni con ora e dopo.
+  - I numeri vanno a un canale.
   - Indietro nasconde prima la barra informazioni; premi di nuovo Indietro per uscire dallo schermo intero.
 
 ## Guida TV e catch-up {#tv-guide}
@@ -85,7 +85,7 @@ Film e serie sono disponibili con gli account Xtream.
 ![Audio e sottotitoli](../assets/screens/it/tracks.jpg)
 
 - **Film e serie:** premi giù o Verde per scegliere traccia audio, sottotitoli e versione.
-- **TV in diretta:** premi Verde per attivare o disattivare i sottotitoli della trasmissione e scegliere la traccia audio.
+- **TV in diretta:** scegli *Audio e sottotitoli* nella barra informazioni (o premi Verde) per attivare o disattivare i sottotitoli della trasmissione e scegliere la traccia audio.
 - **Predefiniti:** in *Impostazioni → Generali* scegli la lingua audio preferita, se i sottotitoli sono attivi, le lingue dei sottotitoli (1ª e 2ª scelta) e dimensione e stile del testo.
 
 ## Ricerca, preferiti e ordine {#search}
@@ -93,7 +93,7 @@ Film e serie sono disponibili con gli account Xtream.
 ![Ricerca, preferiti e ordine](../assets/screens/it/search.jpg)
 
 - **Ricerca:** scrivi con la tastiera sullo schermo o con i numeri del telecomando. La ricerca trova canali, film e serie e ignora gli accenti (*malmo* trova *Malmö*).
-- **Preferiti:** premi Rosso su un canale, un film o una serie. I preferiti compaiono per primi in ogni elenco e in *Preferiti* nel menu.
+- **Preferiti:** scegli ☆ *Preferito* nella pagina dei dettagli di un film o una serie, a destra dell’elenco dei canali o nella barra informazioni a schermo intero (Rosso è una scorciatoia). I preferiti compaiono per primi in ogni elenco e in *Preferiti* nel menu.
 - **Ordine:** il pulsante *Ordine* in alto negli elenchi (o Verde). I canali si ordinano per numero, qualità o nome, film e serie per esempio per aggiunti di recente, anno, voto o qualità. Le serie si possono ordinare anche per durata degli episodi.
 
 ## Impostazioni {#settings}
