@@ -106,6 +106,10 @@ The Magic Remote works too: point to highlight, click to select and scroll with 
 
 ## Films and series
 
+![Films and series](../assets/screens/en/films.jpg)
+![Films and series](../assets/screens/en/film-details.jpg)
+![Films and series](../assets/screens/en/series-details.jpg)
+
 Films and series are available for Xtream accounts.
 
 - **The details page** shows the plot, cast, quality (for example 4K or Dolby Vision) and the *Play*, *Continue* and *Favorite* buttons. If a film exists in several versions, they're shown as choices below the buttons.

@@ -106,6 +106,10 @@ Myös Magic Remote toimii: osoita korostaaksesi, napsauta valitaksesi ja vierit�
 
 ## Elokuvat ja sarjat {#films-series}
 
+![Elokuvat ja sarjat](../assets/screens/fi/films.jpg)
+![Elokuvat ja sarjat](../assets/screens/fi/film-details.jpg)
+![Elokuvat ja sarjat](../assets/screens/fi/series-details.jpg)
+
 Elokuvat ja sarjat ovat käytettävissä Xtream-tileillä.
 
 - **Tietosivu** näyttää juonen, näyttelijät, laadun (esimerkiksi 4K tai Dolby Vision) sekä painikkeet *Toista*, *Jatka* ja *Suosikki*. Jos elokuvasta on useita versioita, ne näkyvät valintoina painikkeiden alla.

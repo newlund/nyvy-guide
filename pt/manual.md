@@ -106,6 +106,10 @@ O Magic Remote também funciona: aponte para destacar, clique para selecionar e 
 
 ## Filmes e séries {#films-series}
 
+![Filmes e séries](../assets/screens/pt/films.jpg)
+![Filmes e séries](../assets/screens/pt/film-details.jpg)
+![Filmes e séries](../assets/screens/pt/series-details.jpg)
+
 Filmes e séries estão disponíveis para contas Xtream.
 
 - **A página de detalhes** mostra sinopse, elenco, qualidade (por exemplo 4K ou Dolby Vision) e os botões *Assistir*, *Continuar* e *Favorito*. Se um filme tiver várias versões, elas aparecem como opções abaixo dos botões.

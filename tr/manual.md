@@ -106,6 +106,10 @@ Magic Remote da çalışır: işaretlemek için gösterin, seçmek için tıklay
 
 ## Filmler ve diziler {#films-series}
 
+![Filmler ve diziler](../assets/screens/tr/films.jpg)
+![Filmler ve diziler](../assets/screens/tr/film-details.jpg)
+![Filmler ve diziler](../assets/screens/tr/series-details.jpg)
+
 Filmler ve diziler Xtream hesaplarında bulunur.
 
 - **Ayrıntı sayfası** konuyu, oyuncuları, kaliteyi (örneğin 4K veya Dolby Vision) ve *Oynat*, *Devam et* ve *Favori* düğmelerini gösterir. Bir filmin birden fazla sürümü varsa düğmelerin altında seçenek olarak görünür.

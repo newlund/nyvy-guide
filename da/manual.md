@@ -106,6 +106,10 @@ Magic Remote virker også: peg for at markere, klik for at vælge og rul med hju
 
 ## Film og serier {#films-series}
 
+![Film og serier](../assets/screens/da/films.jpg)
+![Film og serier](../assets/screens/da/film-details.jpg)
+![Film og serier](../assets/screens/da/series-details.jpg)
+
 Film og serier findes til Xtream-konti.
 
 - **Detaljesiden** viser handling, medvirkende, kvalitet (for eksempel 4K eller Dolby Vision) og knapperne *Afspil*, *Fortsæt* og *Favorit*. Findes filmen i flere versioner, vises de som valg under knapperne.

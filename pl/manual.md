@@ -106,6 +106,10 @@ Działa też Magic Remote: wskaż, aby zaznaczyć, kliknij, aby wybrać, i przew
 
 ## Filmy i seriale {#films-series}
 
+![Filmy i seriale](../assets/screens/pl/films.jpg)
+![Filmy i seriale](../assets/screens/pl/film-details.jpg)
+![Filmy i seriale](../assets/screens/pl/series-details.jpg)
+
 Filmy i seriale są dostępne dla kont Xtream.
 
 - **Strona szczegółów** pokazuje opis, obsadę, jakość (na przykład 4K lub Dolby Vision) i przyciski *Odtwórz*, *Wznów* i *Ulubione*. Jeśli film ma kilka wersji, są one wyświetlane do wyboru pod przyciskami.

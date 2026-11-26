@@ -106,6 +106,10 @@ De Magic Remote werkt ook: wijs aan om te markeren, klik om te kiezen en scrol m
 
 ## Films en series {#films-series}
 
+![Films en series](../assets/screens/nl/films.jpg)
+![Films en series](../assets/screens/nl/film-details.jpg)
+![Films en series](../assets/screens/nl/series-details.jpg)
+
 Films en series zijn beschikbaar voor Xtream-accounts.
 
 - **De detailpagina** toont de inhoud, de cast, de kwaliteit (bijvoorbeeld 4K of Dolby Vision) en de knoppen *Afspelen*, *Verder* en *Favoriet*. Bestaat een film in meerdere versies, dan staan die als keuze onder de knoppen.
