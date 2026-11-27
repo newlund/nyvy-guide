@@ -14,5 +14,5 @@ Wsparcie jest dobrowolne i niczego nie odblokowuje. Nyvy działa tak samo dla ws
 
 ## Inne sposoby pomocy
 
-- **Zgłaszaj błędy:** opisz, co zrobiłeś, jakiego kanału lub filmu to dotyczyło i co się stało.
+- **Zgłaszaj błędy i pomysły** na [GitHubie](https://github.com/newlund/nyvy-guide/issues) (potrzebujesz bezpłatnego konta): co zrobiłeś, co się stało i jaką masz wersję (*Ustawienia* → *Informacje*). Strona jest publiczna, więc opisz film lub kanał zamiast podawać nazwę (na przykład „film 4K bez dźwięku”) i nie podawaj adresu dostawcy ani danych logowania.
 - **Poleć Nyvy** osobom, które mają telewizor LG i subskrypcję IPTV.

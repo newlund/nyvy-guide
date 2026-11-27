@@ -14,5 +14,5 @@ Ein Beitrag ist freiwillig und schaltet nichts frei. Nyvy funktioniert für alle
 
 ## Andere Möglichkeiten zu helfen
 
-- **Fehler melden:** beschreibe, was du gemacht hast, welcher Sender oder Film es war und was passiert ist.
+- **Fehler und Ideen melden** auf [GitHub](https://github.com/newlund/nyvy-guide/issues) (du brauchst ein kostenloses Konto): was du gemacht hast, was passiert ist und welche Version du hast (*Einstellungen* → *Info*). Die Seite ist öffentlich, also beschreibe einen Film oder Sender, statt ihn zu nennen (zum Beispiel „ein 4K-Film ohne Ton“), und lass die Adresse deines Anbieters und deine Zugangsdaten weg.
 - **Weitersagen** an andere mit einem LG-Fernseher und einem IPTV-Abonnement.

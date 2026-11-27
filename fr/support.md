@@ -14,5 +14,5 @@ Une contribution est facultative et ne débloque rien. Nyvy fonctionne de la mê
 
 ## Autres façons d’aider
 
-- **Signale les problèmes :** décris ce que tu as fait, de quelle chaîne ou de quel film il s’agissait, et ce qui s’est passé.
+- **Signale les problèmes et les idées** sur [GitHub](https://github.com/newlund/nyvy-guide/issues) (il faut un compte gratuit) : ce que tu as fait, ce qui s’est passé et ta version (*Réglages* → *À propos*). La page est publique : décris un film ou une chaîne au lieu de le nommer (par exemple « un film 4K sans son »), et n’indique pas l’adresse de ton fournisseur ni tes identifiants.
 - **Parles-en** autour de toi à ceux qui ont un téléviseur LG et un abonnement IPTV.

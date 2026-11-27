@@ -14,5 +14,5 @@ Et bidrag er frivillig og gir ingen ekstra funksjoner. Nyvy fungerer likt for al
 
 ## Andre måter å hjelpe på
 
-- **Si fra om feil:** beskriv hva du gjorde, hvilken kanal eller film det gjaldt, og hva som skjedde.
+- **Si fra om feil og ideer** på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du trenger en gratis konto): hva du gjorde, hva som skjedde og hvilken versjon du har (*Innstillinger* → *Om*). Siden er offentlig, så beskriv en film eller kanal i stedet for å skrive navnet (for eksempel "en 4K-film uten lyd"), og ikke ta med leverandørens adresse eller påloggingen din.
 - **Tips andre** som har en LG-TV og et IPTV-abonnement.

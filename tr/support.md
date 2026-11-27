@@ -14,5 +14,5 @@ Destek isteğe bağlıdır ve ek bir özellik açmaz. Nyvy herkes için aynı ş
 
 ## Yardım etmenin diğer yolları
 
-- **Hataları bildirin:** ne yaptığınızı, hangi kanal veya film olduğunu ve ne olduğunu anlatın.
+- **Hataları ve fikirleri bildirin:** [GitHub](https://github.com/newlund/nyvy-guide/issues) (ücretsiz bir hesap gerekir): ne yaptığınızı, ne olduğunu ve hangi sürümü kullandığınızı (*Ayarlar* → *Hakkında*) yazın. Sayfa herkese açıktır; bu yüzden bir film veya kanalın adını yazmak yerine onu tarif edin (örneğin "sesi olmayan bir 4K film") ve sağlayıcınızın adresini ya da giriş bilgilerinizi eklemeyin.
 - **Başkalarına önerin:** LG televizyonu ve IPTV aboneliği olan tanıdıklarınıza.
