@@ -255,7 +255,7 @@ O Nyvy associa os canais ao guia de TV pelo tvg-id, ou então pelo nome do canal
 O Nyvy atualiza o catálogo e o guia de TV ao abrir o app, se tiverem mais de 12 horas. Para atualizar na hora: *Configurações* → *Conta* → *Atualizar catálogo*.
 
 ### Não encontrou a resposta?
-Informe um problema ou sugira uma melhoria no [GitHub](https://github.com/newlund/nyvy-guide/issues) (é preciso uma conta gratuita do GitHub). Diga qual versão você tem (*Configurações* → *Sobre*) e o que aconteceu. A página é pública: não inclua o endereço do seu provedor nem seus dados de acesso.
+Informe um problema ou sugira uma melhoria no [GitHub](https://github.com/newlund/nyvy-guide/issues) (é preciso uma conta gratuita do GitHub). Diga qual versão você tem (*Configurações* → *Sobre*) e o que aconteceu.
 
 ## Glossário
 

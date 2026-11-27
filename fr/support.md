@@ -14,5 +14,5 @@ Une contribution est facultative et ne débloque rien. Nyvy fonctionne de la mê
 
 ## Autres façons d’aider
 
-- **Signale les problèmes et les idées** sur [GitHub](https://github.com/newlund/nyvy-guide/issues) (il faut un compte gratuit) : ce que tu as fait, ce qui s’est passé et ta version (*Réglages* → *À propos*). La page est publique : n’indique pas l’adresse de ton fournisseur ni tes identifiants.
+- **Signale les problèmes et les idées** sur [GitHub](https://github.com/newlund/nyvy-guide/issues) (il faut un compte gratuit) : ce que tu as fait, ce qui s’est passé et ta version (*Réglages* → *À propos*).
 - **Parles-en** autour de toi à ceux qui ont un téléviseur LG et un abonnement IPTV.

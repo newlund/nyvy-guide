@@ -255,7 +255,7 @@ Nyvy matches channels to the TV guide by tvg-id, otherwise by the channel name. 
 Nyvy updates the catalogue and the TV guide when you start the app, if they are more than 12 hours old. To update right away: *Settings* → *Account* → *Refresh catalogue*.
 
 ### Didn't find the answer?
-Report a problem or suggest an improvement on [GitHub](https://github.com/newlund/nyvy-guide/issues) (you need a free GitHub account). Say which version you have (*Settings* → *About*) and what happened. The page is public: don't include your provider's address or your login.
+Report a problem or suggest an improvement on [GitHub](https://github.com/newlund/nyvy-guide/issues) (you need a free GitHub account). Say which version you have (*Settings* → *About*) and what happened.
 
 ## Glossary
 

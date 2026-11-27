@@ -255,7 +255,7 @@ Nyvy kanalları TV rehberiyle tvg-id’ye, yoksa kanal adına göre eşleştirir
 Nyvy, uygulamayı başlattığınızda 12 saatten eskiyse kataloğu ve TV rehberini günceller. Hemen güncellemek için: *Ayarlar* → *Hesap* → *Kataloğu güncelle*.
 
 ### Yanıtı bulamadınız mı?
-Bir sorunu bildirin veya bir iyileştirme önerin: [GitHub](https://github.com/newlund/nyvy-guide/issues) (ücretsiz bir GitHub hesabı gerekir). Hangi sürümü kullandığınızı (*Ayarlar* → *Hakkında*) ve ne olduğunu yazın. Sayfa herkese açıktır: sağlayıcınızın adresini veya giriş bilgilerinizi eklemeyin.
+Bir sorunu bildirin veya bir iyileştirme önerin: [GitHub](https://github.com/newlund/nyvy-guide/issues) (ücretsiz bir GitHub hesabı gerekir). Hangi sürümü kullandığınızı (*Ayarlar* → *Hakkında*) ve ne olduğunu yazın.
 
 ## Sözlük
 

@@ -14,5 +14,5 @@ Et bidrag er frivilligt og giver ingen ekstra funktioner. Nyvy virker ens for al
 
 ## Andre måder at hjælpe på
 
-- **Fortæl om fejl og idéer** på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du skal have en gratis konto): hvad du gjorde, hvad der skete, og hvilken version du har (*Indstillinger* → *Om*). Siden er offentlig, så udelad udbyderens adresse og dine loginoplysninger.
+- **Fortæl om fejl og idéer** på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du skal have en gratis konto): hvad du gjorde, hvad der skete, og hvilken version du har (*Indstillinger* → *Om*).
 - **Fortæl andre** med et LG-tv og et IPTV-abonnement om Nyvy.

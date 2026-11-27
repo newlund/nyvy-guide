@@ -255,7 +255,7 @@ Nyvy abbina i canali alla guida TV tramite tvg-id, altrimenti tramite il nome de
 Nyvy aggiorna catalogo e guida TV all’avvio dell’app, se hanno più di 12 ore. Per aggiornare subito: *Impostazioni* → *Account* → *Aggiorna catalogo*.
 
 ### Non hai trovato la risposta?
-Segnala un problema o suggerisci un miglioramento su [GitHub](https://github.com/newlund/nyvy-guide/issues) (serve un account GitHub gratuito). Indica quale versione hai (*Impostazioni* → *Info*) e cosa è successo. La pagina è pubblica: non includere l’indirizzo del fornitore né i tuoi dati di accesso.
+Segnala un problema o suggerisci un miglioramento su [GitHub](https://github.com/newlund/nyvy-guide/issues) (serve un account GitHub gratuito). Indica quale versione hai (*Impostazioni* → *Info*) e cosa è successo.
 
 ## Glossario
 

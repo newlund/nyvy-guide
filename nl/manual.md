@@ -255,7 +255,7 @@ Nyvy koppelt zenders aan de tv-gids via tvg-id, anders via de zendernaam. Heeft 
 Nyvy werkt het aanbod en de tv-gids bij als je de app start en ze ouder zijn dan 12 uur. Meteen bijwerken: *Instellingen* → *Account* → *Aanbod bijwerken*.
 
 ### Geen antwoord gevonden?
-Meld een probleem of stel een verbetering voor op [GitHub](https://github.com/newlund/nyvy-guide/issues) (je hebt een gratis GitHub-account nodig). Vermeld welke versie je hebt (*Instellingen* → *Over*) en wat er gebeurde. De pagina is openbaar: zet er niet het adres van je provider of je inloggegevens in.
+Meld een probleem of stel een verbetering voor op [GitHub](https://github.com/newlund/nyvy-guide/issues) (je hebt een gratis GitHub-account nodig). Vermeld welke versie je hebt (*Instellingen* → *Over*) en wat er gebeurde.
 
 ## Woordenlijst
 

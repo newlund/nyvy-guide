@@ -14,5 +14,5 @@ Uma contribuição é voluntária e não libera nada a mais. O Nyvy funciona igu
 
 ## Outras formas de ajudar
 
-- **Relate problemas e ideias** no [GitHub](https://github.com/newlund/nyvy-guide/issues) (é preciso uma conta gratuita): o que você fez, o que aconteceu e qual versão você tem (*Configurações* → *Sobre*). A página é pública, então não inclua o endereço do provedor nem seus dados de acesso.
+- **Relate problemas e ideias** no [GitHub](https://github.com/newlund/nyvy-guide/issues) (é preciso uma conta gratuita): o que você fez, o que aconteceu e qual versão você tem (*Configurações* → *Sobre*).
 - **Indique o Nyvy** para quem tem uma TV LG e uma assinatura de IPTV.

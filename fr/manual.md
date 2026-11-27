@@ -255,7 +255,7 @@ Nyvy associe les chaînes au guide TV par tvg-id, sinon par le nom de la chaîne
 Nyvy met à jour le catalogue et le guide TV au démarrage de l’appli s’ils ont plus de 12 heures. Pour mettre à jour tout de suite : *Réglages* → *Compte* → *Mettre à jour le catalogue*.
 
 ### Tu n’as pas trouvé la réponse ?
-Signale un problème ou propose une amélioration sur [GitHub](https://github.com/newlund/nyvy-guide/issues) (il faut un compte GitHub gratuit). Indique ta version (*Réglages* → *À propos*) et ce qui s’est passé. La page est publique : n’y mets pas l’adresse de ton fournisseur ni tes identifiants.
+Signale un problème ou propose une amélioration sur [GitHub](https://github.com/newlund/nyvy-guide/issues) (il faut un compte GitHub gratuit). Indique ta version (*Réglages* → *À propos*) et ce qui s’est passé.
 
 ## Glossaire
 

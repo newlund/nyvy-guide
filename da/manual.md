@@ -255,7 +255,7 @@ Nyvy matcher kanaler med tv-guiden via tvg-id, ellers via kanalnavnet. Har kanal
 Nyvy opdaterer udvalget og tv-guiden, når du starter appen, hvis de er mere end 12 timer gamle. Opdater med det samme: *Indstillinger* → *Konto* → *Opdater udvalget*.
 
 ### Fandt du ikke svaret?
-Rapportér et problem eller foreslå en forbedring på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du skal have en gratis GitHub-konto). Skriv, hvilken version du har (*Indstillinger* → *Om*), og hvad der skete. Siden er offentlig: medtag ikke udbyderens adresse eller dine loginoplysninger.
+Rapportér et problem eller foreslå en forbedring på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du skal have en gratis GitHub-konto). Skriv, hvilken version du har (*Indstillinger* → *Om*), og hvad der skete.
 
 ## Ordliste
 
