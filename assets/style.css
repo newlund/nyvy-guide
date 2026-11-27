@@ -107,3 +107,4 @@ main img {
   color: var(--dim);
   font-size: 15px;
 }
+.machine-note { color: var(--dim); font-size: 14px; margin: 16px 0 0; }

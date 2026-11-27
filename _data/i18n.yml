@@ -12,6 +12,8 @@ da:
   footer: Nyvy indeholder ingen tv-kanaler, film eller serier. Du skal have dit eget abonnement hos en udbyder.
   notice: "Nyvy findes ikke i LG Content Store endnu. Du kan installere den med tv’ets udviklertilstand."
   for_version: "Gælder Nyvy %v"
+  machine_note: "Denne side er oversat automatisk og kan indeholde fejl."
+  read_english: "Læs den på engelsk"
 de:
   name: Deutsch
   manual: Anleitung
@@ -24,6 +26,8 @@ de:
   footer: Nyvy enthält keine TV-Sender, Filme oder Serien. Du brauchst ein eigenes Abonnement bei einem Anbieter.
   notice: "Nyvy ist noch nicht im LG Content Store. Du kannst die App über den Entwicklermodus des Fernsehers installieren."
   for_version: "Gilt für Nyvy %v"
+  machine_note: "Diese Seite wurde automatisch übersetzt und kann Fehler enthalten."
+  read_english: "Auf Englisch lesen"
 en:
   name: English
   manual: Manual
@@ -48,6 +52,8 @@ es:
   footer: Nyvy no incluye canales de TV, películas ni series. Necesitas tu propia suscripción con un proveedor.
   notice: "Nyvy aún no está en la LG Content Store. Puedes instalarla con el modo desarrollador del televisor."
   for_version: "Para Nyvy %v"
+  machine_note: "Esta página se ha traducido automáticamente y puede contener errores."
+  read_english: "Leer en inglés"
 fr:
   name: Français
   manual: Manuel
@@ -60,6 +66,8 @@ fr:
   footer: Nyvy ne contient aucune chaîne TV, aucun film ni aucune série. Tu as besoin de ton propre abonnement auprès d’un fournisseur.
   notice: "Nyvy n’est pas encore sur le LG Content Store. Tu peux l’installer avec le mode développeur du téléviseur."
   for_version: "Pour Nyvy %v"
+  machine_note: "Cette page a été traduite automatiquement et peut contenir des erreurs."
+  read_english: "Lire en anglais"
 it:
   name: Italiano
   manual: Manuale
@@ -72,6 +80,8 @@ it:
   footer: Nyvy non contiene canali TV, film o serie. Ti serve un abbonamento personale con un fornitore.
   notice: "Nyvy non è ancora nel LG Content Store. Puoi installarla con la modalità sviluppatore del televisore."
   for_version: "Per Nyvy %v"
+  machine_note: "Questa pagina è stata tradotta automaticamente e può contenere errori."
+  read_english: "Leggi in inglese"
 nl:
   name: Nederlands
   manual: Handleiding
@@ -84,6 +94,8 @@ nl:
   footer: Nyvy bevat geen tv-zenders, films of series. Je hebt een eigen abonnement bij een aanbieder nodig.
   notice: "Nyvy staat nog niet in de LG Content Store. Je kunt de app installeren via de ontwikkelaarsmodus van de tv."
   for_version: "Voor Nyvy %v"
+  machine_note: "Deze pagina is automatisch vertaald en kan fouten bevatten."
+  read_english: "Lees in het Engels"
 nb:
   name: Norsk
   manual: Brukerveiledning
@@ -96,6 +108,8 @@ nb:
   footer: Nyvy inneholder ingen TV-kanaler, filmer eller serier. Du trenger et eget abonnement hos en leverandør.
   notice: "Nyvy finnes ikke i LG Content Store ennå. Du kan installere den med TV-ens utviklermodus."
   for_version: "Gjelder Nyvy %v"
+  machine_note: "Denne siden er oversatt automatisk og kan inneholde feil."
+  read_english: "Les den på engelsk"
 pl:
   name: Polski
   manual: Instrukcja
@@ -108,6 +122,8 @@ pl:
   footer: Nyvy nie zawiera kanałów TV, filmów ani seriali. Potrzebujesz własnej subskrypcji u dostawcy.
   notice: "Nyvy nie ma jeszcze w LG Content Store. Możesz zainstalować aplikację w trybie dewelopera telewizora."
   for_version: "Dotyczy Nyvy %v"
+  machine_note: "Ta strona została przetłumaczona automatycznie i może zawierać błędy."
+  read_english: "Czytaj po angielsku"
 pt:
   name: Português
   manual: Manual
@@ -120,6 +136,8 @@ pt:
   footer: O Nyvy não contém canais de TV, filmes nem séries. Você precisa de uma assinatura própria com um provedor.
   notice: "O Nyvy ainda não está na LG Content Store. Você pode instalá-lo com o modo de desenvolvedor da TV."
   for_version: "Para o Nyvy %v"
+  machine_note: "Esta página foi traduzida automaticamente e pode conter erros."
+  read_english: "Ler em inglês"
 fi:
   name: Suomi
   manual: Käyttöohje
@@ -132,6 +150,8 @@ fi:
   footer: Nyvy ei sisällä TV-kanavia, elokuvia eikä sarjoja. Tarvitset oman tilauksen palveluntarjoajalta.
   notice: "Nyvy ei ole vielä LG Content Storessa. Voit asentaa sen television kehittäjätilan avulla."
   for_version: "Koskee Nyvyn versiota %v"
+  machine_note: "Tämä sivu on käännetty automaattisesti, ja siinä voi olla virheitä."
+  read_english: "Lue englanniksi"
 sv:
   name: Svenska
   manual: Manual
@@ -156,3 +176,5 @@ tr:
   footer: Nyvy TV kanalı, film veya dizi içermez. Bir sağlayıcıda kendi aboneliğiniz olmalıdır.
   notice: "Nyvy henüz LG Content Store’da yok. Televizyonun geliştirici moduyla kurabilirsiniz."
   for_version: "Nyvy %v için"
+  machine_note: "Bu sayfa otomatik olarak çevrildi ve hatalar içerebilir."
+  read_english: "İngilizce okuyun"
