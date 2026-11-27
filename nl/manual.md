@@ -155,7 +155,7 @@ Een spoor dat de tv niet kan afspelen, is grijs met de tekst *niet af te spelen 
 
 Onder *Instellingen* → *Algemeen* kies je *Grootte ondertiteling* (Klein, Gemiddeld, Groot of Extra groot) en *Stijl ondertiteling* (Omlijning of Achtergrondvak). Een voorbeeld laat zien hoe het eruitziet.
 
-*Helderheid van ondertitels* maakt ondertitels minder wit als ze te fel aanvoelen, in stappen tot 70%. Dat geldt voor tekst- en beeldondertitels, maar niet voor ondertitels van de uitzending bij live tv, die de tv tekent.
+*Helderheid van ondertitels* maakt ondertitels minder wit als ze te fel aanvoelen, in stappen tot 40%. Dat geldt voor tekst- en beeldondertitels, maar niet voor ondertitels van de uitzending bij live tv, die de tv tekent.
 
 ## Zoeken, favorieten en sorteren {#search}
 

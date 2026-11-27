@@ -155,7 +155,7 @@ Et spor, som tv'et ikke kan afspille, vises nedtonet med teksten *kan ikke afspi
 
 Under *Indstillinger* → *Generelt* vælger du *Undertekststørrelse* (Lille, Mellem, Stor eller Ekstra stor) og *Underteksttype* (Kontur eller Baggrundsboks). En forhåndsvisning viser, hvordan det bliver.
 
-*Underteksternes lysstyrke* gør underteksterne mindre hvide, hvis de føles for skarpe, i trin ned til 70 %. Det gælder tekst- og billedundertekster, men ikke udsendelsens undertekster i live-tv, som tv'et tegner.
+*Underteksternes lysstyrke* gør underteksterne mindre hvide, hvis de føles for skarpe, i trin ned til 40 %. Det gælder tekst- og billedundertekster, men ikke udsendelsens undertekster i live-tv, som tv'et tegner.
 
 ## Søgning, favoritter og sortering {#search}
 

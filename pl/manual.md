@@ -155,7 +155,7 @@ Na początku *Filmy* i *Seriale* są twoje ulubione, *Oglądaj dalej* (to, co za
 
 W *Ustawienia* → *Ogólne* wybierasz *Rozmiar napisów* (Małe, Średnie, Duże lub Bardzo duże) i *Styl napisów* (Obrys lub Tło). Podgląd pokazuje efekt.
 
-*Jasność napisów* sprawia, że napisy są mniej białe, jeśli wydają się zbyt jasne, stopniowo do 70%. Dotyczy to napisów tekstowych i graficznych, ale nie napisów z transmisji w TV na żywo, które rysuje telewizor.
+*Jasność napisów* sprawia, że napisy są mniej białe, jeśli wydają się zbyt jasne, stopniowo do 40%. Dotyczy to napisów tekstowych i graficznych, ale nie napisów z transmisji w TV na żywo, które rysuje telewizor.
 
 ## Wyszukiwanie, ulubione i sortowanie {#search}
 

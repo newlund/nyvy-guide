@@ -155,7 +155,7 @@ Ett spår som TV:n inte kan spela visas nedtonat med texten *kan inte spelas på
 
 Under *Inställningar* → *Allmänt* väljer du *Undertextstorlek* (Liten, Mellan, Stor eller Extra stor) och *Undertextstil* (Kontur eller Bakgrundsruta). En förhandsvisning visar hur det blir.
 
-*Undertexternas ljusstyrka* gör undertexterna mindre vita om de känns för ljusa, i steg ner till 70 %. Det gäller text- och bildundertexter, men inte sändningens undertexter i live-TV, som TV:n ritar.
+*Undertexternas ljusstyrka* gör undertexterna mindre vita om de känns för ljusa, i steg ner till 40 %. Det gäller text- och bildundertexter, men inte sändningens undertexter i live-TV, som TV:n ritar.
 
 ## Sök, favoriter och sortering {#sok-favoriter-och-sortering}
 

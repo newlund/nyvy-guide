@@ -155,7 +155,7 @@ Una traccia che la TV non può riprodurre appare in grigio con la scritta *non r
 
 In *Impostazioni* → *Generali* scegli *Dimensione sottotitoli* (Piccola, Media, Grande o Molto grande) e *Stile sottotitoli* (Contorno o Sfondo). Un’anteprima mostra il risultato.
 
-*Luminosità dei sottotitoli* rende i sottotitoli meno bianchi se ti sembrano troppo luminosi, a passi fino al 70%. Vale per i sottotitoli di testo e a immagine, ma non per quelli della trasmissione nella TV in diretta, che disegna la TV.
+*Luminosità dei sottotitoli* rende i sottotitoli meno bianchi se ti sembrano troppo luminosi, a passi fino al 40%. Vale per i sottotitoli di testo e a immagine, ma non per quelli della trasmissione nella TV in diretta, che disegna la TV.
 
 ## Ricerca, preferiti e ordine {#search}
 
