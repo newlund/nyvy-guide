@@ -6,7 +6,7 @@ baseurl: /nyvy-guide
 prerelease: true
 # The latest published release of the app (GitHub release tag without the v); shown on the manual pages.
 # Update with each release: the app's package suite checks it matches the newest tag.
-app_version: "1.0.1"
+app_version: "1.0.2"
 plugins:
   - jekyll-relative-links
 relative_links:

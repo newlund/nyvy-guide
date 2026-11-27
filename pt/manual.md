@@ -151,11 +151,13 @@ No início de *Filmes* e *Séries* ficam seus favoritos, *Continuar assistindo* 
 
 Uma faixa que a TV não consegue reproduzir aparece esmaecida com o texto *não reproduz neste aparelho*. As mais comuns são DTS e Dolby TrueHD. Se um filme só tem esse áudio, o Nyvy avisa ao começar, e o filme toca sem som: escolha outra versão, se houver. *Configurações* → *Sobre* mostra quais formatos sua TV reproduz.
 
+Se o som principal de um filme não puder ser reproduzido, mas outra faixa puder, o Nyvy reproduz essa e um aviso diz qual é. Faixas de comentário só são escolhidas quando nada mais pode ser reproduzido; você ainda pode escolhê-las.
+
 ### Tamanho e estilo das legendas
 
 Em *Configurações* → *Geral* você escolhe *Tamanho da legenda* (Pequeno, Médio, Grande ou Muito grande) e *Estilo da legenda* (Contorno ou Caixa de fundo). Uma prévia mostra como vai ficar.
 
-*Brilho das legendas* deixa as legendas menos brancas se parecerem claras demais, em etapas até 40%. Vale para legendas de texto e de imagem, mas não para as legendas da transmissão na TV ao vivo, que a TV desenha.
+*Brilho das legendas* deixa as legendas menos brancas se parecerem claras demais, em etapas até 10%. Vale para legendas de texto e de imagem, mas não para as legendas da transmissão na TV ao vivo, que a TV desenha.
 
 ## Busca, favoritos e ordem {#search}
 
@@ -218,6 +220,9 @@ Verifique a conexão de internet da TV. Se estiver funcionando, o problema prova
 
 ### Um filme está sem som
 Provavelmente o filme só tem áudio em DTS ou Dolby TrueHD, que as TVs LG não reproduzem em apps. Escolha outra faixa de áudio ou outra versão do filme, se houver.
+
+### Ouço um comentário em vez do filme
+O som principal do filme (muitas vezes DTS) não pode ser reproduzido na TV, então o Nyvy reproduz a única faixa possível, às vezes um comentário. O aviso no início diz qual é. Escolha outra versão do filme, se houver.
 
 ### O guia de TV está vazio (M3U)
 Nem toda lista indica um guia. Peça ao seu provedor o endereço de um guia XMLTV e digite em *Configurações → Conta → Editar dados*.

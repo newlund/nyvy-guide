@@ -151,11 +151,13 @@ Först i *Filmer* och *Serier* finns dina favoriter, *Fortsätt titta* (det du h
 
 Ett spår som TV:n inte kan spela visas nedtonat med texten *kan inte spelas på den här enheten*. Vanligast är DTS och Dolby TrueHD. Har en film bara sådant ljud säger Nyvy det när den börjar, och filmen spelas utan ljud: välj en annan version om det finns. Under *Inställningar* → *Om* ser du vilka format din TV klarar.
 
+Kan filmens huvudljud inte spelas men ett annat spår kan det, spelar Nyvy det spåret och en notis säger vilket. Kommentatorspår väljs bara när inget annat går att spela; du kan fortfarande välja dem själv.
+
 ### Undertexternas storlek och stil
 
 Under *Inställningar* → *Allmänt* väljer du *Undertextstorlek* (Liten, Mellan, Stor eller Extra stor) och *Undertextstil* (Kontur eller Bakgrundsruta). En förhandsvisning visar hur det blir.
 
-*Undertexternas ljusstyrka* gör undertexterna mindre vita om de känns för ljusa, i steg ner till 40 %. Det gäller text- och bildundertexter, men inte sändningens undertexter i live-TV, som TV:n ritar.
+*Undertexternas ljusstyrka* gör undertexterna mindre vita om de känns för ljusa, i steg ner till 10 %. Det gäller text- och bildundertexter, men inte sändningens undertexter i live-TV, som TV:n ritar.
 
 ## Sök, favoriter och sortering {#sok-favoriter-och-sortering}
 
@@ -218,6 +220,9 @@ Kontrollera TV:ns internetanslutning. Fungerar den, ligger felet troligen hos le
 
 ### En film har inget ljud
 Filmen har troligen bara ljud i DTS eller Dolby TrueHD, som LG-TV inte kan spela upp via appar. Välj ett annat ljudspår eller en annan version av filmen om det finns.
+
+### Jag hör en kommentar i stället för filmen
+Filmens huvudljud (ofta DTS) kan inte spelas på TV:n, så Nyvy spelar det enda spår som går, ibland ett kommentatorspår. Notisen när filmen börjar säger vilket. Välj en annan version av filmen om det finns.
 
 ### TV-guiden är tom (M3U)
 Alla spellistor anger ingen TV-guide. Fråga leverantören efter adressen till en XMLTV-guide och fyll i den under *Inställningar → Konto → Ändra uppgifter*.

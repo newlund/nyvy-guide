@@ -151,11 +151,13 @@ Bovenaan *Films* en *Series* staan je favorieten, *Verder kijken* (wat je bent b
 
 Een spoor dat de tv niet kan afspelen, is grijs met de tekst *niet af te spelen op dit apparaat*. Het vaakst zijn dat DTS en Dolby TrueHD. Heeft een film alleen zulk geluid, dan meldt Nyvy dat bij het starten, en speelt de film zonder geluid: kies een andere versie als die er is. *Instellingen* → *Over* toont welke formaten je tv kan afspelen.
 
+Kan het hoofdgeluid van een film niet worden afgespeeld maar een ander spoor wel, dan speelt Nyvy dat spoor af en noemt een melding welk het is. Commentaarsporen worden alleen gekozen als niets anders kan worden afgespeeld; je kunt ze nog steeds zelf kiezen.
+
 ### Grootte en stijl van ondertitels
 
 Onder *Instellingen* → *Algemeen* kies je *Grootte ondertiteling* (Klein, Gemiddeld, Groot of Extra groot) en *Stijl ondertiteling* (Omlijning of Achtergrondvak). Een voorbeeld laat zien hoe het eruitziet.
 
-*Helderheid van ondertitels* maakt ondertitels minder wit als ze te fel aanvoelen, in stappen tot 40%. Dat geldt voor tekst- en beeldondertitels, maar niet voor ondertitels van de uitzending bij live tv, die de tv tekent.
+*Helderheid van ondertitels* maakt ondertitels minder wit als ze te fel aanvoelen, in stappen tot 10%. Dat geldt voor tekst- en beeldondertitels, maar niet voor ondertitels van de uitzending bij live tv, die de tv tekent.
 
 ## Zoeken, favorieten en sorteren {#search}
 
@@ -218,6 +220,9 @@ Controleer de internetverbinding van de tv. Werkt die, dan ligt het probleem waa
 
 ### Een film heeft geen geluid
 De film heeft waarschijnlijk alleen geluid in DTS of Dolby TrueHD, dat LG-tv's niet in apps kunnen afspelen. Kies een ander audiospoor of een andere versie van de film als die er is.
+
+### Ik hoor commentaar in plaats van de film
+Het hoofdgeluid van de film (vaak DTS) kan niet worden afgespeeld op de tv, dus speelt Nyvy het enige spoor dat wel kan, soms een commentaarspoor. De melding bij het begin noemt welk. Kies een andere versie van de film als die er is.
 
 ### De tv-gids is leeg (M3U)
 Niet elke afspeellijst noemt een tv-gids. Vraag je aanbieder om het adres van een XMLTV-gids en vul het in via *Instellingen → Account → Gegevens wijzigen*.

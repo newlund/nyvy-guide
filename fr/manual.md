@@ -151,11 +151,13 @@ En tête de *Films* et *Séries* viennent tes favoris, *Reprendre* (ce que tu as
 
 Une piste que le téléviseur ne peut pas lire apparaît grisée avec la mention *non lisible sur cet appareil*. Les plus courantes sont DTS et Dolby TrueHD. Si un film n’a que ce type de son, Nyvy le signale au démarrage et le film est lu sans son : choisis une autre version s’il y en a une. *Réglages* → *À propos* montre les formats que ton téléviseur sait lire.
 
+Si le son principal d’un film ne peut pas être lu mais qu’une autre piste le peut, Nyvy lit celle-ci et un message indique laquelle. Les pistes de commentaire ne sont choisies que si rien d’autre n’est lisible ; tu peux toujours les choisir toi-même.
+
 ### Taille et style des sous-titres
 
 Dans *Réglages* → *Général*, tu choisis *Taille des sous-titres* (Petite, Moyenne, Grande ou Très grande) et *Style des sous-titres* (Contour ou Fond). Un aperçu montre le résultat.
 
-*Luminosité des sous-titres* rend les sous-titres moins blancs s’ils te semblent trop lumineux, par paliers jusqu’à 40 %. Cela s’applique aux sous-titres texte et image, mais pas aux sous-titres de la diffusion en direct, que dessine le téléviseur.
+*Luminosité des sous-titres* rend les sous-titres moins blancs s’ils te semblent trop lumineux, par paliers jusqu’à 10 %. Cela s’applique aux sous-titres texte et image, mais pas aux sous-titres de la diffusion en direct, que dessine le téléviseur.
 
 ## Recherche, favoris et tri {#search}
 
@@ -218,6 +220,9 @@ Vérifie la connexion internet du téléviseur. Si elle fonctionne, le problème
 
 ### Un film n’a pas de son
 Le film n’a sans doute que du son en DTS ou Dolby TrueHD, que les téléviseurs LG ne peuvent pas lire dans les apps. Choisis une autre piste audio ou une autre version du film s’il y en a une.
+
+### J’entends un commentaire au lieu du film
+Le son principal du film (souvent DTS) ne peut pas être lu sur le téléviseur, alors Nyvy lit la seule piste possible, parfois un commentaire. Le message au début indique laquelle. Choisis une autre version du film s’il y en a une.
 
 ### Le guide TV est vide (M3U)
 Toutes les listes n’indiquent pas de guide. Demande à ton fournisseur l’adresse d’un guide XMLTV et saisis-la dans *Réglages → Compte → Modifier les informations*.

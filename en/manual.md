@@ -151,11 +151,13 @@ First in *Movies* and *Series* come your favorites, *Continue watching* (what yo
 
 A track the TV can't play is greyed out with the text *not playable on this device*. The most common are DTS and Dolby TrueHD. If a film only has such audio, Nyvy says so when it starts and the film plays without sound: choose another version if there is one. *Settings* → *About* shows which formats your TV can play.
 
+If a film's main audio can't be played but another track can, Nyvy plays that one and a notice names it. Commentary tracks are only chosen when nothing else can be played; you can still pick them yourself.
+
 ### Subtitle size and style
 
 Under *Settings* → *Preferences* you choose *Subtitle size* (Small, Medium, Large or Extra large) and *Subtitle style* (Outline or Background box). A preview shows how it will look.
 
-*Subtitle brightness* makes subtitles less white if they feel too bright, in steps down to 40%. It applies to text and picture subtitles, but not to broadcast subtitles in live TV, which the TV draws.
+*Subtitle brightness* makes subtitles less white if they feel too bright, in steps down to 10%. It applies to text and picture subtitles, but not to broadcast subtitles in live TV, which the TV draws.
 
 ## Search, favorites and sorting
 
@@ -218,6 +220,9 @@ Check the TV's internet connection. If it works, the problem is most likely with
 
 ### A film has no sound
 The film most likely has audio only in DTS or Dolby TrueHD, which LG TVs can't play through apps. Choose another audio track, or another version of the film if there is one.
+
+### I hear a commentary instead of the film
+The film's main audio (often DTS) can't be played on the TV, so Nyvy plays the only track that can, sometimes a commentary. The notice at the start says which. Choose another version of the film if there is one.
 
 ### The TV Guide is empty (M3U)
 Not every playlist names a TV Guide. Ask your provider for the address of an XMLTV guide and enter it under *Settings → Account → Edit details*.

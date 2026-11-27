@@ -151,11 +151,13 @@ Al principio de *Películas* y *Series* están tus favoritos, *Seguir viendo* (l
 
 Una pista que el televisor no puede reproducir aparece atenuada con el texto *no se puede reproducir en este dispositivo*. Las más comunes son DTS y Dolby TrueHD. Si una película solo tiene ese audio, Nyvy lo avisa al empezar y se reproduce sin sonido: elige otra versión si la hay. *Ajustes* → *Acerca de* muestra qué formatos admite tu televisor.
 
+Si el sonido principal de una película no se puede reproducir pero otra pista sí, Nyvy reproduce esa y un aviso indica cuál. Las pistas de comentarios solo se eligen cuando no se puede reproducir nada más; puedes seguir eligiéndolas tú.
+
 ### Tamaño y estilo de los subtítulos
 
 En *Ajustes* → *General* eliges *Tamaño de subtítulos* (Pequeño, Mediano, Grande o Muy grande) y *Estilo de subtítulos* (Contorno o Caja de fondo). Una vista previa muestra cómo quedará.
 
-*Brillo de los subtítulos* hace los subtítulos menos blancos si te parecen demasiado brillantes, por pasos hasta el 40 %. Se aplica a los subtítulos de texto y de imagen, pero no a los de la emisión en directo, que dibuja el televisor.
+*Brillo de los subtítulos* hace los subtítulos menos blancos si te parecen demasiado brillantes, por pasos hasta el 10 %. Se aplica a los subtítulos de texto y de imagen, pero no a los de la emisión en directo, que dibuja el televisor.
 
 ## Buscar, favoritos y orden {#search}
 
@@ -218,6 +220,9 @@ Comprueba la conexión a internet del televisor. Si funciona, lo más probable e
 
 ### Una película no tiene sonido
 Lo más probable es que la película solo tenga audio en DTS o Dolby TrueHD, que los televisores LG no pueden reproducir en apps. Elige otra pista de audio u otra versión de la película si la hay.
+
+### Oigo un comentario en lugar de la película
+El sonido principal de la película (a menudo DTS) no se puede reproducir en el televisor, así que Nyvy reproduce la única pista posible, a veces un comentario. El aviso del inicio indica cuál. Elige otra versión de la película si la hay.
 
 ### La guía de TV está vacía (M3U)
 No todas las listas indican una guía. Pide a tu proveedor la dirección de una guía XMLTV e introdúcela en *Ajustes → Cuenta → Editar datos*.

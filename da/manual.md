@@ -151,11 +151,13 @@ Først i *Film* og *Serier* kommer dine favoritter, *Se videre* (det, du er begy
 
 Et spor, som tv'et ikke kan afspille, vises nedtonet med teksten *kan ikke afspilles på denne enhed*. Mest almindeligt er DTS og Dolby TrueHD. Har en film kun sådan lyd, siger Nyvy det, når den starter, og filmen afspilles uden lyd: vælg en anden version, hvis der er en. Under *Indstillinger* → *Om* kan du se, hvilke formater dit tv kan afspille.
 
+Kan filmens hovedlyd ikke afspilles, men et andet spor kan, afspiller Nyvy det spor, og en besked fortæller hvilket. Kommentarspor vælges kun, når intet andet kan afspilles; du kan stadig selv vælge dem.
+
 ### Underteksternes størrelse og stil
 
 Under *Indstillinger* → *Generelt* vælger du *Undertekststørrelse* (Lille, Mellem, Stor eller Ekstra stor) og *Underteksttype* (Kontur eller Baggrundsboks). En forhåndsvisning viser, hvordan det bliver.
 
-*Underteksternes lysstyrke* gør underteksterne mindre hvide, hvis de føles for skarpe, i trin ned til 40 %. Det gælder tekst- og billedundertekster, men ikke udsendelsens undertekster i live-tv, som tv'et tegner.
+*Underteksternes lysstyrke* gør underteksterne mindre hvide, hvis de føles for skarpe, i trin ned til 10 %. Det gælder tekst- og billedundertekster, men ikke udsendelsens undertekster i live-tv, som tv'et tegner.
 
 ## Søgning, favoritter og sortering {#search}
 
@@ -218,6 +220,9 @@ Tjek tv'ets internetforbindelse. Virker den, ligger fejlen sandsynligvis hos udb
 
 ### En film har ingen lyd
 Filmen har sandsynligvis kun lyd i DTS eller Dolby TrueHD, som LG-tv ikke kan afspille i apps. Vælg et andet lydspor eller en anden version af filmen, hvis der er en.
+
+### Jeg hører en kommentar i stedet for filmen
+Filmens hovedlyd (ofte DTS) kan ikke afspilles på tv'et, så Nyvy afspiller det eneste spor, der kan, nogle gange et kommentarspor. Beskeden, når filmen starter, fortæller hvilket. Vælg en anden version af filmen, hvis der er en.
 
 ### Tv-guiden er tom (M3U)
 Ikke alle playlister angiver en tv-guide. Spørg din udbyder om adressen til en XMLTV-guide, og udfyld den under *Indstillinger → Konto → Ret oplysninger*.

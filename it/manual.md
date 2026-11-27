@@ -151,11 +151,13 @@ All’inizio di *Film* e *Serie* ci sono i tuoi preferiti, *Continua a guardare*
 
 Una traccia che la TV non può riprodurre appare in grigio con la scritta *non riproducibile su questo dispositivo*. Le più comuni sono DTS e Dolby TrueHD. Se un film ha solo audio di questo tipo, Nyvy lo dice all’avvio e il film parte senza audio: scegli un’altra versione, se c’è. *Impostazioni* → *Info* mostra quali formati la tua TV può riprodurre.
 
+Se l’audio principale di un film non può essere riprodotto ma un’altra traccia sì, Nyvy riproduce quella e un avviso indica quale. Le tracce di commento vengono scelte solo quando nient’altro è riproducibile; puoi comunque sceglierle tu.
+
 ### Dimensioni e stile dei sottotitoli
 
 In *Impostazioni* → *Generali* scegli *Dimensione sottotitoli* (Piccola, Media, Grande o Molto grande) e *Stile sottotitoli* (Contorno o Sfondo). Un’anteprima mostra il risultato.
 
-*Luminosità dei sottotitoli* rende i sottotitoli meno bianchi se ti sembrano troppo luminosi, a passi fino al 40%. Vale per i sottotitoli di testo e a immagine, ma non per quelli della trasmissione nella TV in diretta, che disegna la TV.
+*Luminosità dei sottotitoli* rende i sottotitoli meno bianchi se ti sembrano troppo luminosi, a passi fino al 10%. Vale per i sottotitoli di testo e a immagine, ma non per quelli della trasmissione nella TV in diretta, che disegna la TV.
 
 ## Ricerca, preferiti e ordine {#search}
 
@@ -218,6 +220,9 @@ Controlla la connessione internet della TV. Se funziona, il problema è probabil
 
 ### Un film non ha audio
 Probabilmente il film ha solo audio DTS o Dolby TrueHD, che le TV LG non possono riprodurre nelle app. Scegli un’altra traccia audio o un’altra versione del film, se c’è.
+
+### Sento un commento invece del film
+L’audio principale del film (spesso DTS) non può essere riprodotto sulla TV, quindi Nyvy riproduce l’unica traccia possibile, a volte un commento. L’avviso all’inizio indica quale. Scegli un’altra versione del film se c’è.
 
 ### La guida TV è vuota (M3U)
 Non tutte le playlist indicano una guida. Chiedi al tuo fornitore l’indirizzo di una guida XMLTV e inseriscilo in *Impostazioni → Account → Modifica dati*.

@@ -151,11 +151,13 @@ Kohtien *Elokuvat* ja *Sarjat* alussa ovat suosikkisi, *Jatka katsomista* (aloit
 
 Raita, jota televisio ei voi toistaa, näkyy himmennettynä tekstillä *ei toistettavissa tällä laitteella*. Yleisimmät ovat DTS ja Dolby TrueHD. Jos elokuvassa on vain tällaista ääntä, Nyvy kertoo sen alussa, ja elokuva toistuu ilman ääntä: valitse toinen versio, jos sellainen on. Kohdasta *Asetukset* → *Tietoja* näet, mitä muotoja televisiosi tukee.
 
+Jos elokuvan pääääntä ei voi toistaa mutta jotain toista raitaa voi, Nyvy toistaa sen ja ilmoitus kertoo, mikä raita on käytössä. Kommentaariraitoja valitaan vain, kun mitään muuta ei voi toistaa; voit silti valita ne itse.
+
 ### Tekstityksen koko ja tyyli
 
 Kohdassa *Asetukset* → *Yleiset* valitset *Tekstityksen koko* (Pieni, Keskikoko, Suuri tai Erittäin suuri) ja *Tekstityksen tyyli* (Ääriviiva tai Taustalaatikko). Esikatselu näyttää, miltä se näyttää.
 
-*Tekstityksen kirkkaus* himmentää tekstityksiä, jos valkoinen tuntuu liian kirkkaalta, portaittain 40 %:iin asti. Se koskee teksti- ja kuvatekstityksiä, mutta ei suoran TV:n lähetyksen tekstityksiä, jotka televisio piirtää.
+*Tekstityksen kirkkaus* himmentää tekstityksiä, jos valkoinen tuntuu liian kirkkaalta, portaittain 10 %:iin asti. Se koskee teksti- ja kuvatekstityksiä, mutta ei suoran TV:n lähetyksen tekstityksiä, jotka televisio piirtää.
 
 ## Haku, suosikit ja järjestys {#search}
 
@@ -218,6 +220,9 @@ Tarkista television internetyhteys. Jos se toimii, vika on todennäköisesti pal
 
 ### Elokuvassa ei ole ääntä
 Elokuvassa on todennäköisesti vain DTS- tai Dolby TrueHD -ääni, jota LG-televisiot eivät voi toistaa sovelluksissa. Valitse toinen ääniraita tai elokuvan toinen versio, jos sellainen on.
+
+### Kuulen kommentaarin elokuvan sijaan
+Elokuvan pääääntä (usein DTS) ei voi toistaa televisiossa, joten Nyvy toistaa ainoan raidan, joka toimii, joskus kommentaariraidan. Alussa näkyvä ilmoitus kertoo, mikä raita on käytössä. Valitse elokuvasta toinen versio, jos sellainen on.
 
 ### TV-opas on tyhjä (M3U)
 Kaikki soittolistat eivät ilmoita TV-opasta. Kysy palveluntarjoajalta XMLTV-oppaan osoite ja täytä se kohtaan *Asetukset → Tili → Muokkaa tietoja*.

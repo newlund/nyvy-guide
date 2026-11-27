@@ -151,11 +151,13 @@ Først i *Filmer* og *Serier* kommer favorittene dine, *Fortsett å se* (det du 
 
 Et spor TV-en ikke kan spille, vises nedtonet med teksten *kan ikke spilles av på denne enheten*. Vanligst er DTS og Dolby TrueHD. Har en film bare slik lyd, sier Nyvy fra når den starter, og filmen spilles uten lyd: velg en annen versjon hvis det finnes. Under *Innstillinger* → *Om* ser du hvilke formater TV-en din kan spille.
 
+Kan ikke filmens hovedlyd spilles av, men et annet spor kan, spiller Nyvy det sporet, og en melding sier hvilket. Kommentarspor velges bare når ingenting annet kan spilles; du kan fortsatt velge dem selv.
+
 ### Undertekstenes størrelse og stil
 
 Under *Innstillinger* → *Generelt* velger du *Undertekststørrelse* (Liten, Middels, Stor eller Ekstra stor) og *Undertekststil* (Kontur eller Bakgrunnsboks). En forhåndsvisning viser hvordan det blir.
 
-*Undertekstenes lysstyrke* gjør undertekstene mindre hvite hvis de føles for skarpe, i trinn ned til 40 %. Det gjelder tekst- og bildeundertekster, men ikke sendingens undertekster i direkte-TV, som TV-en tegner.
+*Undertekstenes lysstyrke* gjør undertekstene mindre hvite hvis de føles for skarpe, i trinn ned til 10 %. Det gjelder tekst- og bildeundertekster, men ikke sendingens undertekster i direkte-TV, som TV-en tegner.
 
 ## Søk, favoritter og sortering {#search}
 
@@ -218,6 +220,9 @@ Sjekk TV-ens internettilkobling. Fungerer den, ligger feilen trolig hos leverand
 
 ### En film har ikke lyd
 Filmen har trolig bare lyd i DTS eller Dolby TrueHD, som LG-TV ikke kan spille av i apper. Velg et annet lydspor eller en annen versjon av filmen hvis det finnes.
+
+### Jeg hører en kommentar i stedet for filmen
+Filmens hovedlyd (ofte DTS) kan ikke spilles av på TV-en, så Nyvy spiller det eneste sporet som kan, noen ganger et kommentarspor. Meldingen når filmen starter, sier hvilket. Velg en annen versjon av filmen hvis det finnes.
 
 ### TV-guiden er tom (M3U)
 Ikke alle spillelister oppgir en TV-guide. Spør leverandøren om adressen til en XMLTV-guide og fyll den inn under *Innstillinger → Konto → Endre opplysninger*.

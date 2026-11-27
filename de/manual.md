@@ -151,11 +151,13 @@ Am Anfang von *Filme* und *Serien* stehen deine Favoriten, *Weiterschauen* (was 
 
 Eine Spur, die der Fernseher nicht abspielen kann, ist ausgegraut und mit *auf diesem Gerät nicht abspielbar* gekennzeichnet. Am häufigsten sind das DTS und Dolby TrueHD. Hat ein Film nur solchen Ton, sagt Nyvy das beim Start, und der Film läuft ohne Ton: Wähle eine andere Version, falls vorhanden. Unter *Einstellungen* → *Info* siehst du, welche Formate dein Fernseher abspielen kann.
 
+Kann der Hauptton eines Films nicht abgespielt werden, eine andere Spur aber schon, spielt Nyvy diese ab, und ein Hinweis nennt sie. Kommentarspuren werden nur gewählt, wenn sonst nichts abspielbar ist; du kannst sie trotzdem selbst wählen.
+
 ### Größe und Stil der Untertitel
 
 Unter *Einstellungen* → *Allgemein* wählst du *Untertitelgröße* (Klein, Mittel, Groß oder Sehr groß) und *Untertitelstil* (Kontur oder Hintergrundbox). Eine Vorschau zeigt, wie es aussieht.
 
-*Helligkeit der Untertitel* macht Untertitel weniger weiß, wenn sie zu hell wirken, in Stufen bis 40 %. Das gilt für Text- und Bilduntertitel, nicht aber für die Untertitel der Sendung im Live-TV, die der Fernseher zeichnet.
+*Helligkeit der Untertitel* macht Untertitel weniger weiß, wenn sie zu hell wirken, in Stufen bis 10 %. Das gilt für Text- und Bilduntertitel, nicht aber für die Untertitel der Sendung im Live-TV, die der Fernseher zeichnet.
 
 ## Suche, Favoriten und Sortierung {#search}
 
@@ -218,6 +220,9 @@ Prüfe die Internetverbindung des Fernsehers. Funktioniert sie, liegt das Proble
 
 ### Ein Film hat keinen Ton
 Der Film hat wahrscheinlich nur Ton in DTS oder Dolby TrueHD, den LG-Fernseher in Apps nicht abspielen können. Wähle eine andere Tonspur oder eine andere Version des Films, falls vorhanden.
+
+### Ich höre einen Kommentar statt des Films
+Der Hauptton des Films (oft DTS) kann auf dem Fernseher nicht abgespielt werden, also spielt Nyvy die einzige Spur, die geht, manchmal einen Kommentar. Der Hinweis zu Beginn nennt sie. Wähle eine andere Version des Films, falls es eine gibt.
 
 ### Das TV-Programm ist leer (M3U)
 Nicht jede Playlist gibt ein TV-Programm an. Frag deinen Anbieter nach der Adresse eines XMLTV-Programms und trage sie unter *Einstellungen → Konto → Daten ändern* ein.

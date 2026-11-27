@@ -151,11 +151,13 @@ Na początku *Filmy* i *Seriale* są twoje ulubione, *Oglądaj dalej* (to, co za
 
 Ścieżka, której telewizor nie potrafi odtworzyć, jest wyszarzona z napisem *nie można odtworzyć na tym urządzeniu*. Najczęściej to DTS i Dolby TrueHD. Jeśli film ma tylko taki dźwięk, Nyvy mówi o tym na starcie, a film gra bez dźwięku: wybierz inną wersję, jeśli jest. W *Ustawienia* → *Informacje* zobaczysz, jakie formaty obsługuje twój telewizor.
 
+Jeśli głównego dźwięku filmu nie można odtworzyć, ale inną ścieżkę tak, Nyvy odtwarza tę ścieżkę, a komunikat informuje, którą. Ścieżki z komentarzem są wybierane tylko wtedy, gdy nic innego nie da się odtworzyć; nadal możesz wybrać je sam.
+
 ### Rozmiar i styl napisów
 
 W *Ustawienia* → *Ogólne* wybierasz *Rozmiar napisów* (Małe, Średnie, Duże lub Bardzo duże) i *Styl napisów* (Obrys lub Tło). Podgląd pokazuje efekt.
 
-*Jasność napisów* sprawia, że napisy są mniej białe, jeśli wydają się zbyt jasne, stopniowo do 40%. Dotyczy to napisów tekstowych i graficznych, ale nie napisów z transmisji w TV na żywo, które rysuje telewizor.
+*Jasność napisów* sprawia, że napisy są mniej białe, jeśli wydają się zbyt jasne, stopniowo do 10%. Dotyczy to napisów tekstowych i graficznych, ale nie napisów z transmisji w TV na żywo, które rysuje telewizor.
 
 ## Wyszukiwanie, ulubione i sortowanie {#search}
 
@@ -218,6 +220,9 @@ Sprawdź połączenie internetowe telewizora. Jeśli działa, problem najpewniej
 
 ### Film nie ma dźwięku
 Film ma najpewniej dźwięk tylko w DTS lub Dolby TrueHD, którego telewizory LG nie odtwarzają w aplikacjach. Wybierz inną ścieżkę dźwiękową lub inną wersję filmu, jeśli jest dostępna.
+
+### Słyszę komentarz zamiast filmu
+Głównego dźwięku filmu (często DTS) nie można odtworzyć na telewizorze, więc Nyvy odtwarza jedyną możliwą ścieżkę, czasem komentarz. Komunikat na początku mówi, którą. Wybierz inną wersję filmu, jeśli jest dostępna.
 
 ### Program TV jest pusty (M3U)
 Nie każda lista wskazuje program TV. Poproś dostawcę o adres programu XMLTV i wpisz go w *Ustawienia → Konto → Edytuj dane*.

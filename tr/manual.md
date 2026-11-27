@@ -151,11 +151,13 @@ Sağlayıcılarda aynı film çoğu zaman birkaç sürümde bulunur, örneğin 4
 
 Televizyonun oynatamadığı bir parça soluk görünür ve yanında *bu cihazda oynatılamaz* yazar. En yaygın olanları DTS ve Dolby TrueHD’dir. Bir filmde yalnızca böyle bir ses varsa Nyvy başlarken bunu söyler ve film sessiz oynar: varsa başka bir sürüm seçin. *Ayarlar* → *Hakkında* televizyonunuzun hangi biçimleri oynatabildiğini gösterir.
 
+Bir filmin ana sesi oynatılamıyor ama başka bir parça oynatılabiliyorsa, Nyvy o parçayı oynatır ve bir bildirim hangisi olduğunu söyler. Yorum parçaları yalnızca başka hiçbir şey oynatılamadığında seçilir; yine de bunları kendiniz seçebilirsiniz.
+
 ### Altyazı boyutu ve stili
 
 *Ayarlar* → *Genel* altında *Altyazı boyutu* (Küçük, Orta, Büyük veya Çok büyük) ve *Altyazı stili* (Kontur veya Arka plan kutusu) seçersiniz. Bir önizleme nasıl görüneceğini gösterir.
 
-*Altyazı parlaklığı*, beyaz altyazılar çok parlak geliyorsa onları %40’a kadar adım adım kısar. Metin ve görüntü altyazıları için geçerlidir, televizyonun çizdiği canlı TV yayın altyazıları için geçerli değildir.
+*Altyazı parlaklığı*, beyaz altyazılar çok parlak geliyorsa onları %10’a kadar adım adım kısar. Metin ve görüntü altyazıları için geçerlidir, televizyonun çizdiği canlı TV yayın altyazıları için geçerli değildir.
 
 ## Arama, favoriler ve sıralama {#search}
 
@@ -218,6 +220,9 @@ Televizyonun internet bağlantısını kontrol edin. Bağlantı çalışıyorsa 
 
 ### Bir filmde ses yok
 Filmde büyük olasılıkla yalnızca DTS veya Dolby TrueHD ses vardır; LG televizyonlar bunları uygulamalarda oynatamaz. Varsa başka bir ses parçası veya filmin başka bir sürümünü seçin.
+
+### Film yerine bir yorum duyuyorum
+Filmin ana sesi (genellikle DTS) televizyonda oynatılamıyor, bu yüzden Nyvy oynatılabilen tek parçayı, bazen bir yorum parçasını oynatır. Başlangıçtaki bildirim hangisi olduğunu söyler. Varsa filmin başka bir sürümünü seçin.
 
 ### TV rehberi boş (M3U)
 Her liste bir TV rehberi belirtmez. Sağlayıcınızdan bir XMLTV rehberinin adresini isteyin ve *Ayarlar → Hesap → Bilgileri düzenle* bölümüne girin.
