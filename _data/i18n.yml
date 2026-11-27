@@ -7,8 +7,10 @@ da:
   privacy: Privatliv
   support_page: support
   privacy_page: privacy
+  install: Installér
+  install_page: install
   footer: Nyvy indeholder ingen tv-kanaler, film eller serier. Du skal have dit eget abonnement hos en udbyder.
-  notice: Nyvy er ikke udgivet endnu. Denne vejledning beskriver appen forud for lanceringen.
+  notice: "Nyvy findes ikke i LG Content Store endnu. Du kan installere den med tv’ets udviklertilstand."
   for_version: "Gælder Nyvy %v"
 de:
   name: Deutsch
@@ -17,8 +19,10 @@ de:
   privacy: Datenschutz
   support_page: support
   privacy_page: privacy
+  install: Installieren
+  install_page: install
   footer: Nyvy enthält keine TV-Sender, Filme oder Serien. Du brauchst ein eigenes Abonnement bei einem Anbieter.
-  notice: Nyvy ist noch nicht erschienen. Diese Seiten beschreiben die App vor ihrem Start.
+  notice: "Nyvy ist noch nicht im LG Content Store. Du kannst die App über den Entwicklermodus des Fernsehers installieren."
   for_version: "Gilt für Nyvy %v"
 en:
   name: English
@@ -27,8 +31,10 @@ en:
   privacy: Privacy
   support_page: support
   privacy_page: privacy
+  install: Install
+  install_page: install
   footer: Nyvy contains no TV channels, films or series. You need your own subscription with a provider.
-  notice: Nyvy is not released yet. This guide describes the app ahead of its launch.
+  notice: "Nyvy isn't in the LG Content Store yet. You can install it with the TV's Developer Mode."
   for_version: "For Nyvy %v"
 es:
   name: Español
@@ -37,8 +43,10 @@ es:
   privacy: Privacidad
   support_page: support
   privacy_page: privacy
+  install: Instalar
+  install_page: install
   footer: Nyvy no incluye canales de TV, películas ni series. Necesitas tu propia suscripción con un proveedor.
-  notice: Nyvy aún no está disponible. Esta guía describe la app antes de su lanzamiento.
+  notice: "Nyvy aún no está en la LG Content Store. Puedes instalarla con el modo desarrollador del televisor."
   for_version: "Para Nyvy %v"
 fr:
   name: Français
@@ -47,8 +55,10 @@ fr:
   privacy: Confidentialité
   support_page: support
   privacy_page: privacy
+  install: Installer
+  install_page: install
   footer: Nyvy ne contient aucune chaîne TV, aucun film ni aucune série. Tu as besoin de ton propre abonnement auprès d’un fournisseur.
-  notice: Nyvy n’est pas encore sorti. Ce guide présente l’app avant son lancement.
+  notice: "Nyvy n’est pas encore sur le LG Content Store. Tu peux l’installer avec le mode développeur du téléviseur."
   for_version: "Pour Nyvy %v"
 it:
   name: Italiano
@@ -57,8 +67,10 @@ it:
   privacy: Privacy
   support_page: support
   privacy_page: privacy
+  install: Installa
+  install_page: install
   footer: Nyvy non contiene canali TV, film o serie. Ti serve un abbonamento personale con un fornitore.
-  notice: Nyvy non è ancora disponibile. Questa guida descrive l’app in vista del lancio.
+  notice: "Nyvy non è ancora nel LG Content Store. Puoi installarla con la modalità sviluppatore del televisore."
   for_version: "Per Nyvy %v"
 nl:
   name: Nederlands
@@ -67,8 +79,10 @@ nl:
   privacy: Privacy
   support_page: support
   privacy_page: privacy
+  install: Installeren
+  install_page: install
   footer: Nyvy bevat geen tv-zenders, films of series. Je hebt een eigen abonnement bij een aanbieder nodig.
-  notice: Nyvy is nog niet uitgebracht. Deze gids beschrijft de app in aanloop naar de lancering.
+  notice: "Nyvy staat nog niet in de LG Content Store. Je kunt de app installeren via de ontwikkelaarsmodus van de tv."
   for_version: "Voor Nyvy %v"
 nb:
   name: Norsk
@@ -77,8 +91,10 @@ nb:
   privacy: Personvern
   support_page: support
   privacy_page: privacy
+  install: Installer
+  install_page: install
   footer: Nyvy inneholder ingen TV-kanaler, filmer eller serier. Du trenger et eget abonnement hos en leverandør.
-  notice: Nyvy er ikke lansert ennå. Denne veiledningen beskriver appen før lanseringen.
+  notice: "Nyvy finnes ikke i LG Content Store ennå. Du kan installere den med TV-ens utviklermodus."
   for_version: "Gjelder Nyvy %v"
 pl:
   name: Polski
@@ -87,8 +103,10 @@ pl:
   privacy: Prywatność
   support_page: support
   privacy_page: privacy
+  install: Instalacja
+  install_page: install
   footer: Nyvy nie zawiera kanałów TV, filmów ani seriali. Potrzebujesz własnej subskrypcji u dostawcy.
-  notice: Nyvy nie zostało jeszcze wydane. Ten przewodnik opisuje aplikację przed premierą.
+  notice: "Nyvy nie ma jeszcze w LG Content Store. Możesz zainstalować aplikację w trybie dewelopera telewizora."
   for_version: "Dotyczy Nyvy %v"
 pt:
   name: Português
@@ -97,8 +115,10 @@ pt:
   privacy: Privacidade
   support_page: support
   privacy_page: privacy
+  install: Instalar
+  install_page: install
   footer: O Nyvy não contém canais de TV, filmes nem séries. Você precisa de uma assinatura própria com um provedor.
-  notice: O Nyvy ainda não foi lançado. Este guia descreve o app antes do lançamento.
+  notice: "O Nyvy ainda não está na LG Content Store. Você pode instalá-lo com o modo de desenvolvedor da TV."
   for_version: "Para o Nyvy %v"
 fi:
   name: Suomi
@@ -107,8 +127,10 @@ fi:
   privacy: Tietosuoja
   support_page: support
   privacy_page: privacy
+  install: Asennus
+  install_page: install
   footer: Nyvy ei sisällä TV-kanavia, elokuvia eikä sarjoja. Tarvitset oman tilauksen palveluntarjoajalta.
-  notice: Nyvyä ei ole vielä julkaistu. Tämä opas kuvaa sovellusta ennen julkaisua.
+  notice: "Nyvy ei ole vielä LG Content Storessa. Voit asentaa sen television kehittäjätilan avulla."
   for_version: "Koskee Nyvyn versiota %v"
 sv:
   name: Svenska
@@ -117,8 +139,10 @@ sv:
   privacy: Integritet
   support_page: stod
   privacy_page: integritet
+  install: Installera
+  install_page: installera
   footer: Nyvy innehåller inga TV-kanaler, filmer eller serier. Du behöver ett eget abonnemang hos en leverantör.
-  notice: Nyvy är inte släppt ännu. Den här guiden beskriver appen inför lanseringen.
+  notice: "Nyvy finns inte i LG Content Store än. Du kan installera den med TV:ns utvecklarläge."
   for_version: "Gäller Nyvy %v"
 tr:
   name: Türkçe
@@ -127,6 +151,8 @@ tr:
   privacy: Gizlilik
   support_page: support
   privacy_page: privacy
+  install: Kurulum
+  install_page: install
   footer: Nyvy TV kanalı, film veya dizi içermez. Bir sağlayıcıda kendi aboneliğiniz olmalıdır.
-  notice: Nyvy henüz yayımlanmadı. Bu kılavuz, uygulamayı lansmanından önce tanıtır.
+  notice: "Nyvy henüz LG Content Store’da yok. Televizyonun geliştirici moduyla kurabilirsiniz."
   for_version: "Nyvy %v için"

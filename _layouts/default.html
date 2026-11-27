@@ -16,6 +16,7 @@
       <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Nyvy" height="40" width="107">
     </a>
     <nav>
+      <a href="{{ '/' | append: page.lang | append: '/' | append: L.install_page | append: '.html' | relative_url }}">{{ L.install }}</a>
       <a href="{{ '/' | append: page.lang | append: '/manual.html' | relative_url }}">{{ L.manual }}</a>
       <a href="{{ '/' | append: page.lang | append: '/' | append: L.support_page | append: '.html' | relative_url }}">{{ L.support }}</a>
       <a href="{{ '/' | append: page.lang | append: '/' | append: L.privacy_page | append: '.html' | relative_url }}">{{ L.privacy }}</a>
