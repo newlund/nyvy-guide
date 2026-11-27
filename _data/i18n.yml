@@ -9,6 +9,7 @@ da:
   privacy_page: privacy
   footer: Nyvy indeholder ingen tv-kanaler, film eller serier. Du skal have dit eget abonnement hos en udbyder.
   notice: Nyvy er ikke udgivet endnu. Denne vejledning beskriver appen forud for lanceringen.
+  for_version: "Gælder Nyvy %v"
 de:
   name: Deutsch
   manual: Anleitung
@@ -18,6 +19,7 @@ de:
   privacy_page: privacy
   footer: Nyvy enthält keine TV-Sender, Filme oder Serien. Du brauchst ein eigenes Abonnement bei einem Anbieter.
   notice: Nyvy ist noch nicht erschienen. Diese Seiten beschreiben die App vor ihrem Start.
+  for_version: "Gilt für Nyvy %v"
 en:
   name: English
   manual: Manual
@@ -27,6 +29,7 @@ en:
   privacy_page: privacy
   footer: Nyvy contains no TV channels, films or series. You need your own subscription with a provider.
   notice: Nyvy is not released yet. This guide describes the app ahead of its launch.
+  for_version: "For Nyvy %v"
 es:
   name: Español
   manual: Manual
@@ -36,6 +39,7 @@ es:
   privacy_page: privacy
   footer: Nyvy no incluye canales de TV, películas ni series. Necesitas tu propia suscripción con un proveedor.
   notice: Nyvy aún no está disponible. Esta guía describe la app antes de su lanzamiento.
+  for_version: "Para Nyvy %v"
 fr:
   name: Français
   manual: Manuel
@@ -45,6 +49,7 @@ fr:
   privacy_page: privacy
   footer: Nyvy ne contient aucune chaîne TV, aucun film ni aucune série. Tu as besoin de ton propre abonnement auprès d’un fournisseur.
   notice: Nyvy n’est pas encore sorti. Ce guide présente l’app avant son lancement.
+  for_version: "Pour Nyvy %v"
 it:
   name: Italiano
   manual: Manuale
@@ -54,6 +59,7 @@ it:
   privacy_page: privacy
   footer: Nyvy non contiene canali TV, film o serie. Ti serve un abbonamento personale con un fornitore.
   notice: Nyvy non è ancora disponibile. Questa guida descrive l’app in vista del lancio.
+  for_version: "Per Nyvy %v"
 nl:
   name: Nederlands
   manual: Handleiding
@@ -63,6 +69,7 @@ nl:
   privacy_page: privacy
   footer: Nyvy bevat geen tv-zenders, films of series. Je hebt een eigen abonnement bij een aanbieder nodig.
   notice: Nyvy is nog niet uitgebracht. Deze gids beschrijft de app in aanloop naar de lancering.
+  for_version: "Voor Nyvy %v"
 nb:
   name: Norsk
   manual: Brukerveiledning
@@ -72,6 +79,7 @@ nb:
   privacy_page: privacy
   footer: Nyvy inneholder ingen TV-kanaler, filmer eller serier. Du trenger et eget abonnement hos en leverandør.
   notice: Nyvy er ikke lansert ennå. Denne veiledningen beskriver appen før lanseringen.
+  for_version: "Gjelder Nyvy %v"
 pl:
   name: Polski
   manual: Instrukcja
@@ -81,6 +89,7 @@ pl:
   privacy_page: privacy
   footer: Nyvy nie zawiera kanałów TV, filmów ani seriali. Potrzebujesz własnej subskrypcji u dostawcy.
   notice: Nyvy nie zostało jeszcze wydane. Ten przewodnik opisuje aplikację przed premierą.
+  for_version: "Dotyczy Nyvy %v"
 pt:
   name: Português
   manual: Manual
@@ -90,6 +99,7 @@ pt:
   privacy_page: privacy
   footer: O Nyvy não contém canais de TV, filmes nem séries. Você precisa de uma assinatura própria com um provedor.
   notice: O Nyvy ainda não foi lançado. Este guia descreve o app antes do lançamento.
+  for_version: "Para o Nyvy %v"
 fi:
   name: Suomi
   manual: Käyttöohje
@@ -99,6 +109,7 @@ fi:
   privacy_page: privacy
   footer: Nyvy ei sisällä TV-kanavia, elokuvia eikä sarjoja. Tarvitset oman tilauksen palveluntarjoajalta.
   notice: Nyvyä ei ole vielä julkaistu. Tämä opas kuvaa sovellusta ennen julkaisua.
+  for_version: "Koskee Nyvyn versiota %v"
 sv:
   name: Svenska
   manual: Manual
@@ -108,6 +119,7 @@ sv:
   privacy_page: integritet
   footer: Nyvy innehåller inga TV-kanaler, filmer eller serier. Du behöver ett eget abonnemang hos en leverantör.
   notice: Nyvy är inte släppt ännu. Den här guiden beskriver appen inför lanseringen.
+  for_version: "Gäller Nyvy %v"
 tr:
   name: Türkçe
   manual: Kılavuz
@@ -117,3 +129,4 @@ tr:
   privacy_page: privacy
   footer: Nyvy TV kanalı, film veya dizi içermez. Bir sağlayıcıda kendi aboneliğiniz olmalıdır.
   notice: Nyvy henüz yayımlanmadı. Bu kılavuz, uygulamayı lansmanından önce tanıtır.
+  for_version: "Nyvy %v için"

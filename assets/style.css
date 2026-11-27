@@ -98,3 +98,10 @@ main img {
   font-size: 16px;
 }
 @media (max-width: 912px) { .notice { margin: 16px 16px 0; } }
+
+/* Which app version the manual describes (site.app_version). */
+.version {
+  margin: 24px 0 0;
+  color: var(--dim);
+  font-size: 15px;
+}

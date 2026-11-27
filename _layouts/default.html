@@ -31,6 +31,7 @@
   <p class="notice">{% if L %}{{ L.notice }}{% else %}Nyvy is not released yet. This guide describes the app ahead of its launch.{% endif %}</p>
   {% endif %}
   <main>
+    {% if L and page.url contains '/manual' %}<p class="version">{{ L.for_version | replace: '%v', site.app_version }}</p>{% endif %}
     {{ content }}
   </main>
   {% if L %}<footer>{{ L.footer }}</footer>{% endif %}
