@@ -255,7 +255,7 @@ Nyvy dopasowuje kanały do przewodnika TV po tvg-id, a w razie braku po nazwie k
 Nyvy aktualizuje katalog i przewodnik TV przy uruchomieniu aplikacji, jeśli mają ponad 12 godzin. Aby zaktualizować od razu: *Ustawienia* → *Konto* → *Odśwież katalog*.
 
 ### Nie znalazłeś odpowiedzi?
-Zgłoś problem lub zaproponuj ulepszenie na [GitHubie](https://github.com/newlund/nyvy-guide/issues) (potrzebujesz bezpłatnego konta GitHub). Podaj, jaką masz wersję (*Ustawienia* → *Informacje*), i co się stało. Strona jest publiczna: nie podawaj adresu dostawcy, danych logowania ani nazw filmów i kanałów, tylko je opisz, na przykład „film 4K bez dźwięku”.
+Zgłoś problem lub zaproponuj ulepszenie na [GitHubie](https://github.com/newlund/nyvy-guide/issues) (potrzebujesz bezpłatnego konta GitHub). Podaj, jaką masz wersję (*Ustawienia* → *Informacje*), i co się stało. Strona jest publiczna: nie podawaj adresu dostawcy ani danych logowania.
 
 ## Słowniczek
 

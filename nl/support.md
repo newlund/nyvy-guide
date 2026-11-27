@@ -14,5 +14,5 @@ Een bijdrage is vrijwillig en geeft geen extra functies. Nyvy werkt voor iederee
 
 ## Andere manieren om te helpen
 
-- **Meld problemen en ideeën** op [GitHub](https://github.com/newlund/nyvy-guide/issues) (je hebt een gratis account nodig): wat je deed, wat er gebeurde en welke versie je hebt (*Instellingen* → *Over*). De pagina is openbaar, dus beschrijf een film of zender in plaats van de naam te noemen (bijvoorbeeld "een 4K-film zonder geluid"), en laat het adres van je provider en je inloggegevens weg.
+- **Meld problemen en ideeën** op [GitHub](https://github.com/newlund/nyvy-guide/issues) (je hebt een gratis account nodig): wat je deed, wat er gebeurde en welke versie je hebt (*Instellingen* → *Over*). De pagina is openbaar, dus laat het adres van je provider en je inloggegevens weg.
 - **Vertel het verder** aan anderen met een LG-tv en een IPTV-abonnement.

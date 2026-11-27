@@ -14,5 +14,5 @@ Un contributo è facoltativo e non sblocca nulla. Nyvy funziona allo stesso modo
 
 ## Altri modi per aiutare
 
-- **Segnala problemi e idee** su [GitHub](https://github.com/newlund/nyvy-guide/issues) (serve un account gratuito): cosa hai fatto, cosa è successo e quale versione hai (*Impostazioni* → *Info*). La pagina è pubblica, quindi descrivi un film o un canale invece di nominarlo (per esempio «un film 4K senza audio») e non includere l’indirizzo del fornitore né i tuoi dati di accesso.
+- **Segnala problemi e idee** su [GitHub](https://github.com/newlund/nyvy-guide/issues) (serve un account gratuito): cosa hai fatto, cosa è successo e quale versione hai (*Impostazioni* → *Info*). La pagina è pubblica, quindi non includere l’indirizzo del fornitore né i tuoi dati di accesso.
 - **Passaparola** con chi ha una TV LG e un abbonamento IPTV.
