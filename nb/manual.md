@@ -155,6 +155,8 @@ Et spor TV-en ikke kan spille, vises nedtonet med teksten *kan ikke spilles av p
 
 Under *Innstillinger* → *Generelt* velger du *Undertekststørrelse* (Liten, Middels, Stor eller Ekstra stor) og *Undertekststil* (Kontur eller Bakgrunnsboks). En forhåndsvisning viser hvordan det blir.
 
+*Undertekstenes lysstyrke* gjør undertekstene mindre hvite hvis de føles for skarpe, i trinn ned til 70 %. Det gjelder tekst- og bildeundertekster, men ikke sendingens undertekster i direkte-TV, som TV-en tegner.
+
 ## Søk, favoritter og sortering {#search}
 
 ![Søk, favoritter og sortering](../assets/screens/nb/search.jpg)

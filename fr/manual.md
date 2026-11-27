@@ -155,6 +155,8 @@ Une piste que le téléviseur ne peut pas lire apparaît grisée avec la mention
 
 Dans *Réglages* → *Général*, tu choisis *Taille des sous-titres* (Petite, Moyenne, Grande ou Très grande) et *Style des sous-titres* (Contour ou Fond). Un aperçu montre le résultat.
 
+*Luminosité des sous-titres* rend les sous-titres moins blancs s’ils te semblent trop lumineux, par paliers jusqu’à 70 %. Cela s’applique aux sous-titres texte et image, mais pas aux sous-titres de la diffusion en direct, que dessine le téléviseur.
+
 ## Recherche, favoris et tri {#search}
 
 ![Recherche, favoris et tri](../assets/screens/fr/search.jpg)

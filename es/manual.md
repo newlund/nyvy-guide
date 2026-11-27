@@ -155,6 +155,8 @@ Una pista que el televisor no puede reproducir aparece atenuada con el texto *no
 
 En *Ajustes* → *General* eliges *Tamaño de subtítulos* (Pequeño, Mediano, Grande o Muy grande) y *Estilo de subtítulos* (Contorno o Caja de fondo). Una vista previa muestra cómo quedará.
 
+*Brillo de los subtítulos* hace los subtítulos menos blancos si te parecen demasiado brillantes, por pasos hasta el 70 %. Se aplica a los subtítulos de texto y de imagen, pero no a los de la emisión en directo, que dibuja el televisor.
+
 ## Buscar, favoritos y orden {#search}
 
 ![Buscar, favoritos y orden](../assets/screens/es/search.jpg)

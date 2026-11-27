@@ -155,6 +155,8 @@ Televizyonun oynatamadığı bir parça soluk görünür ve yanında *bu cihazda
 
 *Ayarlar* → *Genel* altında *Altyazı boyutu* (Küçük, Orta, Büyük veya Çok büyük) ve *Altyazı stili* (Kontur veya Arka plan kutusu) seçersiniz. Bir önizleme nasıl görüneceğini gösterir.
 
+*Altyazı parlaklığı*, beyaz altyazılar çok parlak geliyorsa onları %70’e kadar adım adım kısar. Metin ve görüntü altyazıları için geçerlidir, televizyonun çizdiği canlı TV yayın altyazıları için geçerli değildir.
+
 ## Arama, favoriler ve sıralama {#search}
 
 ![Arama, favoriler ve sıralama](../assets/screens/tr/search.jpg)

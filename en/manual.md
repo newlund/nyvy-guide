@@ -155,6 +155,8 @@ A track the TV can't play is greyed out with the text *not playable on this devi
 
 Under *Settings* → *Preferences* you choose *Subtitle size* (Small, Medium, Large or Extra large) and *Subtitle style* (Outline or Background box). A preview shows how it will look.
 
+*Subtitle brightness* makes subtitles less white if they feel too bright, in steps down to 70%. It applies to text and picture subtitles, but not to broadcast subtitles in live TV, which the TV draws.
+
 ## Search, favorites and sorting
 
 ![Search, favorites and sorting](../assets/screens/en/search.jpg)

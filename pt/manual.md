@@ -155,6 +155,8 @@ Uma faixa que a TV não consegue reproduzir aparece esmaecida com o texto *não 
 
 Em *Configurações* → *Geral* você escolhe *Tamanho da legenda* (Pequeno, Médio, Grande ou Muito grande) e *Estilo da legenda* (Contorno ou Caixa de fundo). Uma prévia mostra como vai ficar.
 
+*Brilho das legendas* deixa as legendas menos brancas se parecerem claras demais, em etapas até 70%. Vale para legendas de texto e de imagem, mas não para as legendas da transmissão na TV ao vivo, que a TV desenha.
+
 ## Busca, favoritos e ordem {#search}
 
 ![Busca, favoritos e ordem](../assets/screens/pt/search.jpg)

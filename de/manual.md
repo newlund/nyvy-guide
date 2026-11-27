@@ -155,6 +155,8 @@ Eine Spur, die der Fernseher nicht abspielen kann, ist ausgegraut und mit *auf d
 
 Unter *Einstellungen* → *Allgemein* wählst du *Untertitelgröße* (Klein, Mittel, Groß oder Sehr groß) und *Untertitelstil* (Kontur oder Hintergrundbox). Eine Vorschau zeigt, wie es aussieht.
 
+*Helligkeit der Untertitel* macht Untertitel weniger weiß, wenn sie zu hell wirken, in Stufen bis 70 %. Das gilt für Text- und Bilduntertitel, nicht aber für die Untertitel der Sendung im Live-TV, die der Fernseher zeichnet.
+
 ## Suche, Favoriten und Sortierung {#search}
 
 ![Suche, Favoriten und Sortierung](../assets/screens/de/search.jpg)

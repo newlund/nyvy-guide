@@ -155,6 +155,8 @@ Raita, jota televisio ei voi toistaa, näkyy himmennettynä tekstillä *ei toist
 
 Kohdassa *Asetukset* → *Yleiset* valitset *Tekstityksen koko* (Pieni, Keskikoko, Suuri tai Erittäin suuri) ja *Tekstityksen tyyli* (Ääriviiva tai Taustalaatikko). Esikatselu näyttää, miltä se näyttää.
 
+*Tekstityksen kirkkaus* himmentää tekstityksiä, jos valkoinen tuntuu liian kirkkaalta, portaittain 70 %:iin asti. Se koskee teksti- ja kuvatekstityksiä, mutta ei suoran TV:n lähetyksen tekstityksiä, jotka televisio piirtää.
+
 ## Haku, suosikit ja järjestys {#search}
 
 ![Haku, suosikit ja järjestys](../assets/screens/fi/search.jpg)
