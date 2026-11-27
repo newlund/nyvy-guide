@@ -254,6 +254,9 @@ Nyvy ordnet Sender dem TV-Programm über die tvg-id zu, sonst über den Senderna
 ### Das Angebot wirkt veraltet
 Nyvy aktualisiert Angebot und TV-Programm beim Start der App, wenn sie älter als 12 Stunden sind. Sofort aktualisieren: *Einstellungen* → *Konto* → *Angebot aktualisieren*.
 
+### Keine Antwort gefunden?
+Melde ein Problem oder schlage eine Verbesserung auf [GitHub](https://github.com/newlund/nyvy-guide/issues) vor (du brauchst ein kostenloses GitHub-Konto). Gib an, welche Version du hast (*Einstellungen* → *Info*), und was passiert ist. Die Seite ist öffentlich: Nenne nicht die Adresse deines Anbieters, deine Zugangsdaten oder Namen von Filmen und Sendern, sondern beschreibe sie, zum Beispiel „ein 4K-Film ohne Ton“.
+
 ## Glossar
 
 - **Xtream Codes:** eine verbreitete Art, wie IPTV-Anbieter Sender, Filme und Serien liefern, mit Serveradresse, Benutzername und Passwort.

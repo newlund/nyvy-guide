@@ -254,6 +254,9 @@ Nyvy abbina i canali alla guida TV tramite tvg-id, altrimenti tramite il nome de
 ### Il catalogo sembra vecchio
 Nyvy aggiorna catalogo e guida TV all’avvio dell’app, se hanno più di 12 ore. Per aggiornare subito: *Impostazioni* → *Account* → *Aggiorna catalogo*.
 
+### Non hai trovato la risposta?
+Segnala un problema o suggerisci un miglioramento su [GitHub](https://github.com/newlund/nyvy-guide/issues) (serve un account GitHub gratuito). Indica quale versione hai (*Impostazioni* → *Info*) e cosa è successo. La pagina è pubblica: non includere l’indirizzo del fornitore, i tuoi dati di accesso o nomi di film e canali, ma descrivili, per esempio «un film 4K senza audio».
+
 ## Glossario
 
 - **Xtream Codes:** un modo comune con cui i fornitori IPTV offrono canali, film e serie, con un indirizzo del server, un nome utente e una password.

@@ -254,6 +254,9 @@ Nyvy kanalları TV rehberiyle tvg-id’ye, yoksa kanal adına göre eşleştirir
 ### Katalog eski görünüyor
 Nyvy, uygulamayı başlattığınızda 12 saatten eskiyse kataloğu ve TV rehberini günceller. Hemen güncellemek için: *Ayarlar* → *Hesap* → *Kataloğu güncelle*.
 
+### Yanıtı bulamadınız mı?
+Bir sorunu bildirin veya bir iyileştirme önerin: [GitHub](https://github.com/newlund/nyvy-guide/issues) (ücretsiz bir GitHub hesabı gerekir). Hangi sürümü kullandığınızı (*Ayarlar* → *Hakkında*) ve ne olduğunu yazın. Sayfa herkese açıktır: sağlayıcınızın adresini, giriş bilgilerinizi veya film ve kanal adlarını eklemeyin; bunun yerine tarif edin, örneğin "sesi olmayan bir 4K film".
+
 ## Sözlük
 
 - **Xtream Codes:** IPTV sağlayıcılarının kanal, film ve dizileri bir sunucu adresi, kullanıcı adı ve parolayla sunmasının yaygın bir yolu.

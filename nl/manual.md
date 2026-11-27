@@ -254,6 +254,9 @@ Nyvy koppelt zenders aan de tv-gids via tvg-id, anders via de zendernaam. Heeft 
 ### Het aanbod lijkt verouderd
 Nyvy werkt het aanbod en de tv-gids bij als je de app start en ze ouder zijn dan 12 uur. Meteen bijwerken: *Instellingen* → *Account* → *Aanbod bijwerken*.
 
+### Geen antwoord gevonden?
+Meld een probleem of stel een verbetering voor op [GitHub](https://github.com/newlund/nyvy-guide/issues) (je hebt een gratis GitHub-account nodig). Vermeld welke versie je hebt (*Instellingen* → *Over*) en wat er gebeurde. De pagina is openbaar: zet er niet het adres van je provider, je inloggegevens of namen van films en zenders in, maar beschrijf ze, bijvoorbeeld "een 4K-film zonder geluid".
+
 ## Woordenlijst
 
 - **Xtream Codes:** een veelgebruikte manier waarop iptv-aanbieders zenders, films en series leveren, met een serveradres, een gebruikersnaam en een wachtwoord.

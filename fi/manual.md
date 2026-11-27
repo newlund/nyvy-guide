@@ -254,6 +254,9 @@ Nyvy yhdistää kanavat TV-oppaaseen tvg-id:n tai muuten kanavan nimen perusteel
 ### Valikoima näyttää vanhentuneelta
 Nyvy päivittää valikoiman ja TV-oppaan, kun käynnistät sovelluksen, jos ne ovat yli 12 tuntia vanhoja. Päivitä heti: *Asetukset* → *Tili* → *Päivitä valikoima*.
 
+### Etkö löytänyt vastausta?
+Ilmoita ongelmasta tai ehdota parannusta [GitHubissa](https://github.com/newlund/nyvy-guide/issues) (tarvitset ilmaisen GitHub-tilin). Kerro, mikä versio sinulla on (*Asetukset* → *Tietoja*), ja mitä tapahtui. Sivu on julkinen: älä kirjoita palveluntarjoajan osoitetta, kirjautumistietojasi tai elokuvien ja kanavien nimiä, vaan kuvaile ne, esimerkiksi "4K-elokuva ilman ääntä".
+
 ## Sanasto
 
 - **Xtream Codes:** IPTV-palveluntarjoajien yleinen tapa toimittaa kanavia, elokuvia ja sarjoja palvelinosoitteen, käyttäjänimen ja salasanan avulla.

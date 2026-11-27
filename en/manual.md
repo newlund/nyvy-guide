@@ -254,6 +254,9 @@ Nyvy matches channels to the TV guide by tvg-id, otherwise by the channel name. 
 ### The catalogue looks out of date
 Nyvy updates the catalogue and the TV guide when you start the app, if they are more than 12 hours old. To update right away: *Settings* → *Account* → *Refresh catalogue*.
 
+### Didn't find the answer?
+Report a problem or suggest an improvement on [GitHub](https://github.com/newlund/nyvy-guide/issues) (you need a free GitHub account). Say which version you have (*Settings* → *About*) and what happened. The page is public: don't include your provider's address, your login, or the names of films or channels; describe them instead, for example "a 4K film without sound".
+
 ## Glossary
 
 - **Xtream Codes:** a common way for IPTV providers to deliver channels, films and series, with a server address, a username and a password.

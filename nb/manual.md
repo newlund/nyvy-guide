@@ -254,6 +254,9 @@ Nyvy matcher kanaler mot TV-guiden med tvg-id, ellers med kanalnavnet. Mangler k
 ### Utvalget virker gammelt
 Nyvy oppdaterer utvalget og TV-guiden når du starter appen, hvis de er eldre enn 12 timer. Oppdatere med en gang: *Innstillinger* → *Konto* → *Oppdater utvalget*.
 
+### Fant du ikke svaret?
+Rapporter et problem eller foreslå en forbedring på [GitHub](https://github.com/newlund/nyvy-guide/issues) (du trenger en gratis GitHub-konto). Skriv hvilken versjon du har (*Innstillinger* → *Om*) og hva som skjedde. Siden er offentlig: ikke ta med leverandørens adresse, påloggingen din eller navn på filmer og kanaler, men beskriv dem i stedet, for eksempel "en 4K-film uten lyd".
+
 ## Ordliste
 
 - **Xtream Codes:** en vanlig måte for IPTV-leverandører å levere kanaler, filmer og serier på, med en serveradresse, et brukernavn og et passord.
