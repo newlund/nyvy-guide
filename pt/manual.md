@@ -240,7 +240,10 @@ O início travou, e o Nyvy tenta de novo sozinho, até três vezes. Geralmente �
 O provedor lista o título, mas não tem mais o arquivo. Isso não pode ser corrigido no Nyvy. Escolha outra versão, se houver.
 
 ### A imagem trava ou fica carregando
-Verifique a rede. O 4K precisa de cerca de 25 Mbit/s estáveis, e uma conexão a cabo é mais confiável que o Wi-Fi. Se só um canal ou filme trava, o problema geralmente é do provedor.
+Verifique a rede. O 4K precisa de cerca de 25 Mbit/s estáveis, e uma conexão a cabo é mais confiável que o Wi-Fi. Se só um canal ou filme trava, o problema geralmente é do provedor. Quando a imagem de um filme para esperando dados, aparece um indicador de carregamento sobre ela até continuar.
+
+### As configurações mostram "Download stalled"
+O provedor parou de enviar a playlist ou o guia de TV no meio, e o Nyvy desistiu após 30 segundos. O que você já tinha é mantido. Tente de novo mais tarde: *Configurações* → *Conta* → *Atualizar catálogo*.
 
 ### As legendas não aparecem
 Verifique se a faixa certa está escolhida em *Áudio e legendas*. Algumas faixas só têm texto para falas em outros idiomas, e nada aparece em cenas silenciosas. Legendas da transmissão na TV ao vivo só existem quando o canal as envia.

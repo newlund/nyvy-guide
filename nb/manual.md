@@ -240,7 +240,10 @@ Starten satte seg fast, og Nyvy prøver selv igjen opptil tre ganger. Som regel 
 Leverandøren viser tittelen, men har ikke filen lenger. Det kan ikke rettes i Nyvy. Velg en annen versjon hvis det finnes.
 
 ### Bildet hakker eller laster hele tiden
-Sjekk nettverket. 4K trenger omtrent 25 Mbit/s stabilt, og kablet tilkobling er mer pålitelig enn wifi. Hakker bare én kanal eller film, ligger problemet som regel hos leverandøren.
+Sjekk nettverket. 4K trenger omtrent 25 Mbit/s stabilt, og kablet tilkobling er mer pålitelig enn wifi. Hakker bare én kanal eller film, ligger problemet som regel hos leverandøren. Når bildet i en film står stille og venter på data, vises et ventehjul på det til det fortsetter.
+
+### Innstillinger viser «Download stalled»
+Leverandøren sluttet å sende spillelisten eller TV-guiden halvveis, og Nyvy ga opp etter 30 sekunder. Det du allerede hadde, beholdes. Prøv igjen senere: *Innstillinger* → *Konto* → *Oppdater utvalget*.
 
 ### Undertekstene vises ikke
 Sjekk at riktig spor er valgt under *Lyd og undertekster*. Noen spor har bare tekst for replikker på andre språk, og i stille scener vises ingenting. Sendingens undertekster i direkte-TV finnes bare når kanalen sender dem.

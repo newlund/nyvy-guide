@@ -240,7 +240,10 @@ El inicio se atascó, y Nyvy lo vuelve a intentar solo, hasta tres veces. Normal
 El proveedor muestra el título pero ya no tiene el archivo. No se puede arreglar en Nyvy. Elige otra versión si la hay.
 
 ### La imagen se entrecorta o se queda cargando
-Revisa la red. El 4K necesita unos 25 Mbit/s estables, y una conexión por cable es más fiable que el wifi. Si solo falla un canal o una película, el problema suele estar en el proveedor.
+Revisa la red. El 4K necesita unos 25 Mbit/s estables, y una conexión por cable es más fiable que el wifi. Si solo falla un canal o una película, el problema suele estar en el proveedor. Cuando la imagen de una película se detiene esperando datos, aparece un indicador de carga sobre ella hasta que continúa.
+
+### Ajustes muestra «Download stalled»
+El proveedor dejó de enviar la lista o la guía de TV a mitad de camino, y Nyvy se rindió tras 30 segundos. Lo que ya tenías se conserva. Inténtalo más tarde: *Ajustes* → *Cuenta* → *Actualizar catálogo*.
 
 ### No aparecen los subtítulos
 Comprueba que la pista correcta está elegida en *Audio y subtítulos*. Algunas pistas solo tienen texto para diálogos en otros idiomas, y en escenas silenciosas no aparece nada. Los subtítulos de la emisión en directo solo existen si el canal los envía.

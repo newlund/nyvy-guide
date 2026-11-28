@@ -240,7 +240,10 @@ The start got stuck, and Nyvy tries again by itself, up to three times. Usually 
 The provider lists the title but no longer has the file. This can't be fixed in Nyvy. Choose another version if there is one.
 
 ### The picture stutters or keeps loading
-Check the network. 4K needs about 25 Mbit/s steadily, and a wired connection is more reliable than Wi-Fi. If only one channel or film stutters, the problem is usually at the provider.
+Check the network. 4K needs about 25 Mbit/s steadily, and a wired connection is more reliable than Wi-Fi. If only one channel or film stutters, the problem is usually at the provider. When a film's picture stops to wait for data, a spinner shows on it until it continues.
+
+### Settings shows "Download stalled"
+The provider stopped sending the playlist or TV guide halfway, and Nyvy gave up after 30 seconds. What you already had is kept. Try again later: *Settings* → *Account* → *Refresh catalogue*.
 
 ### Subtitles don't appear
 Check that the right track is chosen under *Audio and subtitles*. Some tracks only have text for lines in other languages, and nothing shows in quiet scenes. Broadcast subtitles in live TV are only there when the channel sends them.

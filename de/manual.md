@@ -240,7 +240,10 @@ Der Start ist hängen geblieben, und Nyvy versucht es selbst bis zu dreimal erne
 Der Anbieter führt den Titel, hat die Datei aber nicht mehr. Das lässt sich in Nyvy nicht beheben. Wähle eine andere Version, falls vorhanden.
 
 ### Das Bild ruckelt oder lädt ständig
-Prüfe das Netzwerk. 4K braucht etwa 25 Mbit/s stabil, und eine Kabelverbindung ist zuverlässiger als WLAN. Ruckelt nur ein Sender oder Film, liegt das Problem meist beim Anbieter.
+Prüfe das Netzwerk. 4K braucht etwa 25 Mbit/s stabil, und eine Kabelverbindung ist zuverlässiger als WLAN. Ruckelt nur ein Sender oder Film, liegt das Problem meist beim Anbieter. Wenn das Bild eines Films anhält, weil es auf Daten wartet, erscheint ein Ladekreis darauf, bis es weiterläuft.
+
+### Die Einstellungen zeigen „Download stalled“
+Der Anbieter hat die Playlist oder das TV-Programm mittendrin nicht mehr gesendet, und Nyvy hat nach 30 Sekunden aufgegeben. Was du schon hattest, bleibt erhalten. Versuche es später erneut: *Einstellungen* → *Konto* → *Angebot aktualisieren*.
 
 ### Untertitel erscheinen nicht
 Prüfe, ob unter *Ton und Untertitel* die richtige Spur gewählt ist. Manche Spuren enthalten nur Text für Dialoge in anderen Sprachen, und in leisen Szenen erscheint nichts. Untertitel der Sendung im Live-TV gibt es nur, wenn der Sender sie ausstrahlt.

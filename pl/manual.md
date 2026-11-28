@@ -240,7 +240,10 @@ Uruchamianie utknęło, a Nyvy samo próbuje ponownie, do trzech razy. Zwykle to
 Dostawca pokazuje tytuł, ale nie ma już pliku. Nie da się tego naprawić w Nyvy. Wybierz inną wersję, jeśli jest.
 
 ### Obraz się zacina lub ciągle wczytuje
-Sprawdź sieć. 4K potrzebuje około 25 Mbit/s stabilnie, a połączenie kablowe jest pewniejsze niż Wi-Fi. Jeśli zacina się tylko jeden kanał lub film, problem zwykle leży po stronie dostawcy.
+Sprawdź sieć. 4K potrzebuje około 25 Mbit/s stabilnie, a połączenie kablowe jest pewniejsze niż Wi-Fi. Jeśli zacina się tylko jeden kanał lub film, problem zwykle leży po stronie dostawcy. Gdy obraz filmu zatrzymuje się w oczekiwaniu na dane, pojawia się na nim wskaźnik ładowania, dopóki nie ruszy dalej.
+
+### Ustawienia pokazują „Download stalled”
+Dostawca przestał w połowie wysyłać playlistę lub przewodnik TV i Nyvy zrezygnował po 30 sekundach. To, co już było, zostaje. Spróbuj ponownie później: *Ustawienia* → *Konto* → *Odśwież katalog*.
 
 ### Napisy się nie pojawiają
 Sprawdź, czy w *Dźwięk i napisy* wybrana jest właściwa ścieżka. Niektóre ścieżki mają tekst tylko dla kwestii w innych językach, a w cichych scenach nic się nie pojawia. Napisy z transmisji w TV na żywo są tylko wtedy, gdy kanał je nadaje.

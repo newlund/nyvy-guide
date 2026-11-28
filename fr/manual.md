@@ -240,7 +240,10 @@ Le démarrage s’est bloqué, et Nyvy réessaie tout seul, jusqu’à trois foi
 Le fournisseur liste le titre mais n’a plus le fichier. Cela ne peut pas être corrigé dans Nyvy. Choisis une autre version s’il y en a une.
 
 ### L’image saccade ou se recharge sans cesse
-Vérifie le réseau. La 4K demande environ 25 Mbit/s en continu, et une connexion filaire est plus fiable que le Wi-Fi. Si une seule chaîne ou un seul film saccade, le problème vient généralement du fournisseur.
+Vérifie le réseau. La 4K demande environ 25 Mbit/s en continu, et une connexion filaire est plus fiable que le Wi-Fi. Si une seule chaîne ou un seul film saccade, le problème vient généralement du fournisseur. Quand l’image d’un film s’arrête en attendant des données, un indicateur de chargement s’affiche dessus jusqu’à ce qu’elle reprenne.
+
+### Les réglages affichent « Download stalled »
+Le fournisseur a cessé d’envoyer la playlist ou le guide TV en cours de route, et Nyvy a abandonné au bout de 30 secondes. Ce que tu avais déjà est conservé. Réessaie plus tard : *Réglages* → *Compte* → *Mettre à jour le catalogue*.
 
 ### Les sous-titres n’apparaissent pas
 Vérifie que la bonne piste est choisie sous *Audio et sous-titres*. Certaines pistes ne contiennent du texte que pour les répliques dans d’autres langues, et rien n’apparaît dans les scènes silencieuses. Les sous-titres de la diffusion en direct n’existent que si la chaîne les envoie.

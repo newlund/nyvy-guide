@@ -240,7 +240,10 @@ Başlatma takıldı ve Nyvy en fazla üç kez kendiliğinden yeniden deniyor. Ge
 Sağlayıcı başlığı listeliyor ama dosyası artık yok. Bu Nyvy’de düzeltilemez. Varsa başka bir sürüm seçin.
 
 ### Görüntü takılıyor veya sürekli yükleniyor
-Ağı kontrol edin. 4K için yaklaşık 25 Mbit/sn kararlı hız gerekir ve kablolu bağlantı Wi-Fi’den daha güvenilirdir. Yalnızca bir kanal veya film takılıyorsa sorun genellikle sağlayıcıdadır.
+Ağı kontrol edin. 4K için yaklaşık 25 Mbit/sn kararlı hız gerekir ve kablolu bağlantı Wi-Fi’den daha güvenilirdir. Yalnızca bir kanal veya film takılıyorsa sorun genellikle sağlayıcıdadır. Bir filmin görüntüsü veri beklerken durduğunda, devam edene kadar üzerinde bir yükleme göstergesi görünür.
+
+### Ayarlar "Download stalled" gösteriyor
+Sağlayıcı oynatma listesini veya TV rehberini yarıda göndermeyi bıraktı ve Nyvy 30 saniye sonra vazgeçti. Önceden sahip olduklarınız korunur. Daha sonra tekrar deneyin: *Ayarlar* → *Hesap* → *Kataloğu güncelle*.
 
 ### Altyazılar görünmüyor
 *Ses ve altyazı* altında doğru parçanın seçili olduğunu kontrol edin. Bazı parçalar yalnızca başka dillerdeki repliklerin metnini içerir ve sessiz sahnelerde hiçbir şey görünmez. Canlı TV’deki yayın altyazıları yalnızca kanal onları gönderdiğinde vardır.

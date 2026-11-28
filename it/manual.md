@@ -240,7 +240,10 @@ L’avvio si è bloccato, e Nyvy riprova da solo fino a tre volte. Di solito è 
 Il fornitore elenca il titolo ma non ha più il file. Non si può risolvere in Nyvy. Scegli un’altra versione, se c’è.
 
 ### L’immagine scatta o continua a caricare
-Controlla la rete. Il 4K richiede circa 25 Mbit/s costanti, e una connessione via cavo è più affidabile del Wi-Fi. Se scatta solo un canale o un film, il problema di solito è del fornitore.
+Controlla la rete. Il 4K richiede circa 25 Mbit/s costanti, e una connessione via cavo è più affidabile del Wi-Fi. Se scatta solo un canale o un film, il problema di solito è del fornitore. Quando l’immagine di un film si ferma in attesa di dati, compare un indicatore di caricamento finché non riprende.
+
+### Le impostazioni mostrano «Download stalled»
+Il provider ha smesso di inviare la playlist o la guida TV a metà, e Nyvy ha rinunciato dopo 30 secondi. Quello che avevi già resta. Riprova più tardi: *Impostazioni* → *Account* → *Aggiorna catalogo*.
 
 ### I sottotitoli non compaiono
 Controlla che in *Audio e sottotitoli* sia scelta la traccia giusta. Alcune tracce hanno testo solo per le battute in altre lingue, e nelle scene silenziose non compare nulla. I sottotitoli della trasmissione nella TV in diretta ci sono solo se il canale li invia.

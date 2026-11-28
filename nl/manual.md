@@ -240,7 +240,10 @@ Het starten bleef hangen, en Nyvy probeert het zelf tot drie keer opnieuw. Meest
 De aanbieder toont de titel, maar heeft het bestand niet meer. Dat kan in Nyvy niet worden opgelost. Kies een andere versie als die er is.
 
 ### Het beeld hapert of blijft laden
-Controleer het netwerk. 4K heeft ongeveer 25 Mbit/s stabiel nodig, en een bekabelde verbinding is betrouwbaarder dan wifi. Hapert maar één zender of film, dan ligt het probleem meestal bij de aanbieder.
+Controleer het netwerk. 4K heeft ongeveer 25 Mbit/s stabiel nodig, en een bekabelde verbinding is betrouwbaarder dan wifi. Hapert maar één zender of film, dan ligt het probleem meestal bij de aanbieder. Als het beeld van een film stilstaat omdat het op data wacht, verschijnt er een laadcirkel op tot het verdergaat.
+
+### Instellingen toont "Download stalled"
+De aanbieder stopte halverwege met het sturen van de playlist of tv-gids, en Nyvy gaf het na 30 seconden op. Wat je al had, blijft bewaard. Probeer het later opnieuw: *Instellingen* → *Account* → *Aanbod bijwerken*.
 
 ### Ondertitels verschijnen niet
 Controleer of onder *Audio en ondertiteling* het juiste spoor gekozen is. Sommige sporen hebben alleen tekst voor zinnen in andere talen, en in stille scènes verschijnt niets. Ondertitels van de uitzending bij live tv zijn er alleen als de zender ze uitzendt.

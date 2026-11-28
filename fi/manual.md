@@ -240,7 +240,10 @@ Käynnistys jumittui, ja Nyvy yrittää itse uudelleen enintään kolme kertaa. 
 Palveluntarjoaja listaa nimikkeen, mutta tiedostoa ei enää ole. Sitä ei voi korjata Nyvyssä. Valitse toinen versio, jos sellainen on.
 
 ### Kuva pätkii tai latautuu jatkuvasti
-Tarkista verkko. 4K tarvitsee noin 25 Mbit/s tasaisesti, ja kiinteä yhteys on luotettavampi kuin wifi. Jos vain yksi kanava tai elokuva pätkii, ongelma on yleensä palveluntarjoajan päässä.
+Tarkista verkko. 4K tarvitsee noin 25 Mbit/s tasaisesti, ja kiinteä yhteys on luotettavampi kuin wifi. Jos vain yksi kanava tai elokuva pätkii, ongelma on yleensä palveluntarjoajan päässä. Kun elokuvan kuva pysähtyy odottamaan dataa, sen päälle tulee latausosoitin, kunnes kuva jatkuu.
+
+### Asetuksissa lukee "Download stalled"
+Palveluntarjoaja lakkasi lähettämästä soittolistaa tai TV-opasta kesken, ja Nyvy luovutti 30 sekunnin jälkeen. Se, mitä sinulla jo oli, säilyy. Yritä myöhemmin uudelleen: *Asetukset* → *Tili* → *Päivitä valikoima*.
 
 ### Tekstitykset eivät näy
 Tarkista, että oikea raita on valittu kohdassa *Ääni ja tekstitys*. Joissakin raidoissa on tekstiä vain muunkielisille repliikeille, eikä hiljaisissa kohtauksissa näy mitään. Lähetyksen tekstitykset suorassa TV:ssä ovat käytössä vain, kun kanava lähettää niitä.
